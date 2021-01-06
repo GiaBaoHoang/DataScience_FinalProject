@@ -1,0 +1,2401 @@
+brand	body style	year	mileage	engine	fuel type	number of owners	price
+Honda CR-Z	CVT	2013	75,011	1.5L Inline-4 Hybrid	Hybrid		
+Honda Fit	Manual	2013	57,419	1.5L Inline-4 Gas	Gas		
+Honda Accord	LX-S Coupe I4 Automatic	2013	66,305	2.4L Inline-4 Gas	Gas		
+Honda Civic	LX Sedan Automatic	2013	76,882	1.8L Inline-4 Gas	Gas		
+Honda Civic	LX Sedan Automatic	2013	113,673	1.8L Inline-4 Gas	Gas		
+Honda Civic	LX Sedan Automatic	2013	128,945	1.8L Inline-4 Gas	Gas		
+Honda CR-V	EX FWD	2013	174,662	2.4L Inline-4 Gas	Gas		
+Honda Civic	LX Sedan Automatic	2013	40,000	1.8L Inline-4 Gas	Gas		
+Honda CR-V	LX AWD	2013	168,786	2.4L Inline-4 Gas	Gas		
+Honda Accord	EX-L V6 Coupe Automatic	2013	111,399	3.5L V-6 Gas	Gas		
+Honda Accord	LX Sedan I4 CVT	2013	149,875	2.4L Inline-4 Gas	Gas		
+Honda Civic	EX Coupe Automatic	2013	106,847	1.8L Inline-4 Gas	Gas		
+Honda Civic	LX Sedan Automatic	2013	120,100	1.8L Inline-4 Gas	Gas		
+Honda CR-V	EX-L FWD	2013	107,978	2.4L Inline-4 Gas	Gas		
+Honda CR-V	EX-L AWD	2013	69,089	2.4L Inline-4 Gas	Gas		
+Honda Accord	EX-L Sedan I4 CVT	2013	121,113	2.4L Inline-4 Gas	Gas		
+Honda Accord	EX-L Sedan I4 CVT	2013	183,994	2.4L Inline-4 Gas	Gas		
+Honda Odyssey	EX-L	2013	106,138	3.5L V-6 Gas	Gas		
+Honda Civic	LX Sedan Automatic	2013	69,801	1.8L Inline-4 Gas	Gas		
+Honda Civic	EX Sedan Automatic	2013	50,286	1.8L Inline-4 Gas	Gas		
+Honda CR-V	EX-L FWD	2013	104,952	2.4L Inline-4 Gas	Gas		
+Honda Accord	Sport Sedan I4 CVT	2013	134,819	2.4L Inline-4 Gas	Gas		
+Honda Odyssey	EX	2013	104,262	3.5L V-6 Gas	Gas		
+Honda Civic	LX Sedan Automatic	2013	76,603	1.8L Inline-4 Gas	Gas		
+Honda Fit	Automatic	2013	67,000	1.5L Inline-4 Gas	Gas		
+Honda Civic	LX Sedan Automatic	2013	103,445	1.8L Inline-4 Gas	Gas		
+Honda Civic	LX Sedan Automatic	2013	152,827	1.8L Inline-4 Gas	Gas		
+Honda Accord	EX-L Sedan I4 CVT	2013	140,702	2.4L Inline-4 Gas	Gas		
+Honda Odyssey	Touring	2013	112,052	3.5L V-6 Gas	Gas		
+Honda Accord	LX Sedan I4 CVT	2013	116,774	2.4L Inline-4 Gas	Gas		
+Honda CR-V	EX-L AWD	2013	108,288	2.4L Inline-4 Gas	Gas		
+Honda Fit	Automatic	2013	54,000	1.5L Inline-4 Gas	Gas		
+Honda Accord	EX-L Sedan I4 CVT	2013	105,093	2.4L Inline-4 Gas	Gas		
+Honda CR-Z	CVT	2013	75,011	1.5L Inline-4 Hybrid	Hybrid		
+Honda Fit	Manual	2013	57,419	1.5L Inline-4 Gas	Gas		
+Honda Accord	LX-S Coupe I4 Automatic	2013	66,305	2.4L Inline-4 Gas	Gas		
+Honda Civic	LX Sedan Automatic	2013	76,882	1.8L Inline-4 Gas	Gas		
+Honda Civic	LX Sedan Automatic	2013	113,673	1.8L Inline-4 Gas	Gas		
+Honda Civic	LX Sedan Automatic	2013	128,945	1.8L Inline-4 Gas	Gas		
+Honda CR-V	EX FWD	2013	174,662	2.4L Inline-4 Gas	Gas		
+Honda Civic	LX Sedan Automatic	2013	40,000	1.8L Inline-4 Gas	Gas		
+Honda CR-V	LX AWD	2013	168,786	2.4L Inline-4 Gas	Gas		
+Honda Accord	EX-L V6 Coupe Automatic	2013	111,399	3.5L V-6 Gas	Gas		
+Honda Accord	LX Sedan I4 CVT	2013	149,875	2.4L Inline-4 Gas	Gas		
+Honda Civic	EX Coupe Automatic	2013	106,847	1.8L Inline-4 Gas	Gas		
+Honda Civic	LX Sedan Automatic	2013	120,100	1.8L Inline-4 Gas	Gas		
+Honda CR-V	EX-L FWD	2013	107,978	2.4L Inline-4 Gas	Gas		
+Honda CR-V	EX-L AWD	2013	69,089	2.4L Inline-4 Gas	Gas		
+Honda Accord	EX-L Sedan I4 CVT	2013	121,113	2.4L Inline-4 Gas	Gas		
+Honda Accord	EX-L Sedan I4 CVT	2013	183,994	2.4L Inline-4 Gas	Gas		
+Honda Odyssey	EX-L	2013	106,138	3.5L V-6 Gas	Gas		
+Honda Civic	LX Sedan Automatic	2013	69,801	1.8L Inline-4 Gas	Gas		
+Honda Civic	EX Sedan Automatic	2013	50,286	1.8L Inline-4 Gas	Gas		
+Honda CR-V	EX-L FWD	2013	104,952	2.4L Inline-4 Gas	Gas		
+Honda Accord	Sport Sedan I4 CVT	2013	134,819	2.4L Inline-4 Gas	Gas		
+Honda Odyssey	EX	2013	104,262	3.5L V-6 Gas	Gas		
+Honda Civic	LX Sedan Automatic	2013	76,603	1.8L Inline-4 Gas	Gas		
+Honda Fit	Automatic	2013	67,000	1.5L Inline-4 Gas	Gas		
+Honda Civic	LX Sedan Automatic	2013	103,445	1.8L Inline-4 Gas	Gas		
+Honda Civic	LX Sedan Automatic	2013	152,827	1.8L Inline-4 Gas	Gas		
+Honda Accord	EX-L Sedan I4 CVT	2013	140,702	2.4L Inline-4 Gas	Gas		
+Honda Odyssey	Touring	2013	112,052	3.5L V-6 Gas	Gas		
+Honda Accord	LX Sedan I4 CVT	2013	116,774	2.4L Inline-4 Gas	Gas		
+Honda CR-V	EX-L AWD	2013	108,288	2.4L Inline-4 Gas	Gas		
+Honda Fit	Automatic	2013	54,000	1.5L Inline-4 Gas	Gas		
+Honda Accord	EX-L Sedan I4 CVT	2013	105,093	2.4L Inline-4 Gas	Gas		
+Honda Accord	EX-L V6 Sedan Automatic	2013	118,795	3.5L V-6 Gas	Gas		
+Honda Accord	EX Sedan I4 CVT	2013	87,716	2.4L Inline-4 Gas	Gas		
+Honda Civic	LX Sedan Automatic	2013	87,577	1.8L Inline-4 Gas	Gas		
+Honda Accord	Sport Sedan I4 CVT	2013	159,113	2.4L Inline-4 Gas	Gas		
+Honda Accord	EX-L Sedan I4 CVT	2013	109,304	2.4L Inline-4 Gas	Gas		
+Honda Ridgeline	RTL 4WD	2013	gthShort Bed	3.5L V-6 Gas	Gas		
+Honda Civic	LX Coupe Automatic	2013	70,464	1.8L Inline-4 Gas	Gas		
+Honda Civic	EX-L Sedan Automatic	2013	68,470	1.8L Inline-4 Gas	Gas		
+Honda CR-V	EX AWD	2013	144,244	2.4L Inline-4 Gas	Gas		
+Honda Civic	Hybrid Sedan I4 CVT	2013	102,809	1.5L Inline-4 Hybrid	Hybrid		
+Honda CR-V	EX AWD	2013	136,309	2.4L Inline-4 Gas	Gas		
+Honda CR-V	EX-L AWD	2013	74,887	2.4L Inline-4 Gas	Gas		
+Honda Pilot	Touring with Navigation/Rear Entertainment System FWD	2013	68,732	3.5L V-6 Gas	Gas		
+Honda CR-V	EX-L AWD	2013	88,486	2.4L Inline-4 Gas	Gas		
+Honda CR-V	EX FWD	2013	128,049	2.4L Inline-4 Gas	Gas		
+Honda CR-V	EX FWD	2013	80,435	2.4L Inline-4 Gas	Gas		
+Honda Accord	LX Sedan I4 CVT	2013	47,402	2.4L Inline-4 Gas	Gas		
+Honda Civic	Hybrid Sedan I4 CVT	2013	84,533	1.5L Inline-4 Hybrid	Hybrid		
+Honda Accord	Sport Sedan I4 CVT	2013	73,774	2.4L Inline-4 Gas	Gas		
+Honda Accord	LX Sedan I4 CVT	2013	102,952	2.4L Inline-4 Gas	Gas		
+Honda CR-V	EX FWD	2013	97,124	2.4L Inline-4 Gas	Gas		
+Honda CR-V	EX AWD	2013	91,677	2.4L Inline-4 Gas	Gas		
+Honda Accord	EX-L V6 Sedan Automatic	2013	75,660	3.5L V-6 Gas	Gas		
+Honda Accord	EX-L Sedan I4 CVT	2013	108,500	2.4L Inline-4 Gas	Gas		
+Honda Accord	EX-L Sedan I4 CVT	2013	99,256	2.4L Inline-4 Gas	Gas		
+Honda Odyssey	LX	2013	118,756	3.5L V-6 Gas	Gas		
+Honda Odyssey	Touring Elite	2013	151,754	3.5L V-6 Gas	Gas		
+Honda Odyssey	EX-L	2013	131,137	3.5L V-6 Gas	Gas		
+Honda Civic	LX Sedan Automatic	2013	141,724	1.8L Inline-4 Gas	Gas		
+Honda CR-V	EX-L AWD	2013	105,330	2.4L Inline-4 Gas	Gas		
+Honda Accord	LX Sedan I4 CVT	2013	60,330	2.4L Inline-4 Gas	Gas		
+Honda Civic	EX Sedan Automatic	2013	98,057	1.8L Inline-4 Gas	Gas		
+Honda Civic	Hybrid Sedan I4 CVT	2013	66,499	1.5L Inline-4 Hybrid	Hybrid		
+Honda Civic	EX-L Coupe Automatic	2013	111,029	1.8L Inline-4 Gas	Gas		
+Honda Accord	LX Sedan I4 CVT	2014	65,326	2.4L Inline-4 Gas	Gas		
+Honda Odyssey	EX	2014	110,020	3.5L V-6 Gas	Gas		
+Honda Accord	LX Sedan I4 CVT	2014	72,835	2.4L Inline-4 Gas	Gas		
+Honda Accord	LX Sedan I4 CVT	2014	149,800	2.4L Inline-4 Gas	Gas		
+Honda Civic	LX Sedan CVT	2014	36,240	1.8L Inline-4 Gas	Gas		
+Honda CR-V	EX-L AWD	2014	169,813	2.4L Inline-4 Gas	Gas		
+Honda Civic	LX Sedan CVT	2014	67,023	1.8L Inline-4 Gas	Gas		
+Honda Civic	EX Coupe CVT	2014	82,660	1.8L Inline-4 Gas	Gas		
+Honda Civic	LX Sedan CVT	2014	100,096	1.8L Inline-4 Gas	Gas		
+Honda Civic	Hybrid Sedan I4 CVT	2014	199,890	1.5L Inline-4 Hybrid	Hybrid		
+Honda Civic	LX Sedan CVT	2014	134,242	1.8L Inline-4 Gas	Gas		
+Honda CR-V	EX-L AWD	2014	74,893	2.4L Inline-4 Gas	Gas		
+Honda Civic	EX Sedan CVT	2014	125,359	1.8L Inline-4 Gas	Gas		
+Honda Civic	LX Sedan CVT	2014	52,250	1.8L Inline-4 Gas	Gas		
+Honda Civic	CNG Sedan Automatic	2014	50,308	1.8L Inline-4 CNG	CNG		
+Honda Accord	EX-L with Navigation Sedan I4 CVT	2014	115,710	2.4L Inline-4 Gas	Gas		
+Honda Odyssey	EX-L	2014	90,956	3.5L V-6 Gas	Gas		
+Honda CR-V	EX-L FWD	2014	134,112	2.4L Inline-4 Gas	Gas		
+Honda Odyssey	EX-L	2014	143,781	3.5L V-6 Gas	Gas		
+Honda CR-V	EX-L FWD	2014	193,241	2.4L Inline-4 Gas	Gas		
+Honda Accord	LX Sedan I4 Manual	2014	93,032	2.4L Inline-4 Gas	Gas		
+Honda Civic	LX Sedan CVT	2014	97,395	1.8L Inline-4 Gas	Gas		
+Honda Accord	Sport Sedan I4 CVT	2014	97,343	2.4L Inline-4 Gas	Gas		
+Honda CR-V	EX-L FWD	2014	97,573	2.4L Inline-4 Gas	Gas		
+Honda Accord	EX Sedan I4 CVT	2014	79,565	2.4L Inline-4 Gas	Gas		
+Honda Civic	LX Sedan CVT	2014	100,000	1.8L Inline-4 Gas	Gas		
+Honda Accord	EX-L V6 with Navigation Sedan Automatic	2014	48,443	3.5L V-6 Gas	Gas		
+Honda Accord	EX-L Sedan I4 CVT	2014	44,763	2.4L Inline-4 Gas	Gas		
+Honda Accord	LX Sedan I4 CVT	2014	217,900	2.4L Inline-4 Gas	Gas		
+Honda Civic	LX Sedan CVT	2014	83,196	1.8L Inline-4 Gas	Gas		
+Honda Accord	EX-L Sedan I4 CVT	2014	67,361	2.4L Inline-4 Gas	Gas		
+Honda Civic	EX Coupe Manual	2014	116,341	1.8L Inline-4 Gas	Gas		
+Honda Civic	EX Sedan CVT	2014	97,095	1.8L Inline-4 Gas	Gas		
+Honda Accord	LX Sedan I4 CVT	2014	65,326	2.4L Inline-4 Gas	Gas		
+Honda Odyssey	EX	2014	110,020	3.5L V-6 Gas	Gas		
+Honda Accord	LX Sedan I4 CVT	2014	72,835	2.4L Inline-4 Gas	Gas		
+Honda Accord	LX Sedan I4 CVT	2014	149,800	2.4L Inline-4 Gas	Gas		
+Honda Civic	LX Sedan CVT	2014	36,240	1.8L Inline-4 Gas	Gas		
+Honda CR-V	EX-L AWD	2014	169,813	2.4L Inline-4 Gas	Gas		
+Honda Civic	LX Sedan CVT	2014	67,023	1.8L Inline-4 Gas	Gas		
+Honda Civic	EX Coupe CVT	2014	82,660	1.8L Inline-4 Gas	Gas		
+Honda Civic	LX Sedan CVT	2014	100,096	1.8L Inline-4 Gas	Gas		
+Honda Civic	Hybrid Sedan I4 CVT	2014	199,890	1.5L Inline-4 Hybrid	Hybrid		
+Honda Civic	LX Sedan CVT	2014	134,242	1.8L Inline-4 Gas	Gas		
+Honda CR-V	EX-L AWD	2014	74,893	2.4L Inline-4 Gas	Gas		
+Honda Civic	EX Sedan CVT	2014	125,359	1.8L Inline-4 Gas	Gas		
+Honda Civic	LX Sedan CVT	2014	52,250	1.8L Inline-4 Gas	Gas		
+Honda Civic	CNG Sedan Automatic	2014	50,308	1.8L Inline-4 CNG	CNG		
+Honda Accord	EX-L with Navigation Sedan I4 CVT	2014	115,710	2.4L Inline-4 Gas	Gas		
+Honda Odyssey	EX-L	2014	90,956	3.5L V-6 Gas	Gas		
+Honda CR-V	EX-L FWD	2014	134,112	2.4L Inline-4 Gas	Gas		
+Honda Odyssey	EX-L	2014	143,781	3.5L V-6 Gas	Gas		
+Honda CR-V	EX-L FWD	2014	193,241	2.4L Inline-4 Gas	Gas		
+Honda Accord	LX Sedan I4 Manual	2014	93,032	2.4L Inline-4 Gas	Gas		
+Honda Civic	LX Sedan CVT	2014	97,395	1.8L Inline-4 Gas	Gas		
+Honda Accord	Sport Sedan I4 CVT	2014	97,343	2.4L Inline-4 Gas	Gas		
+Honda CR-V	EX-L FWD	2014	97,573	2.4L Inline-4 Gas	Gas		
+Honda Accord	EX Sedan I4 CVT	2014	79,565	2.4L Inline-4 Gas	Gas		
+Honda Civic	LX Sedan CVT	2014	100,000	1.8L Inline-4 Gas	Gas		
+Honda Accord	EX-L V6 with Navigation Sedan Automatic	2014	48,443	3.5L V-6 Gas	Gas		
+Honda Accord	EX-L Sedan I4 CVT	2014	44,763	2.4L Inline-4 Gas	Gas		
+Honda Accord	LX Sedan I4 CVT	2014	217,900	2.4L Inline-4 Gas	Gas		
+Honda Civic	LX Sedan CVT	2014	83,196	1.8L Inline-4 Gas	Gas		
+Honda Accord	EX-L Sedan I4 CVT	2014	67,361	2.4L Inline-4 Gas	Gas		
+Honda Civic	EX Coupe Manual	2014	116,341	1.8L Inline-4 Gas	Gas		
+Honda Civic	EX Sedan CVT	2014	97,095	1.8L Inline-4 Gas	Gas		
+Honda Accord	EX-L V6 Coupe Automatic	2014	80,865	3.5L V-6 Gas	Gas		
+Honda Accord	EX-L V6 Sedan Automatic	2014	58,428	3.5L V-6 Gas	Gas		
+Honda Odyssey	EX-L	2014	157,290	3.5L V-6 Gas	Gas		
+Honda Civic	EX Sedan CVT	2014	74,707	1.8L Inline-4 Gas	Gas		
+Honda Civic	LX Sedan CVT	2014	33,228	1.8L Inline-4 Gas	Gas		
+Honda Odyssey	Touring	2014	102,115	3.5L V-6 Gas	Gas		
+Honda Accord	EX-L Sedan I4 CVT	2014	62,698	2.4L Inline-4 Gas	Gas		
+Honda Odyssey	Touring Elite	2014	103,603	3.5L V-6 Gas	Gas		
+Honda Accord	EX Sedan I4 CVT	2014	169,705	2.4L Inline-4 Gas	Gas		
+Honda Odyssey	EX-L	2014	87,737	3.5L V-6 Gas	Gas		
+Honda Accord	LX Sedan I4 CVT	2014	139,502	2.4L Inline-4 Gas	Gas		
+Honda Accord	LX Sedan I4 CVT	2014	97,720	2.4L Inline-4 Gas	Gas		
+Honda Accord	EX-L Sedan I4 CVT	2014	145,058	2.4L Inline-4 Gas	Gas		
+Honda Accord	EX-L V6 with Navigation Sedan Automatic	2014	103,124	3.5L V-6 Gas	Gas		
+Honda Civic	EX-L Sedan CVT	2014	62,583	1.8L Inline-4 Gas	Gas		
+Honda Accord	Sport Sedan I4 CVT	2014	192,266	2.4L Inline-4 Gas	Gas		
+Honda Accord	Sport Sedan I4 CVT	2014	81,569	2.4L Inline-4 Gas	Gas		
+Honda CR-V	EX AWD	2014	119,141	2.4L Inline-4 Gas	Gas		
+Honda Accord	Sport Sedan I4 CVT	2014	62,068	2.4L Inline-4 Gas	Gas		
+Honda Accord	EX-L with Navigation Sedan I4 CVT	2014	124,810	2.4L Inline-4 Gas	Gas		
+Honda CR-V	EX-L with Navigation FWD	2014	134,889	2.4L Inline-4 Gas	Gas		
+Honda Accord	LX Sedan I4 CVT	2014	68,151	2.4L Inline-4 Gas	Gas		
+Honda Pilot	LX FWD	2014	153,476	3.5L V-6 Gas	Gas		
+Honda Accord	LX Sedan I4 CVT	2014	95,344	2.4L Inline-4 Gas	Gas		
+Honda Accord	LX Sedan I4 CVT	2014	83,518	2.4L Inline-4 Gas	Gas		
+Honda Accord	Sport Sedan I4 CVT	2014	35,532	2.4L Inline-4 Gas	Gas		
+Honda Civic	EX Sedan CVT	2014	102,420	1.8L Inline-4 Gas	Gas		
+Honda Accord	Touring Sedan V6 Automatic	2014	149,259	3.5L V-6 Gas	Gas		
+Honda CR-V	EX AWD	2014	105,379	2.4L Inline-4 Gas	Gas		
+Honda Accord	EX-L V6 Coupe Automatic	2014	53,172	3.5L V-6 Gas	Gas		
+Honda CR-V	EX-L AWD	2014	49,046	2.4L Inline-4 Gas	Gas		
+Honda Accord	LX Sedan I4 CVT	2014	71,642	2.4L Inline-4 Gas	Gas		
+Honda CR-V	EX-L AWD	2014	144,457	2.4L Inline-4 Gas	Gas		
+Honda CR-V	EX-L FWD	2014	74,132	2.4L Inline-4 Gas	Gas		
+Honda CR-V	EX FWD	2015	52,021	2.4L Inline-4 Gas	Gas		
+Honda Odyssey	EX-L	2015	88,832	3.5L V-6 Gas	Gas		
+Honda Odyssey	EX-L	2015	73,733	3.5L V-6 Gas	Gas		
+Honda Accord	EX-L Coupe I4 CVT	2015	83,626	2.4L Inline-4 Gas	Gas		
+Honda Accord	LX Sedan I4 CVT	2015	57,713	2.4L Inline-4 Gas	Gas		
+Honda Fit	LX CVT	2015	104,257	1.5L Inline-4 Gas	Gas		
+Honda Fit	EX CVT	2015	60,029	1.5L Inline-4 Gas	Gas		
+Honda Civic	Si Coupe Manual	2015	95,203	2.4L Inline-4 Gas	Gas		
+Honda Civic	LX Sedan CVT	2015	67,876	1.8L Inline-4 Gas	Gas		
+Honda Accord	EX-L Sedan I4 CVT	2015	75,977	2.4L Inline-4 Gas	Gas		
+Honda Fit	EX Manual	2015	70,568	1.5L Inline-4 Gas	Gas		
+Honda Accord	Sport Sedan I4 CVT	2015	101,496	2.4L Inline-4 Gas	Gas		
+Honda Accord	LX Sedan I4 CVT	2015	74,375	2.4L Inline-4 Gas	Gas		
+Honda Civic	Hybrid Sedan I4 CVT	2015	99,034	1.5L Inline-4 Hybrid	Hybrid		
+Honda Civic	Si with Navigation/Summer Tires Coupe Manual	2015	80,007	2.4L Inline-4 Gas	Gas		
+Honda Civic	Si Coupe Manual	2015	19,879	2.4L Inline-4 Gas	Gas		
+Honda Civic	LX Sedan CVT	2015	126,361	1.8L Inline-4 Gas	Gas		
+Honda Civic	LX Sedan CVT	2015	63,925	1.8L Inline-4 Gas	Gas		
+Honda Odyssey	Touring Elite	2015	73,959	3.5L V-6 Gas	Gas		
+Honda Fit	EX CVT	2015	103,764	1.5L Inline-4 Gas	Gas		
+Honda Fit	EX CVT	2015	117,625	1.5L Inline-4 Gas	Gas		
+Honda Civic	LX Sedan CVT	2015	54,899	1.8L Inline-4 Gas	Gas		
+Honda Accord	EX-L Sedan I4 CVT	2015	73,072	2.4L Inline-4 Gas	Gas		
+Honda Civic	LX Sedan CVT	2015	64,338	1.8L Inline-4 Gas	Gas		
+Honda Accord	Sport Sedan I4 CVT	2015	70,877	2.4L Inline-4 Gas	Gas		
+Honda CR-V	LX AWD	2015	74,428	2.4L Inline-4 Gas	Gas		
+Honda CR-V	EX-L FWD	2015	85,558	2.4L Inline-4 Gas	Gas		
+Honda CR-V	EX FWD	2015	94,396	2.4L Inline-4 Gas	Gas		
+Honda CR-V	EX AWD	2015	49,274	2.4L Inline-4 Gas	Gas		
+Honda Civic	LX Coupe CVT	2015	73,338	1.8L Inline-4 Gas	Gas		
+Honda CR-V	LX FWD	2015	99,823	2.4L Inline-4 Gas	Gas		
+Honda Accord	EX-L Coupe I4 CVT	2015	48,478	2.4L Inline-4 Gas	Gas		
+Honda Civic	EX Sedan CVT	2015	93,615	1.8L Inline-4 Gas	Gas		
+Honda CR-V	EX FWD	2015	52,021	2.4L Inline-4 Gas	Gas		
+Honda Odyssey	EX-L	2015	88,832	3.5L V-6 Gas	Gas		
+Honda Odyssey	EX-L	2015	73,733	3.5L V-6 Gas	Gas		
+Honda Accord	EX-L Coupe I4 CVT	2015	83,626	2.4L Inline-4 Gas	Gas		
+Honda Accord	LX Sedan I4 CVT	2015	57,713	2.4L Inline-4 Gas	Gas		
+Honda Fit	LX CVT	2015	104,257	1.5L Inline-4 Gas	Gas		
+Honda Fit	EX CVT	2015	60,029	1.5L Inline-4 Gas	Gas		
+Honda Civic	Si Coupe Manual	2015	95,203	2.4L Inline-4 Gas	Gas		
+Honda Civic	LX Sedan CVT	2015	67,876	1.8L Inline-4 Gas	Gas		
+Honda Accord	EX-L Sedan I4 CVT	2015	75,977	2.4L Inline-4 Gas	Gas		
+Honda Fit	EX Manual	2015	70,568	1.5L Inline-4 Gas	Gas		
+Honda Accord	Sport Sedan I4 CVT	2015	101,496	2.4L Inline-4 Gas	Gas		
+Honda Accord	LX Sedan I4 CVT	2015	74,375	2.4L Inline-4 Gas	Gas		
+Honda Civic	Hybrid Sedan I4 CVT	2015	99,034	1.5L Inline-4 Hybrid	Hybrid		
+Honda Civic	Si with Navigation/Summer Tires Coupe Manual	2015	80,007	2.4L Inline-4 Gas	Gas		
+Honda Civic	Si Coupe Manual	2015	19,879	2.4L Inline-4 Gas	Gas		
+Honda Civic	LX Sedan CVT	2015	126,361	1.8L Inline-4 Gas	Gas		
+Honda Civic	LX Sedan CVT	2015	63,925	1.8L Inline-4 Gas	Gas		
+Honda Odyssey	Touring Elite	2015	73,959	3.5L V-6 Gas	Gas		
+Honda Fit	EX CVT	2015	103,764	1.5L Inline-4 Gas	Gas		
+Honda Fit	EX CVT	2015	117,625	1.5L Inline-4 Gas	Gas		
+Honda Civic	LX Sedan CVT	2015	54,899	1.8L Inline-4 Gas	Gas		
+Honda Accord	EX-L Sedan I4 CVT	2015	73,072	2.4L Inline-4 Gas	Gas		
+Honda Civic	LX Sedan CVT	2015	64,338	1.8L Inline-4 Gas	Gas		
+Honda Accord	Sport Sedan I4 CVT	2015	70,877	2.4L Inline-4 Gas	Gas		
+Honda CR-V	LX AWD	2015	74,428	2.4L Inline-4 Gas	Gas		
+Honda CR-V	EX-L FWD	2015	85,558	2.4L Inline-4 Gas	Gas		
+Honda CR-V	EX FWD	2015	94,396	2.4L Inline-4 Gas	Gas		
+Honda CR-V	EX AWD	2015	49,274	2.4L Inline-4 Gas	Gas		
+Honda Civic	LX Coupe CVT	2015	73,338	1.8L Inline-4 Gas	Gas		
+Honda CR-V	LX FWD	2015	99,823	2.4L Inline-4 Gas	Gas		
+Honda Accord	EX-L Coupe I4 CVT	2015	48,478	2.4L Inline-4 Gas	Gas		
+Honda Civic	EX Sedan CVT	2015	93,615	1.8L Inline-4 Gas	Gas		
+Honda Accord	LX Sedan I4 CVT	2015	100,945	2.4L Inline-4 Gas	Gas		
+Honda Accord	EX-L V6 Sedan Automatic	2015	49,720	3.5L V-6 Gas	Gas		
+Honda Civic	EX Sedan CVT	2015	51,931	1.8L Inline-4 Gas	Gas		
+Honda Accord	EX Sedan I4 CVT	2015	105,644	2.4L Inline-4 Gas	Gas		
+Honda Accord	LX Sedan I4 CVT	2015	88,806	2.4L Inline-4 Gas	Gas		
+Honda Civic	LX Sedan CVT	2015	37,299	1.8L Inline-4 Gas	Gas		
+Honda Civic	EX Sedan CVT	2015	99,592	1.8L Inline-4 Gas	Gas		
+Honda Odyssey	EX	2015	115,018	3.5L V-6 Gas	Gas		
+Honda Civic	LX Sedan CVT	2015	72,446	1.8L Inline-4 Gas	Gas		
+Honda Accord	LX Sedan I4 CVT	2015	63,551	2.4L Inline-4 Gas	Gas		
+Honda CR-V	EX FWD	2015	54,473	2.4L Inline-4 Gas	Gas		
+Honda Civic	LX Sedan CVT	2015	37,731	1.8L Inline-4 Gas	Gas		
+Honda Accord	LX-S Coupe I4 CVT	2015	229,347	2.4L Inline-4 Gas	Gas		
+Honda Pilot	EX-L 4WD	2015	139,457	3.5L V-6 Gas	Gas		
+Honda Civic	EX-L Sedan CVT	2015	72,820	1.8L Inline-4 Gas	Gas		
+Honda Accord	EX-L Sedan I4 CVT	2015	107,064	2.4L Inline-4 Gas	Gas		
+Honda Odyssey	Touring	2015	94,939	3.5L V-6 Gas	Gas		
+Honda Accord	EX-L Sedan I4 CVT	2015	94,951	2.4L Inline-4 Gas	Gas		
+Honda Odyssey	EX-L	2015	135,307	3.5L V-6 Gas	Gas		
+Honda Civic	LX Sedan CVT	2015	44,796	1.8L Inline-4 Gas	Gas		
+Honda CR-V	EX-L AWD	2015	55,959	2.4L Inline-4 Gas	Gas		
+Honda Civic	LX Sedan CVT	2015	97,093	1.8L Inline-4 Gas	Gas		
+Honda Odyssey	EX-L	2015	70,387	3.5L V-6 Gas	Gas		
+Honda CR-V	LX AWD	2015	52,691	2.4L Inline-4 Gas	Gas		
+Honda CR-V	EX-L AWD	2015	154,951	2.4L Inline-4 Gas	Gas		
+Honda Fit	EX CVT	2015	43,553	1.5L Inline-4 Gas	Gas		
+Honda Accord	EX-L V6 Coupe Automatic	2015	46,630	3.5L V-6 Gas	Gas		
+Honda Civic	LX Sedan CVT	2015	66,712	1.8L Inline-4 Gas	Gas		
+Honda Fit	EX CVT	2015	145,874	1.5L Inline-4 Gas	Gas		
+Honda Accord	EX-L V6 Sedan Automatic	2015	79,695	3.5L V-6 Gas	Gas		
+Honda Fit	EX CVT	2015	73,129	1.5L Inline-4 Gas	Gas		
+Honda Civic	EX Sedan CVT	2015	108,773	1.8L Inline-4 Gas	Gas		
+Honda Fit	LX Manual	2015	21,111	1.5L Inline-4 Gas	Gas		
+Honda CR-V	Touring FWD	2015	91,021	2.4L Inline-4 Gas	Gas		
+Honda Civic	LX Sedan CVT	2016	66,806	2.0L Inline-4 Gas	Gas		
+Honda Civic	EX-T with Honda Sensing Sedan CVT	2016	44,665	1.5L Inline-4 Gas Turbocharged	Gas		
+Honda Pilot	Elite with Navigation/Rear Entertainment System AWD	2016	59,947	3.5L V-6 Gas	Gas		
+Honda Civic	EX-T Sedan CVT	2016	111,839	1.5L Inline-4 Gas Turbocharged	Gas		
+Honda Civic	Touring Sedan CVT	2016	101,150	1.5L Inline-4 Gas Turbocharged	Gas		
+Honda Accord	LX Sedan I4 CVT	2016	58,956	2.4L Inline-4 Gas	Gas		
+Honda Odyssey	Touring Elite	2016	43,012	3.5L V-6 Gas	Gas		
+Honda Civic	EX Sedan CVT	2016	71,751	2.0L Inline-4 Gas	Gas		
+Honda Accord	EX-L Sedan I4 CVT	2016	195,707	2.4L Inline-4 Gas	Gas		
+Honda Odyssey	SE	2016	75,430	3.5L V-6 Gas	Gas		
+Honda Accord	Sport Sedan I4 CVT	2016	61,739	2.4L Inline-4 Gas	Gas		
+Honda Accord	LX Sedan I4 CVT	2016	80,907	2.4L Inline-4 Gas	Gas		
+Honda HR-V	LX FWD CVT	2016	59,277	1.8L Inline-4 Gas	Gas		
+Honda Accord	EX-L V6 Sedan Automatic	2016	98,855	3.5L V-6 Gas	Gas		
+Honda Accord	Sport Sedan I4 CVT	2016	170,468	2.4L Inline-4 Gas	Gas		
+Honda HR-V	EX-L with Navigation FWD CVT	2016	48,505	1.8L Inline-4 Gas	Gas		
+Honda Civic	LX Sedan CVT	2016	83,737	2.0L Inline-4 Gas	Gas		
+Honda HR-V	EX FWD CVT	2016	146,784	1.8L Inline-4 Gas	Gas		
+Honda CR-V	Touring FWD	2016	80,934	2.4L Inline-4 Gas	Gas		
+Honda Civic	LX Sedan CVT	2016	38,183	2.0L Inline-4 Gas	Gas		
+Honda Accord	Sport Sedan I4 CVT	2016	116,398	2.4L Inline-4 Gas	Gas		
+Honda CR-V	EX-L AWD	2016	38,118	2.4L Inline-4 Gas	Gas		
+Honda Civic	EX Sedan CVT	2016	59,939	2.0L Inline-4 Gas	Gas		
+Honda Accord	EX-L V6 with Honda Sensing/Navigation Coupe Automatic	2016	16,401	3.5L V-6 Gas	Gas		
+Honda Civic	LX Sedan CVT	2016	50,295	2.0L Inline-4 Gas	Gas		
+Honda Civic	Touring Sedan CVT	2016	40,461	1.5L Inline-4 Gas Turbocharged	Gas		
+Honda Civic	EX Sedan CVT	2016	43,129	2.0L Inline-4 Gas	Gas		
+Honda Accord	EX-L Sedan I4 CVT	2016	94,394	2.4L Inline-4 Gas	Gas		
+Honda Accord	Touring Coupe V6 Automatic	2016	22,638	3.5L V-6 Gas	Gas		
+Honda Odyssey	EX-L	2016	57,900	3.5L V-6 Gas	Gas		
+Honda Civic	LX Sedan CVT	2016	43,295	2.0L Inline-4 Gas	Gas		
+Honda Odyssey	EX-L	2016	122,430	3.5L V-6 Gas	Gas		
+Honda Accord	LX Sedan I4 CVT	2016	125,579	2.4L Inline-4 Gas	Gas		
+Honda Civic	LX Sedan CVT	2016	66,806	2.0L Inline-4 Gas	Gas		
+Honda Civic	EX-T with Honda Sensing Sedan CVT	2016	44,665	1.5L Inline-4 Gas Turbocharged	Gas		
+Honda Pilot	Elite with Navigation/Rear Entertainment System AWD	2016	59,947	3.5L V-6 Gas	Gas		
+Honda Civic	EX-T Sedan CVT	2016	111,839	1.5L Inline-4 Gas Turbocharged	Gas		
+Honda Civic	Touring Sedan CVT	2016	101,150	1.5L Inline-4 Gas Turbocharged	Gas		
+Honda Accord	LX Sedan I4 CVT	2016	58,956	2.4L Inline-4 Gas	Gas		
+Honda Odyssey	Touring Elite	2016	43,012	3.5L V-6 Gas	Gas		
+Honda Civic	EX Sedan CVT	2016	71,751	2.0L Inline-4 Gas	Gas		
+Honda Accord	EX-L Sedan I4 CVT	2016	195,707	2.4L Inline-4 Gas	Gas		
+Honda Odyssey	SE	2016	75,430	3.5L V-6 Gas	Gas		
+Honda Accord	Sport Sedan I4 CVT	2016	61,739	2.4L Inline-4 Gas	Gas		
+Honda Accord	LX Sedan I4 CVT	2016	80,907	2.4L Inline-4 Gas	Gas		
+Honda HR-V	LX FWD CVT	2016	59,277	1.8L Inline-4 Gas	Gas		
+Honda Accord	EX-L V6 Sedan Automatic	2016	98,855	3.5L V-6 Gas	Gas		
+Honda Accord	Sport Sedan I4 CVT	2016	170,468	2.4L Inline-4 Gas	Gas		
+Honda HR-V	EX-L with Navigation FWD CVT	2016	48,505	1.8L Inline-4 Gas	Gas		
+Honda Civic	LX Sedan CVT	2016	83,737	2.0L Inline-4 Gas	Gas		
+Honda HR-V	EX FWD CVT	2016	146,784	1.8L Inline-4 Gas	Gas		
+Honda CR-V	Touring FWD	2016	80,934	2.4L Inline-4 Gas	Gas		
+Honda Civic	LX Sedan CVT	2016	38,183	2.0L Inline-4 Gas	Gas		
+Honda Accord	Sport Sedan I4 CVT	2016	116,398	2.4L Inline-4 Gas	Gas		
+Honda CR-V	EX-L AWD	2016	38,118	2.4L Inline-4 Gas	Gas		
+Honda Civic	EX Sedan CVT	2016	59,939	2.0L Inline-4 Gas	Gas		
+Honda Accord	EX-L V6 with Honda Sensing/Navigation Coupe Automatic	2016	16,401	3.5L V-6 Gas	Gas		
+Honda Civic	LX Sedan CVT	2016	50,295	2.0L Inline-4 Gas	Gas		
+Honda Civic	Touring Sedan CVT	2016	40,461	1.5L Inline-4 Gas Turbocharged	Gas		
+Honda Civic	EX Sedan CVT	2016	43,129	2.0L Inline-4 Gas	Gas		
+Honda Accord	EX-L Sedan I4 CVT	2016	94,394	2.4L Inline-4 Gas	Gas		
+Honda Accord	Touring Coupe V6 Automatic	2016	22,638	3.5L V-6 Gas	Gas		
+Honda Odyssey	EX-L	2016	57,900	3.5L V-6 Gas	Gas		
+Honda Civic	LX Sedan CVT	2016	43,295	2.0L Inline-4 Gas	Gas		
+Honda Odyssey	EX-L	2016	122,430	3.5L V-6 Gas	Gas		
+Honda Accord	LX Sedan I4 CVT	2016	125,579	2.4L Inline-4 Gas	Gas		
+Honda HR-V	EX-L with Navigation AWD CVT	2016	76,907	1.8L Inline-4 Gas	Gas		
+Honda Accord	Sport Sedan I4 CVT	2016	90,918	2.4L Inline-4 Gas	Gas		
+Honda Fit	LX CVT	2016	34,264	1.5L Inline-4 Gas	Gas		
+Honda CR-V	Touring AWD	2016	64,350	2.4L Inline-4 Gas	Gas		
+Honda Accord	EX-L Coupe I4 CVT	2016	21,432	2.4L Inline-4 Gas	Gas		
+Honda HR-V	LX FWD Manual	2016	65,607	1.8L Inline-4 Gas	Gas		
+Honda CR-V	EX-L AWD	2016	41,499	2.4L Inline-4 Gas	Gas		
+Honda Civic	LX Sedan CVT	2016	27,730	2.0L Inline-4 Gas	Gas		
+Honda Pilot	Touring with Navigation/Rear Entertainment System AWD	2016	51,463	3.5L V-6 Gas	Gas		
+Honda Civic	LX Sedan CVT	2016	28,275	2.0L Inline-4 Gas	Gas		
+Honda Pilot	Touring with Navigation/Rear Entertainment System FWD	2016	137,365	3.5L V-6 Gas	Gas		
+Honda Civic	LX Sedan Manual	2016	43,300	2.0L Inline-4 Gas	Gas		
+Honda HR-V	EX FWD CVT	2016	55,200	1.8L Inline-4 Gas	Gas		
+Honda CR-V	EX AWD	2016	97,370	2.4L Inline-4 Gas	Gas		
+Honda Fit	LX CVT	2016	24,070	1.5L Inline-4 Gas	Gas		
+Honda Accord	Sport Sedan I4 CVT	2016	71,750	2.4L Inline-4 Gas	Gas		
+Honda CR-V	LX FWD	2016	50,081	2.4L Inline-4 Gas	Gas		
+Honda Pilot	EX-L FWD	2016	55,288	3.5L V-6 Gas	Gas		
+Honda CR-V	EX AWD	2016	82,679	2.4L Inline-4 Gas	Gas		
+Honda CR-V	SE AWD	2016	36,007	2.4L Inline-4 Gas	Gas		
+Honda Accord	Touring Sedan V6 Automatic	2016	88,857	3.5L V-6 Gas	Gas		
+Honda Accord	Touring Sedan V6 Automatic	2016	103,535	3.5L V-6 Gas	Gas		
+Honda Civic	LX-P Coupe CVT	2016	46,701	2.0L Inline-4 Gas	Gas		
+Honda Accord	LX-S Coupe I4 CVT	2016	74,745	2.4L Inline-4 Gas	Gas		
+Honda Civic	EX Sedan CVT	2016	69,852	2.0L Inline-4 Gas	Gas		
+Honda Civic	EX-L Sedan CVT	2016	87,174	1.5L Inline-4 Gas Turbocharged	Gas		
+Honda CR-V	SE FWD	2016	48,008	2.4L Inline-4 Gas	Gas		
+Honda Odyssey	SE	2016	85,601	3.5L V-6 Gas	Gas		
+Honda CR-V	EX-L AWD	2016	56,158	2.4L Inline-4 Gas	Gas		
+Honda Accord	Sport Sedan I4 CVT	2016	77,976	2.4L Inline-4 Gas	Gas		
+Honda Pilot	EX-L FWD	2016	99,555	3.5L V-6 Gas	Gas		
+Honda Odyssey	Touring Elite	2016	78,541	3.5L V-6 Gas	Gas		
+Honda Accord	EX-L V6 with Honda Sensing/Navigation Sedan Automatic	2016	77,784	3.5L V-6 Gas	Gas		
+Honda Odyssey	EX-L	2016	38,027	3.5L V-6 Gas	Gas		
+Honda Civic	EX-L Sedan CVT	2017	29,150	1.5L Inline-4 Gas Turbocharged	Gas		
+Honda Accord	LX-S Coupe CVT	2017	38,023	2.4L Inline-4 Gas	Gas		
+Honda Fit	LX CVT	2017	28,231	1.5L Inline-4 Gas	Gas		
+Honda Civic	LX Sedan CVT	2017	34,788	2.0L Inline-4 Gas	Gas		
+Honda Ridgeline	RTL-E AWD	2017	gthShort Bed	3.5L V-6 Gas	Gas		
+Honda Civic	Si Sedan Manual	2017	33,938	1.5L Inline-4 Gas Turbocharged	Gas		
+Honda Civic	LX-P Coupe CVT	2017	147,580	2.0L Inline-4 Gas	Gas		
+Honda Accord	Sport Sedan CVT	2017	54,005	2.4L Inline-4 Gas	Gas		
+Honda Accord	Sport Sedan CVT	2017	136,339	2.4L Inline-4 Gas	Gas		
+Honda Pilot	Elite AWD	2017	126,541	3.5L V-6 Gas	Gas		
+Honda Civic	EX Sedan CVT	2017	31,183	2.0L Inline-4 Gas	Gas		
+Honda Fit	LX CVT	2017	20,737	1.5L Inline-4 Gas	Gas		
+Honda Accord	Sport Special Edition Sedan CVT	2017	36,662	2.4L Inline-4 Gas	Gas		
+Honda Accord	Sport Sedan CVT	2017	62,224	2.4L Inline-4 Gas	Gas		
+Honda Accord	Hybrid Touring Sedan	2017	27,273	2.0L Inline-4 Hybrid	Hybrid		
+Honda Accord	LX Sedan CVT	2017	45,446	2.4L Inline-4 Gas	Gas		
+Honda Accord	Sport Special Edition Sedan CVT	2017	74,508	2.4L Inline-4 Gas	Gas		
+Honda Ridgeline	Black Edition AWD	2017	gthShort Bed	3.5L V-6 Gas	Gas		
+Honda CR-V	Touring AWD	2017	44,553	1.5L Inline-4 Gas Turbocharged	Gas		
+Honda CR-V	EX-L with Navigation FWD	2017	81,503	1.5L Inline-4 Gas Turbocharged	Gas		
+Honda Civic	LX Sedan CVT	2017	80,668	2.0L Inline-4 Gas	Gas		
+Honda Accord	LX Sedan CVT	2017	27,242	2.4L Inline-4 Gas	Gas		
+Honda Civic	LX Sedan CVT	2017	29,142	2.0L Inline-4 Gas	Gas		
+Honda CR-V	EX-L FWD	2017	66,960	1.5L Inline-4 Gas Turbocharged	Gas		
+Honda Pilot	LX AWD	2017	104,980	3.5L V-6 Gas	Gas		
+Honda Civic	EX with Honda Sensing Sedan CVT	2017	21,767	2.0L Inline-4 Gas	Gas		
+Honda Civic	LX Sedan CVT	2017	26,673	2.0L Inline-4 Gas	Gas		
+Honda Civic	LX Sedan CVT	2017	52,108	2.0L Inline-4 Gas	Gas		
+Honda CR-V	EX-L AWD	2017	38,926	1.5L Inline-4 Gas Turbocharged	Gas		
+Honda HR-V	EX AWD CVT	2017	182,345	1.8L Inline-4 Gas	Gas		
+Honda Accord	Touring Sedan Automatic	2017	51,517	3.5L V-6 Gas	Gas		
+Honda Accord	LX Sedan CVT	2017	14,994	2.4L Inline-4 Gas	Gas		
+Honda Odyssey	EX-L	2017	64,937	3.5L V-6 Gas	Gas		
+Honda Civic	EX-L Sedan CVT	2017	29,150	1.5L Inline-4 Gas Turbocharged	Gas		
+Honda Accord	LX-S Coupe CVT	2017	38,023	2.4L Inline-4 Gas	Gas		
+Honda Fit	LX CVT	2017	28,231	1.5L Inline-4 Gas	Gas		
+Honda Civic	LX Sedan CVT	2017	34,788	2.0L Inline-4 Gas	Gas		
+Honda Ridgeline	RTL-E AWD	2017	gthShort Bed	3.5L V-6 Gas	Gas		
+Honda Civic	Si Sedan Manual	2017	33,938	1.5L Inline-4 Gas Turbocharged	Gas		
+Honda Civic	LX-P Coupe CVT	2017	147,580	2.0L Inline-4 Gas	Gas		
+Honda Accord	Sport Sedan CVT	2017	54,005	2.4L Inline-4 Gas	Gas		
+Honda Accord	Sport Sedan CVT	2017	136,339	2.4L Inline-4 Gas	Gas		
+Honda Pilot	Elite AWD	2017	126,541	3.5L V-6 Gas	Gas		
+Honda Civic	EX Sedan CVT	2017	31,183	2.0L Inline-4 Gas	Gas		
+Honda Fit	LX CVT	2017	20,737	1.5L Inline-4 Gas	Gas		
+Honda Accord	Sport Special Edition Sedan CVT	2017	36,662	2.4L Inline-4 Gas	Gas		
+Honda Accord	Sport Sedan CVT	2017	62,224	2.4L Inline-4 Gas	Gas		
+Honda Accord	Hybrid Touring Sedan	2017	27,273	2.0L Inline-4 Hybrid	Hybrid		
+Honda Accord	LX Sedan CVT	2017	45,446	2.4L Inline-4 Gas	Gas		
+Honda Accord	Sport Special Edition Sedan CVT	2017	74,508	2.4L Inline-4 Gas	Gas		
+Honda Ridgeline	Black Edition AWD	2017	gthShort Bed	3.5L V-6 Gas	Gas		
+Honda CR-V	Touring AWD	2017	44,553	1.5L Inline-4 Gas Turbocharged	Gas		
+Honda CR-V	EX-L with Navigation FWD	2017	81,503	1.5L Inline-4 Gas Turbocharged	Gas		
+Honda Civic	LX Sedan CVT	2017	80,668	2.0L Inline-4 Gas	Gas		
+Honda Accord	LX Sedan CVT	2017	27,242	2.4L Inline-4 Gas	Gas		
+Honda Civic	LX Sedan CVT	2017	29,142	2.0L Inline-4 Gas	Gas		
+Honda CR-V	EX-L FWD	2017	66,960	1.5L Inline-4 Gas Turbocharged	Gas		
+Honda Pilot	LX AWD	2017	104,980	3.5L V-6 Gas	Gas		
+Honda Civic	EX with Honda Sensing Sedan CVT	2017	21,767	2.0L Inline-4 Gas	Gas		
+Honda Civic	LX Sedan CVT	2017	26,673	2.0L Inline-4 Gas	Gas		
+Honda Civic	LX Sedan CVT	2017	52,108	2.0L Inline-4 Gas	Gas		
+Honda CR-V	EX-L AWD	2017	38,927	1.5L Inline-4 Gas Turbocharged	Gas		
+Honda HR-V	EX AWD CVT	2017	182,345	1.8L Inline-4 Gas	Gas		
+Honda Accord	Touring Sedan Automatic	2017	51,517	3.5L V-6 Gas	Gas		
+Honda Accord	LX Sedan CVT	2017	14,994	2.4L Inline-4 Gas	Gas		
+Honda Odyssey	EX-L	2017	64,937	3.5L V-6 Gas	Gas		
+Honda Pilot	Elite AWD	2017	95,206	3.5L V-6 Gas	Gas		
+Honda Civic	EX-L Sedan CVT	2017	29,150	1.5L Inline-4 Gas Turbocharged	Gas		
+Honda Civic	EX Sedan CVT	2017	96,168	2.0L Inline-4 Gas	Gas		
+Honda Civic	LX Sedan CVT	2017	17,240	2.0L Inline-4 Gas	Gas		
+Honda Accord	LX Sedan CVT	2017	153,067	2.4L Inline-4 Gas	Gas		
+Honda Pilot	Touring AWD	2017	140,495	3.5L V-6 Gas	Gas		
+Honda Civic	LX Coupe CVT	2017	50,250	2.0L Inline-4 Gas	Gas		
+Honda Fit	EX Manual	2017	12,399	1.5L Inline-4 Gas	Gas		
+Honda Accord	EX-L Sedan CVT	2017	27,408	2.4L Inline-4 Gas	Gas		
+Honda CR-V	EX-L AWD	2017	17,379	1.5L Inline-4 Gas Turbocharged	Gas		
+Honda Odyssey	EX-L	2017	84,383	3.5L V-6 Gas	Gas		
+Honda Pilot	Touring FWD	2017	36,580	3.5L V-6 Gas	Gas		
+Honda Accord	EX Sedan CVT	2017	132,317	2.4L Inline-4 Gas	Gas		
+Honda Accord	EX-L V6 Sedan Automatic	2017	101,295	3.5L V-6 Gas	Gas		
+Honda Accord	Sport Special Edition Sedan CVT	2017	53,213	2.4L Inline-4 Gas	Gas		
+Honda CR-V	LX FWD	2017	116,197	2.4L Inline-4 Gas	Gas		
+Honda Civic	LX-P Coupe CVT	2017	28,384	2.0L Inline-4 Gas	Gas		
+Honda Accord	LX Sedan CVT	2017	122,706	2.4L Inline-4 Gas	Gas		
+Honda Accord	LX Sedan CVT	2017	36,342	2.4L Inline-4 Gas	Gas		
+Honda CR-V	EX-L AWD	2017	26,382	1.5L Inline-4 Gas Turbocharged	Gas		
+Honda Civic	EX Sedan CVT	2017	50,155	2.0L Inline-4 Gas	Gas		
+Honda Civic	LX Sedan CVT	2017	37,347	2.0L Inline-4 Gas	Gas		
+Honda Accord	Sport Sedan CVT	2017	25,316	2.4L Inline-4 Gas	Gas		
+Honda CR-V	EX-L with Navigation FWD	2017	57,298	1.5L Inline-4 Gas Turbocharged	Gas		
+Honda Accord	Sport Special Edition Sedan CVT	2017	20,091	2.4L Inline-4 Gas	Gas		
+Honda Civic	EX-L Sedan CVT	2017	33,896	1.5L Inline-4 Gas Turbocharged	Gas		
+Honda Accord	Sport Sedan CVT	2017	25,000	2.4L Inline-4 Gas	Gas		
+Honda Accord	Hybrid EX-L Sedan	2017	17,115	2.0L Inline-4 Hybrid	Hybrid		
+Honda Accord	Sport Sedan CVT	2017	32,712	2.4L Inline-4 Gas	Gas		
+Honda Civic	EX-T Coupe CVT	2017	27,091	1.5L Inline-4 Gas Turbocharged	Gas		
+Honda Civic	LX Sedan CVT	2017	62,343	2.0L Inline-4 Gas	Gas		
+Honda Civic	EX-T Sedan CVT	2017	61,037	1.5L Inline-4 Gas Turbocharged	Gas		
+Honda Pilot	EX with Honda Sensing FWD	2017	56,204	3.5L V-6 Gas	Gas		
+Honda Accord	Sport Special Edition Sedan CVT	2017	13,759	2.4L Inline-4 Gas	Gas		
+Honda Accord	LX 1.5T CVT	2018	31,411	1.5L Inline-4 Gas Turbocharged	Gas		
+Honda Civic	LX Sedan CVT	2018	17,084	2.0L Inline-4 Gas	Gas		
+Honda Civic	Si Coupe Manual	2018	55,734	1.5L Inline-4 Gas Turbocharged	Gas		
+Honda Civic	LX Sedan CVT	2018	37,587	2.0L Inline-4 Gas	Gas		
+Honda Civic	LX Sedan CVT	2018	160,962	2.0L Inline-4 Gas	Gas		
+Honda CR-V	EX AWD	2018	74,214	1.5L Inline-4 Gas Turbocharged	Gas		
+Honda Civic	LX Sedan CVT	2018	36,361	2.0L Inline-4 Gas	Gas		
+Honda Civic	EX Hatchback CVT	2018	59,854	1.5L Inline-4 Gas Turbocharged	Gas		
+Honda Civic	Si Coupe Manual	2018	33,549	1.5L Inline-4 Gas Turbocharged	Gas		
+Honda Civic	LX Sedan CVT	2018	52,081	2.0L Inline-4 Gas	Gas		
+Honda CR-V	EX-L AWD	2018	47,376	1.5L Inline-4 Gas Turbocharged	Gas		
+Honda Civic	Si Sedan Manual	2018	15,500	1.5L Inline-4 Gas Turbocharged	Gas		
+Honda Civic	EX-L Sedan CVT	2018	39,048	1.5L Inline-4 Gas Turbocharged	Gas		
+Honda Accord	Sport 1.5T CVT	2018	47,124	1.5L Inline-4 Gas Turbocharged	Gas		
+Honda Civic	EX-T Sedan CVT	2018	36,310	1.5L Inline-4 Gas Turbocharged	Gas		
+Honda Civic	EX Hatchback CVT	2018	33,426	1.5L Inline-4 Gas Turbocharged	Gas		
+Honda Odyssey	EX-L	2018	33,497	3.5L V-6 Gas	Gas		
+Honda Accord	Sport 1.5T CVT	2018	20,946	1.5L Inline-4 Gas Turbocharged	Gas		
+Honda Civic	EX-L Sedan CVT	2018	86,533	1.5L Inline-4 Gas Turbocharged	Gas		
+Honda Accord	Sport 1.5T CVT	2018	48,238	1.5L Inline-4 Gas Turbocharged	Gas		
+Honda Accord	Hybrid	2018	74,527	2.0L Inline-4 Hybrid	Hybrid		
+Honda Civic	EX-L Sedan CVT	2018	31,255	1.5L Inline-4 Gas Turbocharged	Gas		
+Honda CR-V	EX-L FWD	2018	4,501	1.5L Inline-4 Gas Turbocharged	Gas		
+Honda Civic	EX Sedan CVT	2018	33,299	2.0L Inline-4 Gas	Gas		
+Honda Civic	EX-T Sedan CVT	2018	81,760	1.5L Inline-4 Gas Turbocharged	Gas		
+Honda Civic	EX-L Sedan CVT	2018	48,178	1.5L Inline-4 Gas Turbocharged	Gas		
+Honda Civic	Sport Hatchback CVT	2018	31,512	1.5L Inline-4 Gas Turbocharged	Gas		
+Honda Accord	Sport 1.5T CVT	2018	24,790	1.5L Inline-4 Gas Turbocharged	Gas		
+Honda Civic	LX Sedan CVT	2018	37,318	2.0L Inline-4 Gas	Gas		
+Honda Civic	EX-T Sedan CVT	2018	34,947	1.5L Inline-4 Gas Turbocharged	Gas		
+Honda Civic	EX-L Navi Hatchback CVT	2018	71,630	1.5L Inline-4 Gas Turbocharged	Gas		
+Honda Accord	Sport 1.5T CVT	2018	33,406	1.5L Inline-4 Gas Turbocharged	Gas		
+Honda Civic	LX Sedan CVT	2018	27,396	2.0L Inline-4 Gas	Gas		
+Honda Accord	LX 1.5T CVT	2018	31,411	1.5L Inline-4 Gas Turbocharged	Gas		
+Honda Civic	LX Sedan CVT	2018	17,084	2.0L Inline-4 Gas	Gas		
+Honda Civic	Si Coupe Manual	2018	55,734	1.5L Inline-4 Gas Turbocharged	Gas		
+Honda Civic	LX Sedan CVT	2018	37,587	2.0L Inline-4 Gas	Gas		
+Honda Civic	LX Sedan CVT	2018	160,962	2.0L Inline-4 Gas	Gas		
+Honda CR-V	EX AWD	2018	74,214	1.5L Inline-4 Gas Turbocharged	Gas		
+Honda Civic	LX Sedan CVT	2018	36,361	2.0L Inline-4 Gas	Gas		
+Honda Civic	EX Hatchback CVT	2018	59,854	1.5L Inline-4 Gas Turbocharged	Gas		
+Honda Civic	Si Coupe Manual	2018	33,549	1.5L Inline-4 Gas Turbocharged	Gas		
+Honda Civic	LX Sedan CVT	2018	52,081	2.0L Inline-4 Gas	Gas		
+Honda CR-V	EX-L AWD	2018	47,376	1.5L Inline-4 Gas Turbocharged	Gas		
+Honda Civic	Si Sedan Manual	2018	15,500	1.5L Inline-4 Gas Turbocharged	Gas		
+Honda Civic	EX-L Sedan CVT	2018	39,048	1.5L Inline-4 Gas Turbocharged	Gas		
+Honda Accord	Sport 1.5T CVT	2018	47,124	1.5L Inline-4 Gas Turbocharged	Gas		
+Honda Civic	EX-T Sedan CVT	2018	36,310	1.5L Inline-4 Gas Turbocharged	Gas		
+Honda Civic	EX Hatchback CVT	2018	33,426	1.5L Inline-4 Gas Turbocharged	Gas		
+Honda Odyssey	EX-L	2018	33,497	3.5L V-6 Gas	Gas		
+Honda Accord	Sport 1.5T CVT	2018	20,946	1.5L Inline-4 Gas Turbocharged	Gas		
+Honda Civic	EX-L Sedan CVT	2018	86,533	1.5L Inline-4 Gas Turbocharged	Gas		
+Honda Accord	Sport 1.5T CVT	2018	48,238	1.5L Inline-4 Gas Turbocharged	Gas		
+Honda Accord	Hybrid	2018	74,527	2.0L Inline-4 Hybrid	Hybrid		
+Honda Civic	EX-L Sedan CVT	2018	31,255	1.5L Inline-4 Gas Turbocharged	Gas		
+Honda CR-V	EX-L FWD	2018	4,501	1.5L Inline-4 Gas Turbocharged	Gas		
+Honda Civic	EX Sedan CVT	2018	33,299	2.0L Inline-4 Gas	Gas		
+Honda Civic	EX-T Sedan CVT	2018	81,760	1.5L Inline-4 Gas Turbocharged	Gas		
+Honda Civic	EX-L Sedan CVT	2018	48,178	1.5L Inline-4 Gas Turbocharged	Gas		
+Honda Civic	Sport Hatchback CVT	2018	31,512	1.5L Inline-4 Gas Turbocharged	Gas		
+Honda Accord	Sport 1.5T CVT	2018	24,790	1.5L Inline-4 Gas Turbocharged	Gas		
+Honda Civic	LX Sedan CVT	2018	37,318	2.0L Inline-4 Gas	Gas		
+Honda Civic	EX-T Sedan CVT	2018	34,947	1.5L Inline-4 Gas Turbocharged	Gas		
+Honda Civic	EX-L Navi Hatchback CVT	2018	71,630	1.5L Inline-4 Gas Turbocharged	Gas		
+Honda Accord	Sport 1.5T CVT	2018	33,406	1.5L Inline-4 Gas Turbocharged	Gas		
+Honda Civic	LX Sedan CVT	2018	27,396	2.0L Inline-4 Gas	Gas		
+Honda Civic	EX-L Sedan CVT	2018	26,825	1.5L Inline-4 Gas Turbocharged	Gas		
+Honda Clarity	Plug-In Hybrid	2018	86,759	1.5L Inline-4 Plug-In Hybrid	Plug-In Hybrid		
+Honda Odyssey	EX	2018	89,756	3.5L V-6 Gas	Gas		
+Honda Fit	EX-L with Navigation CVT	2018	26,634	1.5L Inline-4 Gas	Gas		
+Honda Civic	LX Sedan CVT	2018	32,850	2.0L Inline-4 Gas	Gas		
+Honda Civic	Si Coupe Manual	2018	36,562	1.5L Inline-4 Gas Turbocharged	Gas		
+Honda Civic	LX Sedan CVT	2018	30,662	2.0L Inline-4 Gas	Gas		
+Honda Civic	EX Sedan CVT	2018	19,321	2.0L Inline-4 Gas	Gas		
+Honda Accord	Sport 1.5T CVT	2018	16,814	1.5L Inline-4 Gas Turbocharged	Gas		
+Honda Civic	LX Sedan CVT	2018	24,981	2.0L Inline-4 Gas	Gas		
+Honda HR-V	EX AWD CVT	2018	31,322	1.8L Inline-4 Gas	Gas		
+Honda Civic	Sport Touring Hatchback CVT	2018	28,350	1.5L Inline-4 Gas Turbocharged	Gas		
+Honda Civic	Sport Hatchback CVT	2018	24,580	1.5L Inline-4 Gas Turbocharged	Gas		
+Honda Civic	EX with Honda Sensing Hatchback CVT	2018	57,324	1.5L Inline-4 Gas Turbocharged	Gas		
+Honda Civic	EX-L Sedan CVT	2018	32,284	1.5L Inline-4 Gas Turbocharged	Gas		
+Honda Civic	Sport Hatchback CVT	2018	30,522	1.5L Inline-4 Gas Turbocharged	Gas		
+Honda Accord	Sport 1.5T CVT	2018	51,089	1.5L Inline-4 Gas Turbocharged	Gas		
+Honda Civic	LX Coupe CVT	2018	27,053	2.0L Inline-4 Gas	Gas		
+Honda CR-V	EX FWD	2018	143,998	1.5L Inline-4 Gas Turbocharged	Gas		
+Honda Civic	EX-L Sedan CVT	2018	8,734	1.5L Inline-4 Gas Turbocharged	Gas		
+Honda Civic	EX Sedan CVT	2018	113,516	2.0L Inline-4 Gas	Gas		
+Honda Accord	Sport 1.5T CVT	2018	35,851	1.5L Inline-4 Gas Turbocharged	Gas		
+Honda Odyssey	EX	2018	38,924	3.5L V-6 Gas	Gas		
+Honda Civic	EX Sedan CVT	2018	19,355	2.0L Inline-4 Gas	Gas		
+Honda Accord	EX 1.5T CVT	2018	21,998	1.5L Inline-4 Gas Turbocharged	Gas		
+Honda HR-V	LX FWD CVT	2018	54,641	1.8L Inline-4 Gas	Gas		
+Honda Civic	EX-L Sedan CVT	2018	32,310	1.5L Inline-4 Gas Turbocharged	Gas		
+Honda Civic	EX Sedan CVT	2018	53,833	2.0L Inline-4 Gas	Gas		
+Honda Civic	LX Sedan CVT	2018	31,963	2.0L Inline-4 Gas	Gas		
+Honda Accord	EX 1.5T CVT	2018	46,524	1.5L Inline-4 Gas Turbocharged	Gas		
+Honda Civic	Sport Touring Hatchback CVT	2018	41,247	1.5L Inline-4 Gas Turbocharged	Gas		
+Honda Ridgeline	Black Edition AWD	2018	gthShort Bed	3.5L V-6 Gas	Gas		
+Honda Civic	LX Sedan CVT	2018	18,264	2.0L Inline-4 Gas	Gas		
+Honda Civic	LX Sedan CVT	2018	46,018	2.0L Inline-4 Gas	Gas		
+Honda HR-V	LX AWD	2019	8,168	1.8L Inline-4 Gas	Gas		
+Honda CR-V	EX-L FWD	2019	9,160	1.5L Inline-4 Gas Turbocharged	Gas		
+Honda Civic	Si Sedan	2019	10,918	1.5L Inline-4 Gas Turbocharged	Gas		
+Honda Civic	EX Sedan CVT	2019	13,188	1.5L Inline-4 Gas Turbocharged	Gas		
+Honda Accord	Sport 1.5T Manual	2019	98,378	1.5L Inline-4 Gas Turbocharged	Gas		
+		2019					
+Honda Passport	EX-L AWD	2019	18,456	3.5L V-6 Gas	Gas		
+Honda Civic	LX Hatchback CVT	2019	2,245	1.5L Inline-4 Gas Turbocharged	Gas		
+Honda Civic	Sport Hatchback CVT	2019	11,373	1.5L Inline-4 Gas Turbocharged	Gas		
+Honda Civic	LX Sedan CVT	2019	39,224	2.0L Inline-4 Gas	Gas		
+Honda CR-V	EX-L AWD	2019	17,626	1.5L Inline-4 Gas Turbocharged	Gas		
+Honda Accord	Sport 1.5T CVT	2019	26,771	1.5L Inline-4 Gas Turbocharged	Gas		
+Honda Odyssey	LX	2019	23,308	3.5L V-6 Gas	Gas		
+Honda Pilot	EX-L AWD	2019	20,940	3.5L V-6 Gas	Gas		
+Honda Civic	LX Sedan CVT	2019	17,516	2.0L Inline-4 Gas	Gas		
+Honda CR-V	EX AWD	2019	58,231	1.5L Inline-4 Gas Turbocharged	Gas		
+Honda Civic	LX Sedan CVT	2019	14,128	2.0L Inline-4 Gas	Gas		
+Honda CR-V	LX AWD	2019	22,506	2.4L Inline-4 Gas	Gas		
+Honda HR-V	Touring AWD	2019	4,921	1.8L Inline-4 Gas	Gas		
+Honda Accord	Sport 1.5T CVT	2019	20,495	1.5L Inline-4 Gas Turbocharged	Gas		
+Honda Civic	LX Sedan CVT	2019	33,053	2.0L Inline-4 Gas	Gas		
+Honda Accord	Sport 1.5T CVT	2019	21,265	1.5L Inline-4 Gas Turbocharged	Gas		
+Honda Accord	Sport 1.5T CVT	2019	35,877	1.5L Inline-4 Gas Turbocharged	Gas		
+Honda Odyssey	EX-L	2019	70,156	3.5L V-6 Gas	Gas		
+Honda Civic	Sport Sedan Manual	2019	82,620	2.0L Inline-4 Gas	Gas		
+Honda CR-V	LX AWD	2019	8,780	2.4L Inline-4 Gas	Gas		
+Honda Passport	Touring FWD	2019	28,542	3.5L V-6 Gas	Gas		
+Honda Accord	Sport 1.5T CVT	2019	20,002	1.5L Inline-4 Gas Turbocharged	Gas		
+Honda CR-V	EX-L FWD	2019	137,793	1.5L Inline-4 Gas Turbocharged	Gas		
+Honda CR-V	LX FWD	2019	10,798	2.4L Inline-4 Gas	Gas		
+Honda HR-V	EX AWD	2019	40,911	1.8L Inline-4 Gas	Gas		
+Honda Civic	Sport Sedan CVT	2019	13,947	2.0L Inline-4 Gas	Gas		
+Honda Accord	Hybrid EX CVT	2019	31,151	2.0L Inline-4 Hybrid	Hybrid		
+Honda HR-V	LX AWD	2019	8,168	1.8L Inline-4 Gas	Gas		
+Honda CR-V	EX-L FWD	2019	9,160	1.5L Inline-4 Gas Turbocharged	Gas		
+Honda Civic	Si Sedan	2019	10,918	1.5L Inline-4 Gas Turbocharged	Gas		
+Honda Civic	EX Sedan CVT	2019	13,188	1.5L Inline-4 Gas Turbocharged	Gas		
+Honda Accord	Sport 1.5T Manual	2019	98,378	1.5L Inline-4 Gas Turbocharged	Gas		
+Honda Passport	Elite AWD	2019	32,228	3.5L V-6 Gas	Gas		
+Honda Passport	EX-L AWD	2019	18,456	3.5L V-6 Gas	Gas		
+Honda Civic	LX Hatchback CVT	2019	2,245	1.5L Inline-4 Gas Turbocharged	Gas		
+Honda Civic	Sport Hatchback CVT	2019	11,373	1.5L Inline-4 Gas Turbocharged	Gas		
+Honda Civic	LX Sedan CVT	2019	39,224	2.0L Inline-4 Gas	Gas		
+Honda CR-V	EX-L AWD	2019	17,626	1.5L Inline-4 Gas Turbocharged	Gas		
+Honda Accord	Sport 1.5T CVT	2019	26,771	1.5L Inline-4 Gas Turbocharged	Gas		
+Honda Odyssey	LX	2019	23,308	3.5L V-6 Gas	Gas		
+Honda Pilot	EX-L AWD	2019	20,940	3.5L V-6 Gas	Gas		
+Honda Civic	LX Sedan CVT	2019	17,516	2.0L Inline-4 Gas	Gas		
+Honda CR-V	EX AWD	2019	58,231	1.5L Inline-4 Gas Turbocharged	Gas		
+Honda Civic	LX Sedan CVT	2019	14,128	2.0L Inline-4 Gas	Gas		
+Honda CR-V	LX AWD	2019	22,506	2.4L Inline-4 Gas	Gas		
+Honda HR-V	Touring AWD	2019	4,921	1.8L Inline-4 Gas	Gas		
+Honda Accord	Sport 1.5T CVT	2019	20,495	1.5L Inline-4 Gas Turbocharged	Gas		
+Honda Civic	LX Sedan CVT	2019	33,053	2.0L Inline-4 Gas	Gas		
+Honda Accord	Sport 1.5T CVT	2019	21,265	1.5L Inline-4 Gas Turbocharged	Gas		
+Honda Accord	Sport 1.5T CVT	2019	35,877	1.5L Inline-4 Gas Turbocharged	Gas		
+Honda Odyssey	EX-L	2019	70,156	3.5L V-6 Gas	Gas		
+Honda Civic	Sport Sedan Manual	2019	82,620	2.0L Inline-4 Gas	Gas		
+Honda CR-V	LX AWD	2019	8,780	2.4L Inline-4 Gas	Gas		
+Honda Passport	Touring FWD	2019	28,542	3.5L V-6 Gas	Gas		
+Honda Accord	Sport 1.5T CVT	2019	20,002	1.5L Inline-4 Gas Turbocharged	Gas		
+Honda CR-V	EX-L FWD	2019	137,793	1.5L Inline-4 Gas Turbocharged	Gas		
+Honda CR-V	LX FWD	2019	10,798	2.4L Inline-4 Gas	Gas		
+Honda HR-V	EX AWD	2019	40,911	1.8L Inline-4 Gas	Gas		
+Honda Civic	Sport Sedan CVT	2019	13,947	2.0L Inline-4 Gas	Gas		
+Honda Accord	Hybrid EX CVT	2019	31,151	2.0L Inline-4 Hybrid	Hybrid		
+Honda Civic	Sport Sedan CVT	2019	7,219	2.0L Inline-4 Gas	Gas		
+Honda Civic	EX Hatchback CVT	2019	17,800	1.5L Inline-4 Gas Turbocharged	Gas		
+Honda Fit	EX Manual	2019	5,653	1.5L Inline-4 Gas	Gas		
+Honda Accord	Sport 1.5T CVT	2019	17,583	1.5L Inline-4 Gas Turbocharged	Gas		
+Honda Fit	EX CVT	2019	43	1.5L Inline-4 Gas	Gas		
+Honda Accord	Sport 1.5T CVT	2019	28,989	1.5L Inline-4 Gas Turbocharged	Gas		
+Honda Civic	Sport Sedan CVT	2019	11,246	2.0L Inline-4 Gas	Gas		
+Honda HR-V	LX AWD	2019	28,085	1.8L Inline-4 Gas	Gas		
+Honda Odyssey	EX-L	2019	28,543	3.5L V-6 Gas	Gas		
+Honda Fit	EX CVT	2019	3,593	1.5L Inline-4 Gas	Gas		
+Honda Insight	EX	2019	22,172	1.5L Inline-4 Hybrid	Hybrid		
+Honda Accord	Sport 1.5T CVT	2019	35,993	1.5L Inline-4 Gas Turbocharged	Gas		
+Honda Odyssey	EX	2019	74,812	3.5L V-6 Gas	Gas		
+Honda Fit	EX CVT	2019	10,946	1.5L Inline-4 Gas	Gas		
+Honda Civic	Sport Sedan CVT	2019	25,449	2.0L Inline-4 Gas	Gas		
+Honda Odyssey	EX-L	2019	41,809	3.5L V-6 Gas	Gas		
+Honda Accord	Hybrid CVT	2019	13,833	2.0L Inline-4 Hybrid	Hybrid		
+Honda Civic	Sport Coupe CVT	2019	13,467	2.0L Inline-4 Gas	Gas		
+Honda Accord	Sport 1.5T CVT	2019	21,582	1.5L Inline-4 Gas Turbocharged	Gas		
+Honda Civic	EX Sedan CVT	2019	12,886	1.5L Inline-4 Gas Turbocharged	Gas		
+Honda HR-V	EX AWD	2019	6,855	1.8L Inline-4 Gas	Gas		
+Honda CR-V	EX FWD	2019	10,354	1.5L Inline-4 Gas Turbocharged	Gas		
+Honda Insight	Touring	2019	24,640	1.5L Inline-4 Hybrid	Hybrid		
+Honda Civic	LX Sedan CVT	2019	39,083	2.0L Inline-4 Gas	Gas		
+Honda CR-V	EX-L FWD	2019	9,886	1.5L Inline-4 Gas Turbocharged	Gas		
+Honda Pilot	EX-L FWD	2019	51,936	3.5L V-6 Gas	Gas		
+Honda Accord	Sport 1.5T CVT	2019	23,279	1.5L Inline-4 Gas Turbocharged	Gas		
+Honda Civic	Si Coupe	2019	23,569	1.5L Inline-4 Gas Turbocharged	Gas		
+Honda Civic	Sport Coupe CVT	2019	250	2.0L Inline-4 Gas	Gas		
+Honda Accord	Sport 1.5T CVT	2019	26,282	1.5L Inline-4 Gas Turbocharged	Gas		
+Honda Civic	Sport Sedan CVT	2019	23,015	2.0L Inline-4 Gas	Gas		
+Honda Fit	EX CVT	2019	20,436	1.5L Inline-4 Gas	Gas		
+Honda Civic	LX Sedan CVT	2019	32,255	2.0L Inline-4 Gas	Gas		
+Honda Civic	LX Hatchback CVT	2019	22,696	1.5L Inline-4 Gas Turbocharged	Gas		
+Honda Accord	LX 1.5T CVT	2020	17,959	1.5L Inline-4 Gas Turbocharged	Gas		
+Honda Pilot	EX FWD	2020	5,679	3.5L V-6 Gas	Gas		
+Honda Accord	Sport 1.5T CVT	2020	14,483	1.5L Inline-4 Gas Turbocharged	Gas		
+Honda Civic	Si Sedan	2020	1,430	1.5L Inline-4 Gas Turbocharged	Gas		
+Honda Accord	Sport 1.5T CVT	2020	26,902	1.5L Inline-4 Gas Turbocharged	Gas		
+Honda Civic	LX Sedan CVT	2020	30,435	2.0L Inline-4 Gas	Gas		
+Honda Accord	LX 1.5T CVT	2020	4,730	1.5L Inline-4 Gas Turbocharged	Gas		
+Honda Accord	Sport 1.5T CVT	2020	17,800	1.5L Inline-4 Gas Turbocharged	Gas		
+Honda Insight	EX	2020	3,222	1.5L Inline-4 Hybrid	Hybrid		
+Honda Odyssey	EX-L with Navigation/Rear Entertainment System	2020	3,241	3.5L V-6 Gas	Gas		
+Honda Civic	LX Sedan CVT	2020	8,812	2.0L Inline-4 Gas	Gas		
+Honda Civic	EX Sedan CVT	2020	17,285	1.5L Inline-4 Gas Turbocharged	Gas		
+Honda Accord	Sport 1.5T CVT	2020	10,028	1.5L Inline-4 Gas Turbocharged	Gas		
+Honda Accord	Sport 1.5T CVT	2020	1,606	1.5L Inline-4 Gas Turbocharged	Gas		
+Honda Accord	Sport 1.5T CVT	2020	2,573	1.5L Inline-4 Gas Turbocharged	Gas		
+Honda Accord	LX 1.5T CVT	2020	15,567	1.5L Inline-4 Gas Turbocharged	Gas		
+Honda CR-V	Touring AWD	2020	7,148	1.5L Inline-4 Gas Turbocharged	Gas		
+Honda Insight	EX	2020	3,084	1.5L Inline-4 Hybrid	Hybrid		
+Honda Civic	LX Hatchback CVT	2020	2,140	1.5L Inline-4 Gas Turbocharged	Gas		
+Honda Fit	LX CVT	2020	62	1.5L Inline-4 Gas	Gas		
+Honda Accord	Sport 1.5T CVT	2020	8,012	1.5L Inline-4 Gas Turbocharged	Gas		
+Honda Accord	Sport 1.5T CVT	2020	11,530	1.5L Inline-4 Gas Turbocharged	Gas		
+Honda Civic	LX Hatchback CVT	2020	5,292	1.5L Inline-4 Gas Turbocharged	Gas		
+Honda Civic	LX Hatchback CVT	2020	5,132	1.5L Inline-4 Gas Turbocharged	Gas		
+Honda Civic	Sport Coupe CVT	2020	8,210	2.0L Inline-4 Gas	Gas		
+Honda Accord	Sport 1.5T CVT	2020	4,273	1.5L Inline-4 Gas Turbocharged	Gas		
+Honda Civic	LX Sedan CVT	2020	15,421	2.0L Inline-4 Gas	Gas		
+Honda Accord	Sport 1.5T CVT	2020	8,894	1.5L Inline-4 Gas Turbocharged	Gas		
+Honda CR-V	Touring AWD	2020	4,518	1.5L Inline-4 Gas Turbocharged	Gas		
+Honda Accord	Sport 1.5T CVT	2020	3,880	1.5L Inline-4 Gas Turbocharged	Gas		
+Honda Accord	Sport 1.5T CVT	2020	6,896	1.5L Inline-4 Gas Turbocharged	Gas		
+Honda Accord	Sport 1.5T CVT	2020	6,014	1.5L Inline-4 Gas Turbocharged	Gas		
+Honda Civic	LX Sedan CVT	2020	4,554	2.0L Inline-4 Gas	Gas		
+Honda Accord	LX 1.5T CVT	2020	17,959	1.5L Inline-4 Gas Turbocharged	Gas		
+Honda Pilot	EX FWD	2020	5,679	3.5L V-6 Gas	Gas		
+Honda Accord	Sport 1.5T CVT	2020	14,483	1.5L Inline-4 Gas Turbocharged	Gas		
+Honda Civic	Si Sedan	2020	1,430	1.5L Inline-4 Gas Turbocharged	Gas		
+Honda Accord	Sport 1.5T CVT	2020	26,902	1.5L Inline-4 Gas Turbocharged	Gas		
+Honda Civic	LX Sedan CVT	2020	30,435	2.0L Inline-4 Gas	Gas		
+Honda Accord	LX 1.5T CVT	2020	4,730	1.5L Inline-4 Gas Turbocharged	Gas		
+Honda Accord	Sport 1.5T CVT	2020	17,800	1.5L Inline-4 Gas Turbocharged	Gas		
+Honda Insight	EX	2020	3,222	1.5L Inline-4 Hybrid	Hybrid		
+Honda Odyssey	EX-L with Navigation/Rear Entertainment System	2020	3,241	3.5L V-6 Gas	Gas		
+Honda Civic	LX Sedan CVT	2020	8,812	2.0L Inline-4 Gas	Gas		
+Honda Civic	EX Sedan CVT	2020	17,285	1.5L Inline-4 Gas Turbocharged	Gas		
+Honda Accord	Sport 1.5T CVT	2020	10,028	1.5L Inline-4 Gas Turbocharged	Gas		
+Honda Accord	Sport 1.5T CVT	2020	1,606	1.5L Inline-4 Gas Turbocharged	Gas		
+Honda Accord	Sport 1.5T CVT	2020	2,573	1.5L Inline-4 Gas Turbocharged	Gas		
+Honda Accord	LX 1.5T CVT	2020	15,567	1.5L Inline-4 Gas Turbocharged	Gas		
+Honda CR-V	Touring AWD	2020	7,148	1.5L Inline-4 Gas Turbocharged	Gas		
+Honda Insight	EX	2020	3,084	1.5L Inline-4 Hybrid	Hybrid		
+Honda Civic	LX Hatchback CVT	2020	2,140	1.5L Inline-4 Gas Turbocharged	Gas		
+Honda Fit	LX CVT	2020	62	1.5L Inline-4 Gas	Gas		
+Honda Accord	Sport 1.5T CVT	2020	8,012	1.5L Inline-4 Gas Turbocharged	Gas		
+Honda Accord	Sport 1.5T CVT	2020	11,530	1.5L Inline-4 Gas Turbocharged	Gas		
+Honda Civic	LX Hatchback CVT	2020	5,292	1.5L Inline-4 Gas Turbocharged	Gas		
+Honda Civic	LX Hatchback CVT	2020	5,132	1.5L Inline-4 Gas Turbocharged	Gas		
+Honda Civic	Sport Coupe CVT	2020	8,210	2.0L Inline-4 Gas	Gas		
+Honda Accord	Sport 1.5T CVT	2020	4,273	1.5L Inline-4 Gas Turbocharged	Gas		
+Honda Civic	LX Sedan CVT	2020	15,421	2.0L Inline-4 Gas	Gas		
+Honda Accord	Sport 1.5T CVT	2020	8,894	1.5L Inline-4 Gas Turbocharged	Gas		
+Honda CR-V	Touring AWD	2020	4,518	1.5L Inline-4 Gas Turbocharged	Gas		
+Honda Accord	Sport 1.5T CVT	2020	3,880	1.5L Inline-4 Gas Turbocharged	Gas		
+Honda Accord	Sport 1.5T CVT	2020	6,896	1.5L Inline-4 Gas Turbocharged	Gas		
+Honda Accord	Sport 1.5T CVT	2020	6,014	1.5L Inline-4 Gas Turbocharged	Gas		
+Honda Civic	LX Sedan CVT	2020	4,554	2.0L Inline-4 Gas	Gas		
+Honda Civic	LX Sedan CVT	2020	1,394	2.0L Inline-4 Gas	Gas		
+Honda Accord	LX 1.5T CVT	2020	5,685	1.5L Inline-4 Gas Turbocharged	Gas		
+Honda Civic	EX Sedan CVT	2020	8,571	1.5L Inline-4 Gas Turbocharged	Gas		
+Honda Accord	LX 1.5T CVT	2020	8,549	1.5L Inline-4 Gas Turbocharged	Gas		
+Honda Civic	Touring Sedan CVT	2020	3,150	1.5L Inline-4 Gas Turbocharged	Gas		
+Honda CR-V	LX AWD	2020	4,024	1.5L Inline-4 Gas Turbocharged	Gas		
+Honda Civic	Si Sedan	2020	5,256	1.5L Inline-4 Gas Turbocharged	Gas		
+Honda Accord	Sport 1.5T CVT	2020	13,993	1.5L Inline-4 Gas Turbocharged	Gas		
+Honda Civic	LX Hatchback CVT	2020	17,356	1.5L Inline-4 Gas Turbocharged	Gas		
+Honda Civic	LX Hatchback CVT	2020	5,434	1.5L Inline-4 Gas Turbocharged	Gas		
+Honda Accord	EX 1.5T CVT	2020	1,969	1.5L Inline-4 Gas Turbocharged	Gas		
+Honda CR-V	EX AWD	2020	6,262	1.5L Inline-4 Gas Turbocharged	Gas		
+Honda Civic	LX Sedan CVT	2020	175	2.0L Inline-4 Gas	Gas		
+Honda CR-V	EX AWD	2020	1,425	1.5L Inline-4 Gas Turbocharged	Gas		
+Honda Civic	LX Sedan CVT	2020	11,046	2.0L Inline-4 Gas	Gas		
+Honda Civic	LX Sedan CVT	2020	796	2.0L Inline-4 Gas	Gas		
+Honda Passport	EX-L FWD	2020	4,168	3.5L V-6 Gas	Gas		
+Honda Civic	EX Coupe CVT	2020	103	1.5L Inline-4 Gas Turbocharged	Gas		
+Honda Civic	Sport Sedan CVT	2020	3,718	2.0L Inline-4 Gas	Gas		
+Honda Civic	Sport Sedan Manual	2020	3,586	2.0L Inline-4 Gas	Gas		
+Honda Civic	LX Sedan CVT	2020	1,125	2.0L Inline-4 Gas	Gas		
+Honda Accord	Sport 1.5T CVT	2020	3,697	1.5L Inline-4 Gas Turbocharged	Gas		
+Honda CR-V	EX AWD	2020	11,815	1.5L Inline-4 Gas Turbocharged	Gas		
+Honda Civic	Sport Touring Hatchback CVT	2020	2,454	1.5L Inline-4 Gas Turbocharged	Gas		
+Honda Civic	LX Hatchback CVT	2020	4,935	1.5L Inline-4 Gas Turbocharged	Gas		
+Honda Civic	LX Sedan CVT	2020	1,021	2.0L Inline-4 Gas	Gas		
+Honda Civic	Sport Sedan Manual	2020	7,538	2.0L Inline-4 Gas	Gas		
+Honda Accord	Sport 1.5T CVT	2020	2,604	1.5L Inline-4 Gas Turbocharged	Gas		
+Honda Accord	Sport 1.5T CVT	2020	10,124	1.5L Inline-4 Gas Turbocharged	Gas		
+Honda Civic	Sport Hatchback CVT	2020	5,319	1.5L Inline-4 Gas Turbocharged	Gas		
+Honda Civic	Sport Hatchback CVT	2020	5,319	1.5L Inline-4 Gas Turbocharged	Gas		
+Honda Civic	Sport Coupe CVT	2020	10,316	2.0L Inline-4 Gas	Gas		
+Honda Accord	Sport 1.5T CVT	2020	4,671	1.5L Inline-4 Gas Turbocharged	Gas		
+Honda Civic	EX Hatchback CVT	2020	32,542	1.5L Inline-4 Gas Turbocharged	Gas		
+Ford Edge	SEL FWD	2013	84,794	2.0L V-4 Gas Turbocharged	Gas		
+Ford F-150	SVT Raptor SuperCrew 5.5' Box 4WD	2013	gthShort Bed	6.2L V-8 Gas	Gas		
+Ford Explorer	Base FWD	2013	109,321	3.5L V-6 Gas	Gas		
+Ford Escape	SEL 4WD	2013	106,102	1.6L Inline-4 Gas Turbocharged	Gas		
+Ford Escape	SE FWD	2013	138,791	1.6L Inline-4 Gas Turbocharged	Gas		
+Ford Focus	SE Sedan	2013	138,673	2.0L Inline-4 Gas	Gas		
+Ford Escape	SEL FWD	2013	149,756	1.6L Inline-4 Gas Turbocharged	Gas		
+Ford Explorer	XLT FWD	2013	105,380	3.5L V-6 Gas	Gas		
+Ford Fusion	SE FWD	2013	124,245	1.6L Inline-4 Gas Turbocharged	Gas		
+Ford C-Max	Hybrid SEL	2013	72,465	2.0L Inline-4 Hybrid	Hybrid		
+Ford Fusion	S FWD	2013	217,255	2.5L Inline-4 Gas	Gas		
+Ford Fusion	SE FWD	2013	156,500	1.6L Inline-4 Gas Turbocharged	Gas		
+Ford Fusion	SE FWD	2013	108,331	2.5L Inline-4 Gas	Gas		
+Ford Escape	S FWD	2013	106,735	2.5L Inline-4 Gas	Gas		
+Ford Fusion	SE FWD	2013	77,169	2.5L Inline-4 Gas	Gas		
+Ford F-150	XL SuperCrew 5.5' Box 2WD	2013	gthShort Bed	5.0L V-8 Gas	Gas		
+Ford Explorer	XLT FWD	2013	78,562	3.5L V-6 Gas	Gas		
+Ford Fusion	SE FWD	2013	118,797	2.5L Inline-4 Gas	Gas		
+Ford Focus	SE Sedan	2013	121,242	2.0L Inline-4 Gas	Gas		
+Ford F-150	XLT SuperCrew 5.5' Box 4WD	2013	gthShort Bed	3.5L V-6 Gas Turbocharged	Gas		
+Ford Fusion	SE FWD	2013	111,239	1.6L Inline-4 Gas Turbocharged	Gas		
+Ford Explorer	Limited 4WD	2013	127,175	3.5L V-6 Gas	Gas		
+Ford Edge	SE FWD	2013	158,107	2.0L V-4 Gas Turbocharged	Gas		
+Ford Mustang	V6 Coupe	2013	198,869	3.7L V-6 Gas	Gas		
+Ford Focus	SE Hatchback	2013	14,362	2.0L Inline-4 Gas	Gas		
+Ford Explorer	XLT 4WD	2013	132,150	3.5L V-6 Gas	Gas		
+Ford Focus	SE Sedan	2013	86,760	2.0L Inline-4 Gas	Gas		
+Ford Escape	SE 4WD	2013	63,490	1.6L Inline-4 Gas Turbocharged	Gas		
+Ford Focus	Titanium Sedan	2013	81,210	2.0L Inline-4 Gas	Gas		
+Ford Explorer	Limited 4WD	2013	79,475	3.5L V-6 Gas	Gas		
+		2013					
+Ford Fusion	Hybrid SE FWD	2013	49,261	2.0L Inline-4 Hybrid	Hybrid		
+Ford Focus	SE Hatchback	2013	67,778	2.0L Inline-4 Gas	Gas		
+Ford Edge	SEL FWD	2013	84,794	2.0L V-4 Gas Turbocharged	Gas		
+Ford F-150	SVT Raptor SuperCrew 5.5' Box 4WD	2013	gthShort Bed	6.2L V-8 Gas	Gas		
+Ford Explorer	Base FWD	2013	109,321	3.5L V-6 Gas	Gas		
+Ford Escape	SEL 4WD	2013	106,102	1.6L Inline-4 Gas Turbocharged	Gas		
+Ford Escape	SE FWD	2013	138,791	1.6L Inline-4 Gas Turbocharged	Gas		
+Ford Focus	SE Sedan	2013	138,673	2.0L Inline-4 Gas	Gas		
+Ford Escape	SEL FWD	2013	149,756	1.6L Inline-4 Gas Turbocharged	Gas		
+Ford Explorer	XLT FWD	2013	105,380	3.5L V-6 Gas	Gas		
+Ford Fusion	SE FWD	2013	124,245	1.6L Inline-4 Gas Turbocharged	Gas		
+Ford C-Max	Hybrid SEL	2013	72,465	2.0L Inline-4 Hybrid	Hybrid		
+Ford Fusion	S FWD	2013	217,255	2.5L Inline-4 Gas	Gas		
+Ford Fusion	SE FWD	2013	156,500	1.6L Inline-4 Gas Turbocharged	Gas		
+Ford Fusion	SE FWD	2013	108,331	2.5L Inline-4 Gas	Gas		
+Ford Escape	S FWD	2013	106,735	2.5L Inline-4 Gas	Gas		
+Ford Fusion	SE FWD	2013	77,169	2.5L Inline-4 Gas	Gas		
+Ford F-150	XL SuperCrew 5.5' Box 2WD	2013	gthShort Bed	5.0L V-8 Gas	Gas		
+Ford Explorer	XLT FWD	2013	78,562	3.5L V-6 Gas	Gas		
+Ford Fusion	SE FWD	2013	118,797	2.5L Inline-4 Gas	Gas		
+Ford Focus	SE Sedan	2013	121,242	2.0L Inline-4 Gas	Gas		
+Ford F-150	XLT SuperCrew 5.5' Box 4WD	2013	gthShort Bed	3.5L V-6 Gas Turbocharged	Gas		
+Ford Fusion	SE FWD	2013	111,239	1.6L Inline-4 Gas Turbocharged	Gas		
+Ford Explorer	Limited 4WD	2013	127,175	3.5L V-6 Gas	Gas		
+Ford Edge	SE FWD	2013	158,107	2.0L V-4 Gas Turbocharged	Gas		
+Ford Mustang	V6 Coupe	2013	198,869	3.7L V-6 Gas	Gas		
+Ford Focus	SE Hatchback	2013	14,362	2.0L Inline-4 Gas	Gas		
+Ford Explorer	XLT 4WD	2013	132,150	3.5L V-6 Gas	Gas		
+Ford Focus	SE Sedan	2013	86,760	2.0L Inline-4 Gas	Gas		
+Ford Escape	SE 4WD	2013	63,490	1.6L Inline-4 Gas Turbocharged	Gas		
+Ford Focus	Titanium Sedan	2013	81,210	2.0L Inline-4 Gas	Gas		
+Ford Explorer	Limited 4WD	2013	79,475	3.5L V-6 Gas	Gas		
+Ford Explorer	XLT 4WD	2013	167,811	3.5L V-6 Gas	Gas		
+Ford Fusion	Hybrid SE FWD	2013	49,261	2.0L Inline-4 Hybrid	Hybrid		
+Ford Focus	SE Hatchback	2013	67,778	2.0L Inline-4 Gas	Gas		
+Ford Explorer	XLT FWD	2013	172,729	3.5L V-6 Gas	Gas		
+Ford F-150	Platinum SuperCrew 5.5' Box 4WD	2013	gthShort Bed	5.0L V-8 Gas	Gas		
+Ford Explorer	Base FWD	2013	110,297	3.5L V-6 Gas	Gas		
+Ford C-Max	Hybrid SEL	2013	141,950	2.0L Inline-4 Hybrid	Hybrid		
+Ford Fusion	Energi SE Luxury FWD	2013	67,973	2.0L Inline-4 Plug-In Hybrid	Plug-In Hybrid		
+Ford Focus	Titanium Hatchback	2013	80,819	2.0L Inline-4 Gas	Gas		
+Ford Edge	SE FWD	2013	93,172	3.5L V-6 Gas	Gas		
+Ford Edge	Limited FWD	2013	96,803	3.5L V-6 Gas	Gas		
+Ford C-Max	Energi SEL	2013	90,653	2.0L Inline-4 Plug-In Hybrid	Plug-In Hybrid		
+Ford F-150	XLT SuperCab 6.5' Box 4WD	2013	gthStandard Bed	3.5L V-6 Gas Turbocharged	Gas		
+Ford F-150	XLT Regular Cab 6.5' Box 4WD	2013	gthStandard Bed	3.7L V-6 Gas	Gas		
+Ford Fusion	Energi Titanium FWD	2013	91,491	2.0L Inline-4 Plug-In Hybrid	Plug-In Hybrid		
+Ford F-150	STX SuperCab 6.5' Box 4WD	2013	gthStandard Bed	5.0L V-8 Gas	Gas		
+Ford F-150	XLT SuperCrew 5.5' Box 4WD	2013	gthShort Bed	3.5L V-6 Gas Turbocharged	Gas		
+Ford F-150	Platinum SuperCrew 5.5' Box 4WD	2013	gthShort Bed	3.5L V-6 Gas Turbocharged	Gas		
+Ford Escape	SE 4WD	2013	85,208	1.6L Inline-4 Gas Turbocharged	Gas		
+Ford Expedition	EL Limited RWD	2013	161,553	5.4L V-8 Gas	Gas		
+Ford F-150	XLT SuperCrew 5.5' Box 4WD	2013	gthShort Bed	3.5L V-6 Gas Turbocharged	Gas		
+Ford Fusion	SE FWD	2013	124,040	2.5L Inline-4 Gas	Gas		
+Ford F-150	FX4 SuperCrew 6.5' Box 4WD	2013	gthStandard Bed	3.5L V-6 Gas Turbocharged	Gas		
+Ford Fusion	Hybrid SE FWD	2013	103,276	2.0L Inline-4 Hybrid	Hybrid		
+Ford F-150	FX4 SuperCrew 6.5' Box 4WD	2013	gthStandard Bed	3.5L V-6 Gas Turbocharged	Gas		
+Ford Explorer	XLT 4WD	2013	121,689	3.5L V-6 Gas	Gas		
+Ford Edge	SE FWD	2013	138,216	2.0L V-4 Gas Turbocharged	Gas		
+Ford F-150	XL SuperCab 6.5' Box 2WD	2013	gthStandard Bed	3.7L V-6 Gas	Gas		
+Ford Fusion	SE FWD	2013	128,250	1.6L Inline-4 Gas Turbocharged	Gas		
+Ford Explorer	Limited 4WD	2013	126,601	3.5L V-6 Gas	Gas		
+Ford Explorer	Limited FWD	2013	149,710	3.5L V-6 Gas	Gas		
+Ford Escape	SE FWD	2013	93,401	1.6L Inline-4 Gas Turbocharged	Gas		
+Ford Super Duty F-250	Lariat Crew Cab 156" 4WD	2013	gthStandard Bed	6.2L V-8 Gas	Gas		
+Ford Super Duty F-250	Lariat Crew Cab 156" 4WD	2013	gthStandard Bed	6.2L V-8 Gas	Gas		
+Ford F-150	XL SuperCrew 5.5' Box 2WD	2013	gthShort Bed	5.0L V-8 Gas	Gas		
+Ford Edge	SEL FWD	2013	140,318	2.0L V-4 Gas Turbocharged	Gas		
+Ford Fusion	SE FWD	2013	83,583	1.6L Inline-4 Gas Turbocharged	Gas		
+Ford Fusion	Titanium FWD	2014	88,898	2.0L Inline-4 Gas Turbocharged	Gas		
+Ford Fusion	Hybrid SE FWD	2014	120,377	2.0L Inline-4 Hybrid	Hybrid		
+Ford F-150	XL SuperCab 8.0' Box RWD	2014	gthLong Bed	5.0L V-8 Gas	Gas		
+Ford Fusion	SE FWD	2014	91,335	1.5L Inline-4 Gas Turbocharged	Gas		
+Ford Focus	SE Sedan	2014	93,864	2.0L Inline-4 Gas	Gas		
+Ford Fusion	SE FWD	2014	112,014	1.5L Inline-4 Gas Turbocharged	Gas		
+Ford F-150	XL Regular Cab 8.0' Box RWD	2014	gthLong Bed	3.7L V-6 Gas	Gas		
+Ford Escape	SE FWD	2014	92,699	1.6L Inline-4 Gas Turbocharged	Gas		
+Ford Fusion	SE FWD	2014	77,245	2.5L Inline-4 Gas	Gas		
+Ford F-150	XL SuperCrew 5.5' Box 4WD	2014	gthShort Bed	5.0L V-8 Gas	Gas		
+Ford Focus	SE Sedan	2014	91,616	2.0L Inline-4 Gas	Gas		
+Ford F-150	XL SuperCrew 5.5' Box 4WD	2014	gthShort Bed	5.0L V-8 Gas	Gas		
+Ford F-150	XL Regular Cab 8.0' Box RWD	2014	gthLong Bed	3.7L V-6 Gas	Gas		
+Ford Escape	SE 4WD	2014	192,802	2.0L Inline-4 Gas Turbocharged	Gas		
+Ford Focus	SE Hatchback	2014	75,026	2.0L Inline-4 Gas	Gas		
+Ford Escape	SE FWD	2014	112,857	1.6L Inline-4 Gas Turbocharged	Gas		
+Ford Fusion	SE FWD	2014	157,460	2.0L Inline-4 Gas Turbocharged	Gas		
+Ford F-150	XL Regular Cab 8.0' Box RWD	2014	gthLong Bed	5.0L V-8 Gas	Gas		
+Ford Focus	SE Sedan	2014	89,339	2.0L Inline-4 Gas	Gas		
+Ford Fusion	SE FWD	2014	100,625	2.5L Inline-4 Gas	Gas		
+Ford Focus	SE Sedan	2014	72,258	2.0L Inline-4 Gas	Gas		
+Ford F-150	XLT SuperCrew 5.5' Box 4WD	2014	gthShort Bed	5.0L V-8 Gas	Gas		
+Ford F-150	XL SuperCrew 5.5' Box 4WD	2014	gthShort Bed	5.0L V-8 Gas	Gas		
+Ford F-150	XL SuperCab 8.0' Box RWD	2014	gthLong Bed	5.0L V-8 Gas	Gas		
+Ford F-150	XLT SuperCrew 6.5' Box RWD	2014	gthStandard Bed	5.0L V-8 Gas	Gas		
+Ford F-150	XL Regular Cab 8.0' Box RWD	2014	gthLong Bed	3.7L V-6 Gas	Gas		
+Ford Escape	SE FWD	2014	138,656	1.6L Inline-4 Gas Turbocharged	Gas		
+Ford Escape	S FWD	2014	73,223	2.5L Inline-4 Gas	Gas		
+Ford Fusion	SE FWD	2014	79,550	2.5L Inline-4 Gas	Gas		
+Ford Fusion	SE FWD	2014	105,953	2.5L Inline-4 Gas	Gas		
+Ford Fusion	SE FWD	2014	105,067	1.5L Inline-4 Gas Turbocharged	Gas		
+Ford Fusion	SE FWD	2014	129,260	1.5L Inline-4 Gas Turbocharged	Gas		
+Ford F-150	XL SuperCrew 5.5' Box RWD	2014	gthShort Bed	5.0L V-8 Gas	Gas		
+Ford Fusion	Titanium FWD	2014	88,898	2.0L Inline-4 Gas Turbocharged	Gas		
+Ford Fusion	Hybrid SE FWD	2014	120,377	2.0L Inline-4 Hybrid	Hybrid		
+Ford F-150	XL SuperCab 8.0' Box RWD	2014	gthLong Bed	5.0L V-8 Gas	Gas		
+Ford Fusion	SE FWD	2014	91,335	1.5L Inline-4 Gas Turbocharged	Gas		
+Ford Focus	SE Sedan	2014	93,864	2.0L Inline-4 Gas	Gas		
+Ford Fusion	SE FWD	2014	112,014	1.5L Inline-4 Gas Turbocharged	Gas		
+Ford F-150	XL Regular Cab 8.0' Box RWD	2014	gthLong Bed	3.7L V-6 Gas	Gas		
+Ford Escape	SE FWD	2014	92,699	1.6L Inline-4 Gas Turbocharged	Gas		
+Ford Fusion	SE FWD	2014	77,245	2.5L Inline-4 Gas	Gas		
+Ford F-150	XL SuperCrew 5.5' Box 4WD	2014	gthShort Bed	5.0L V-8 Gas	Gas		
+Ford Focus	SE Sedan	2014	91,616	2.0L Inline-4 Gas	Gas		
+Ford F-150	XL SuperCrew 5.5' Box 4WD	2014	gthShort Bed	5.0L V-8 Gas	Gas		
+Ford F-150	XL Regular Cab 8.0' Box RWD	2014	gthLong Bed	3.7L V-6 Gas	Gas		
+Ford Escape	SE 4WD	2014	192,802	2.0L Inline-4 Gas Turbocharged	Gas		
+Ford Focus	SE Hatchback	2014	75,026	2.0L Inline-4 Gas	Gas		
+Ford Escape	SE FWD	2014	112,857	1.6L Inline-4 Gas Turbocharged	Gas		
+Ford Fusion	SE FWD	2014	157,460	2.0L Inline-4 Gas Turbocharged	Gas		
+Ford F-150	XL Regular Cab 8.0' Box RWD	2014	gthLong Bed	5.0L V-8 Gas	Gas		
+Ford Focus	SE Sedan	2014	89,339	2.0L Inline-4 Gas	Gas		
+Ford Fusion	SE FWD	2014	100,625	2.5L Inline-4 Gas	Gas		
+Ford Focus	SE Sedan	2014	72,258	2.0L Inline-4 Gas	Gas		
+Ford F-150	XLT SuperCrew 5.5' Box 4WD	2014	gthShort Bed	5.0L V-8 Gas	Gas		
+Ford F-150	XL SuperCrew 5.5' Box 4WD	2014	gthShort Bed	5.0L V-8 Gas	Gas		
+Ford F-150	XL SuperCab 8.0' Box RWD	2014	gthLong Bed	5.0L V-8 Gas	Gas		
+Ford F-150	XLT SuperCrew 6.5' Box RWD	2014	gthStandard Bed	5.0L V-8 Gas	Gas		
+Ford F-150	XL Regular Cab 8.0' Box RWD	2014	gthLong Bed	3.7L V-6 Gas	Gas		
+Ford Escape	SE FWD	2014	138,656	1.6L Inline-4 Gas Turbocharged	Gas		
+Ford Escape	S FWD	2014	73,223	2.5L Inline-4 Gas	Gas		
+Ford Fusion	SE FWD	2014	79,550	2.5L Inline-4 Gas	Gas		
+Ford Fusion	SE FWD	2014	105,953	2.5L Inline-4 Gas	Gas		
+Ford Fusion	SE FWD	2014	105,067	1.5L Inline-4 Gas Turbocharged	Gas		
+Ford Fusion	SE FWD	2014	129,260	1.5L Inline-4 Gas Turbocharged	Gas		
+Ford F-150	XL SuperCrew 5.5' Box RWD	2014	gthShort Bed	5.0L V-8 Gas	Gas		
+Ford F-150	FX4 SuperCrew 5.5' Box 4WD	2014	gthShort Bed	3.5L V-6 Gas Turbocharged	Gas		
+Ford Fusion	S FWD	2014	89,922	2.5L Inline-4 Gas	Gas		
+Ford Fusion	SE FWD	2014	47,741	2.5L Inline-4 Gas	Gas		
+Ford F-150	XL SuperCab 8.0' Box RWD	2014	gthLong Bed	5.0L V-8 Gas	Gas		
+Ford Explorer	Limited 4WD	2014	151,911	3.5L V-6 Gas	Gas		
+Ford F-150	XL Regular Cab 8.0' Box RWD	2014	gthLong Bed	3.7L V-6 Gas	Gas		
+Ford Escape	SE 4WD	2014	110,227	1.6L Inline-4 Gas Turbocharged	Gas		
+Ford Explorer	Sport 4WD	2014	82,613	3.5L V-6 Gas Turbocharged	Gas		
+Ford F-150	XLT SuperCab 8.0' Box RWD	2014	gthLong Bed	5.0L V-8 Gas	Gas		
+Ford Fiesta	SE Sedan	2014	102,000	1.6L Inline-4 Gas	Gas		
+Ford Focus	SE Sedan	2014	114,214	2.0L Inline-4 Gas	Gas		
+Ford F-150	XLT SuperCrew 5.5' Box RWD	2014	gthShort Bed	3.5L V-6 Gas Turbocharged	Gas		
+Ford F-150	XLT SuperCrew 5.5' Box RWD	2014	gthShort Bed	3.5L V-6 Gas Turbocharged	Gas		
+Ford Escape	SE FWD	2014	129,315	2.0L Inline-4 Gas Turbocharged	Gas		
+Ford F-150	XL SuperCrew 5.5' Box 4WD	2014	gthShort Bed	5.0L V-8 Gas	Gas		
+Ford F-150	XL Regular Cab 8.0' Box RWD	2014	gthLong Bed	3.7L V-6 Gas	Gas		
+Ford Focus	SE Sedan	2014	131,315	2.0L Inline-4 Gas	Gas		
+Ford Fiesta	SE Sedan	2014	95,093	1.6L Inline-4 Gas	Gas		
+Ford Escape	SE FWD	2014	72,804	1.6L Inline-4 Gas Turbocharged	Gas		
+Ford F-150	XL SuperCrew 5.5' Box 4WD	2014	gthShort Bed	5.0L V-8 Gas	Gas		
+Ford Fusion	SE FWD	2014	56,868	2.5L Inline-4 Gas	Gas		
+Ford Fiesta	SE Hatchback	2014	38,712	1.6L Inline-4 Gas	Gas		
+Ford F-150	XL Regular Cab 8.0' Box RWD	2014	gthLong Bed	3.7L V-6 Gas	Gas		
+Ford Focus	SE Hatchback	2014	73,647	2.0L Inline-4 Gas	Gas		
+Ford Fiesta	Titanium Hatchback	2014	93,950	1.6L Inline-4 Gas	Gas		
+Ford Explorer	Limited FWD	2014	81,791	3.5L V-6 Gas	Gas		
+Ford Taurus	SEL FWD	2014	61,415	3.5L V-6 Gas	Gas		
+Ford F-150	XLT SuperCrew 5.5' Box 4WD	2014	gthShort Bed	5.0L V-8 Gas	Gas		
+Ford F-150	XL SuperCab 8.0' Box RWD	2014	gthLong Bed	5.0L V-8 Gas	Gas		
+Ford F-150	XL SuperCab 8.0' Box 4WD	2014	gthLong Bed	3.5L V-6 Gas Turbocharged	Gas		
+Ford F-150	XL SuperCab 8.0' Box 4WD	2014	gthLong Bed	3.5L V-6 Gas Turbocharged	Gas		
+Ford Focus	Titanium Sedan	2014	23,422	2.0L Inline-4 Gas	Gas		
+Ford Fusion	SE FWD	2014	94,942	2.5L Inline-4 Gas	Gas		
+Ford Fusion	SE FWD	2014	106,366	2.5L Inline-4 Gas	Gas		
+Ford Focus	SE Sedan	2015	105,664	2.0L Inline-4 Gas	Gas		
+Ford Super Duty F-350	Lariat Crew Cab 156" 4WD	2015	gthStandard Bed	6.7L V-8 Diesel Turbocharged	Diesel		
+Ford Fusion	SE FWD	2015	30,940	2.5L Inline-4 Gas	Gas		
+Ford Escape	SE FWD	2015	139,186	2.0L Inline-4 Gas Turbocharged	Gas		
+Ford Explorer	Sport 4WD	2015	96,802	3.5L V-6 Gas Turbocharged	Gas		
+Ford Fusion	SE FWD	2015	87,220	1.5L Inline-4 Gas Turbocharged	Gas		
+Ford Explorer	Sport 4WD	2015	100,093	3.5L V-6 Gas Turbocharged	Gas		
+Ford Mustang	V6 Convertible	2015	68,561	3.7L V-6 Gas	Gas		
+Ford Focus	SE Hatchback	2015	71,266	2.0L Inline-4 Gas	Gas		
+Ford Focus	SE Hatchback	2015	39,308	2.0L Inline-4 Gas	Gas		
+Ford Taurus	Limited FWD	2015	86,578	3.5L V-6 Gas	Gas		
+Ford Super Duty F-250	XL Regular Cab 137" RWD	2015	gthLong Bed	6.2L V-8 Gas	Gas		
+Ford Super Duty F-350	XLT Crew Cab 156" 4WD	2015	gthStandard Bed	6.2L V-8 Gas	Gas		
+Ford Escape	Titanium FWD	2015	114,016	1.6L Inline-4 Gas Turbocharged	Gas		
+Ford Super Duty F-350	XL Crew Cab 156" 4WD	2015	gthStandard Bed	6.2L V-8 Gas	Gas		
+Ford Mustang	V6 Fastback	2015	124,620	3.7L V-6 Gas	Gas		
+Ford Focus	SE Hatchback	2015	84,582	2.0L Inline-4 Gas	Gas		
+Ford Escape	SE FWD	2015	63,358	2.5L Inline-4 Gas Turbocharged	Gas		
+Ford Fusion	SE FWD	2015	92,261	2.5L Inline-4 Gas	Gas		
+Ford Super Duty F-350	Platinum Crew Cab 172" 4WD	2015	gthLong Bed	6.7L V-8 Diesel Turbocharged	Diesel		
+Ford Fusion	SE FWD	2015	41,791	2.5L Inline-4 Gas	Gas		
+Ford F-150	XL SuperCrew 5.5' Box RWD	2015	gthShort Bed	5.0L V-8 Gas	Gas		
+Ford Explorer	XLT 4WD	2015	85,312	3.5L V-6 Gas	Gas		
+Ford Escape	SE 4WD	2015	74,295	1.6L Inline-4 Gas Turbocharged	Gas		
+Ford F-150	XL SuperCrew 5.5' Box 4WD	2015	gthShort Bed	2.7L V-6 Gas Turbocharged	Gas		
+Ford Focus	SE Hatchback	2015	43,422	1.0L Inline-3 Gas Turbocharged	Gas		
+Ford F-150	XLT SuperCab 6.5' Box 4WD	2015	gthStandard Bed	2.7L V-6 Gas Turbocharged	Gas		
+Ford Super Duty F-250	XL Crew Cab 172" 4WD	2015	gthLong Bed	6.2L V-8 Gas	Gas		
+Ford Super Duty F-250	XL Regular Cab 137" RWD	2015	gthLong Bed	6.2L V-8 Gas	Gas		
+Ford Transit Passenger Wagon	T-350 XLT with Sliding RH Door 148" Low Roof	2015	ightStandard	3.7L V-6 Gas	Gas		
+Ford Super Duty F-250	XLT Regular Cab 137" RWD	2015	gthLong Bed	6.2L V-8 Gas	Gas		
+Ford Super Duty F-350	Lariat Crew Cab 156" 4WD	2015	gthStandard Bed	6.2L V-8 Gas	Gas		
+Ford F-150	XL SuperCrew 5.5' Box 4WD	2015	gthShort Bed	2.7L V-6 Gas Turbocharged	Gas		
+Ford Focus	SE Sedan	2015	105,664	2.0L Inline-4 Gas	Gas		
+Ford Super Duty F-350	Lariat Crew Cab 156" 4WD	2015	gthStandard Bed	6.7L V-8 Diesel Turbocharged	Diesel		
+Ford Fusion	SE FWD	2015	30,940	2.5L Inline-4 Gas	Gas		
+Ford Escape	SE FWD	2015	139,186	2.0L Inline-4 Gas Turbocharged	Gas		
+Ford Explorer	Sport 4WD	2015	96,802	3.5L V-6 Gas Turbocharged	Gas		
+Ford Fusion	SE FWD	2015	87,220	1.5L Inline-4 Gas Turbocharged	Gas		
+Ford Explorer	Sport 4WD	2015	100,093	3.5L V-6 Gas Turbocharged	Gas		
+Ford Mustang	V6 Convertible	2015	68,561	3.7L V-6 Gas	Gas		
+Ford Focus	SE Hatchback	2015	71,266	2.0L Inline-4 Gas	Gas		
+Ford Focus	SE Hatchback	2015	39,308	2.0L Inline-4 Gas	Gas		
+Ford Taurus	Limited FWD	2015	86,578	3.5L V-6 Gas	Gas		
+Ford Super Duty F-250	XL Regular Cab 137" RWD	2015	gthLong Bed	6.2L V-8 Gas	Gas		
+Ford Super Duty F-350	XLT Crew Cab 156" 4WD	2015	gthStandard Bed	6.2L V-8 Gas	Gas		
+Ford Escape	Titanium FWD	2015	114,016	1.6L Inline-4 Gas Turbocharged	Gas		
+Ford Super Duty F-350	XL Crew Cab 156" 4WD	2015	gthStandard Bed	6.2L V-8 Gas	Gas		
+Ford Mustang	V6 Fastback	2015	124,620	3.7L V-6 Gas	Gas		
+Ford Focus	SE Hatchback	2015	84,582	2.0L Inline-4 Gas	Gas		
+Ford Escape	SE FWD	2015	63,358	2.5L Inline-4 Gas Turbocharged	Gas		
+Ford Fusion	SE FWD	2015	92,261	2.5L Inline-4 Gas	Gas		
+Ford Super Duty F-350	Platinum Crew Cab 172" 4WD	2015	gthLong Bed	6.7L V-8 Diesel Turbocharged	Diesel		
+Ford Fusion	SE FWD	2015	41,791	2.5L Inline-4 Gas	Gas		
+Ford F-150	XL SuperCrew 5.5' Box RWD	2015	gthShort Bed	5.0L V-8 Gas	Gas		
+Ford Explorer	XLT 4WD	2015	85,312	3.5L V-6 Gas	Gas		
+Ford Escape	SE 4WD	2015	74,295	1.6L Inline-4 Gas Turbocharged	Gas		
+Ford F-150	XL SuperCrew 5.5' Box 4WD	2015	gthShort Bed	2.7L V-6 Gas Turbocharged	Gas		
+Ford Focus	SE Hatchback	2015	43,422	1.0L Inline-3 Gas Turbocharged	Gas		
+Ford F-150	XLT SuperCab 6.5' Box 4WD	2015	gthStandard Bed	2.7L V-6 Gas Turbocharged	Gas		
+Ford Super Duty F-250	XL Crew Cab 172" 4WD	2015	gthLong Bed	6.2L V-8 Gas	Gas		
+Ford Super Duty F-250	XL Regular Cab 137" RWD	2015	gthLong Bed	6.2L V-8 Gas	Gas		
+Ford Transit Passenger Wagon	T-350 XLT with Sliding RH Door 148" Low Roof	2015	ightStandard	3.7L V-6 Gas	Gas		
+Ford Super Duty F-250	XLT Regular Cab 137" RWD	2015	gthLong Bed	6.2L V-8 Gas	Gas		
+Ford Super Duty F-350	Lariat Crew Cab 156" 4WD	2015	gthStandard Bed	6.2L V-8 Gas	Gas		
+Ford F-150	XL SuperCrew 5.5' Box 4WD	2015	gthShort Bed	2.7L V-6 Gas Turbocharged	Gas		
+Ford Transit Passenger Wagon	T-350 XL with Swing-Out RH Door 148" Low Roof	2015	ightStandard	3.7L V-6 Gas	Gas		
+Ford F-150	XL SuperCrew 6.5' Box RWD	2015	gthStandard Bed	2.7L V-6 Gas Turbocharged	Gas		
+Ford F-150	XLT SuperCrew 5.5' Box 4WD	2015	gthShort Bed	5.0L V-8 Gas	Gas		
+Ford F-150	XLT SuperCrew 6.5' Box 4WD	2015	gthStandard Bed	5.0L V-8 Gas	Gas		
+Ford Super Duty F-250	Lariat Crew Cab 172" 4WD	2015	gthLong Bed	6.2L V-8 Gas	Gas		
+Ford Super Duty F-350	Lariat Crew Cab 156" 4WD	2015	gthStandard Bed	6.2L V-8 Gas	Gas		
+Ford Super Duty F-350	Platinum Crew Cab 172" 4WD	2015	gthLong Bed	6.7L V-8 Diesel Turbocharged	Diesel		
+Ford Escape	SE FWD	2015	113,074	1.6L Inline-4 Gas Turbocharged	Gas		
+Ford Focus	SE Hatchback	2015	87,818	2.0L Inline-4 Gas	Gas		
+Ford Super Duty F-250	XL Crew Cab 172" 4WD	2015	gthLong Bed	6.2L V-8 Gas	Gas		
+Ford Transit Passenger Wagon	T-350 XLT with Swing-Out RH Door 148" Low Roof	2015	ightStandard	3.7L V-6 Gas	Gas		
+Ford Transit Passenger Wagon	T-350 XLT with Swing-Out RH Door 148" Low Roof	2015	ightStandard	3.7L V-6 Gas	Gas		
+Ford Super Duty F-350 Chassis Cab	XL Crew Cab 176" 60" CA DRW 4WD	2015	eCrew Cab	6.2L V-8 Gas	Gas		
+Ford Transit Cargo Van	T-250 with Sliding RH Door 148" Medium Roof 9000 GVWR	2015	ightMedium	3.7L V-6 Gas	Gas		
+Ford F-150	XL SuperCab 6.5' Box 4WD	2015	gthStandard Bed	3.5L V-6 Gas	Gas		
+Ford Super Duty F-350 Chassis Cab	XL Crew Cab 176" 60" CA DRW 2WD	2015	eCrew Cab	6.2L V-8 Gas	Gas		
+Ford Explorer	Sport 4WD	2015	94,302	3.5L V-6 Gas Turbocharged	Gas		
+Ford Super Duty F-350	Lariat Crew Cab 156" 4WD	2015	gthStandard Bed	6.2L V-8 Gas	Gas		
+Ford Explorer	XLT 4WD	2015	115,539	3.5L V-6 Gas	Gas		
+Ford Transit Connect Van	XL LWB	2015	ightStandard	1.6L Inline-4 Gas Turbocharged	Gas		
+Ford Transit Cargo Van	T-250 with Swing-Out RH Door 130" Low Roof 9000 GVWR	2015	ightStandard	3.7L V-6 Gas	Gas		
+Ford Super Duty F-350	Lariat Crew Cab 156" 4WD	2015	gthStandard Bed	6.2L V-8 Gas	Gas		
+Ford F-150	XLT SuperCrew 5.5' Box RWD	2015	gthShort Bed	2.7L V-6 Gas Turbocharged	Gas		
+Ford Focus	SE Hatchback	2015	61,853	2.0L Inline-4 Gas	Gas		
+Ford Transit Connect Van	XLT LWB	2015	ightStandard	2.5L Inline-4 Gas	Gas		
+Ford Transit Passenger Wagon	T-350 XLT with Sliding RH Door 148" Low Roof	2015	ightStandard	3.7L V-6 Gas	Gas		
+Ford F-150	XLT SuperCrew 5.5' Box 4WD	2015	gthShort Bed	5.0L V-8 Gas	Gas		
+Ford Mustang	EcoBoost Premium Fastback	2015	70,716	2.3L Inline-4 Gas Turbocharged	Gas		
+Ford Super Duty F-250	XLT SuperCab 158" 4WD	2015	gthLong Bed	6.2L V-8 Gas	Gas		
+Ford F-150	XL SuperCab 6.5' Box 4WD	2015	gthStandard Bed	5.0L V-8 Gas	Gas		
+Ford F-150	XLT SuperCab 6.5' Box 4WD	2015	gthStandard Bed	5.0L V-8 Gas	Gas		
+Ford Transit Connect Wagon	Titanium with Rear Liftgate LWB	2015	ightStandard	2.5L Inline-4 Gas	Gas		
+Ford Super Duty F-250	Lariat Crew Cab 172" 4WD	2015	gthLong Bed	6.2L V-8 Gas	Gas		
+Ford Super Duty F-350	Platinum Crew Cab 172" 4WD	2015	gthLong Bed	6.2L V-8 Gas	Gas		
+Ford Fusion	SE FWD	2016	63,170	2.5L Inline-4 Gas	Gas		
+Ford Edge	SEL AWD	2016	47,051	2.0L Inline-4 Gas Turbocharged	Gas		
+Ford Focus	SE Sedan	2016	88,751	2.0L Inline-4 Gas	Gas		
+Ford Fusion	SE FWD	2016	86,128	2.5L Inline-4 Gas	Gas		
+Ford C-Max	Hybrid SE	2016	78,271	2.0L Inline-4 Hybrid	Hybrid		
+Ford Explorer	Base FWD	2016	91,540	3.5L V-6 Gas	Gas		
+Ford Transit Passenger Wagon	T-350 XLT with Swing-Out RH Door 148" Low Roof	2016	ightStandard	3.7L V-6 Gas	Gas		
+Ford Fusion	SE FWD	2016	132,232	2.5L Inline-4 Gas	Gas		
+Ford Escape	SE 4WD	2016	54,048	1.6L Inline-4 Gas Turbocharged	Gas		
+Ford Transit Cargo Van	T-250 with Swing-Out RH Door 130" Low Roof 9000 GVWR	2016	ightStandard	3.7L V-6 Gas	Gas		
+Ford Fusion	SE AWD	2016	51,767	2.0L Inline-4 Gas Turbocharged	Gas		
+Ford Fusion	SE FWD	2016	129,836	2.5L Inline-4 Gas	Gas		
+Ford Super Duty F-250	XLT Crew Cab 156" 4WD	2016	gthStandard Bed	6.2L V-8 Gas	Gas		
+Ford Super Duty F-250	XLT Crew Cab 156" 4WD	2016	gthStandard Bed	6.2L V-8 Gas	Gas		
+Ford Fiesta	S Hatchback	2016	120,645	1.6L Inline-4 Gas	Gas		
+Ford Fusion	SE FWD	2016	135,397	2.5L Inline-4 Gas	Gas		
+Ford Fusion	SE FWD	2016	102,242	1.5L Inline-4 Gas Turbocharged	Gas		
+Ford F-150	XLT SuperCrew 5.5' Box 4WD	2016	gthShort Bed	5.0L V-8 Gas	Gas		
+Ford Fusion	Titanium FWD	2016	70,328	2.0L Inline-4 Gas Turbocharged	Gas		
+Ford Super Duty F-250	XLT Crew Cab 156" 4WD	2016	gthStandard Bed	6.2L V-8 Gas	Gas		
+Ford Explorer	Limited FWD	2016	85,048	3.5L V-6 Gas	Gas		
+Ford Transit Cargo Van	T-150 with Sliding RH Door 130" Low Roof 8600 GVWR	2016	ightStandard	3.7L V-6 Gas	Gas		
+Ford Transit Passenger Wagon	T-350 XLT with Swing-Out RH Door 148" Low Roof	2016	ightStandard	3.7L V-6 Gas	Gas		
+Ford Transit Passenger Wagon	T-350 XL with Sliding RH Door 148" Low Roof	2016	ightStandard	3.7L V-6 Gas	Gas		
+Ford Fusion	SE FWD	2016	74,381	1.5L Inline-4 Gas Turbocharged	Gas		
+Ford F-150	Lariat SuperCrew 5.5' Box 4WD	2016	gthShort Bed	3.5L V-6 Gas Turbocharged	Gas		
+Ford F-150	XLT SuperCrew 5.5' Box 4WD	2016	gthShort Bed	5.0L V-8 Gas	Gas		
+Ford Transit Cargo Van	T-250 with Sliding RH Door 130" Low Roof 9000 GVWR	2016	ightStandard	3.5L V-6 Gas Turbocharged	Gas		
+Ford Taurus	SE FWD	2016	111,800	3.5L V-6 Gas	Gas		
+Ford Fiesta	S Hatchback	2016	47,966	1.6L Inline-4 Gas	Gas		
+Ford Fusion	SE FWD	2016	67,348	2.5L Inline-4 Gas	Gas		
+Ford Fusion	SE FWD	2016	71,721	2.5L Inline-4 Gas	Gas		
+Ford F-150	XLT SuperCrew 5.5' Box 4WD	2016	gthShort Bed	2.7L V-6 Gas Turbocharged	Gas		
+Ford Fusion	SE FWD	2016	63,170	2.5L Inline-4 Gas	Gas		
+Ford Edge	SEL AWD	2016	47,051	2.0L Inline-4 Gas Turbocharged	Gas		
+Ford Focus	SE Sedan	2016	88,751	2.0L Inline-4 Gas	Gas		
+Ford Fusion	SE FWD	2016	86,128	2.5L Inline-4 Gas	Gas		
+Ford C-Max	Hybrid SE	2016	78,271	2.0L Inline-4 Hybrid	Hybrid		
+Ford Explorer	Base FWD	2016	91,540	3.5L V-6 Gas	Gas		
+Ford Transit Passenger Wagon	T-350 XLT with Swing-Out RH Door 148" Low Roof	2016	ightStandard	3.7L V-6 Gas	Gas		
+Ford Fusion	SE FWD	2016	132,232	2.5L Inline-4 Gas	Gas		
+Ford Escape	SE 4WD	2016	54,048	1.6L Inline-4 Gas Turbocharged	Gas		
+Ford Transit Cargo Van	T-250 with Swing-Out RH Door 130" Low Roof 9000 GVWR	2016	ightStandard	3.7L V-6 Gas	Gas		
+Ford Fusion	SE AWD	2016	51,767	2.0L Inline-4 Gas Turbocharged	Gas		
+Ford Fusion	SE FWD	2016	129,836	2.5L Inline-4 Gas	Gas		
+Ford Super Duty F-250	XLT Crew Cab 156" 4WD	2016	gthStandard Bed	6.2L V-8 Gas	Gas		
+Ford Super Duty F-250	XLT Crew Cab 156" 4WD	2016	gthStandard Bed	6.2L V-8 Gas	Gas		
+Ford Fiesta	S Hatchback	2016	120,645	1.6L Inline-4 Gas	Gas		
+Ford Fusion	SE FWD	2016	135,397	2.5L Inline-4 Gas	Gas		
+Ford Fusion	SE FWD	2016	102,242	1.5L Inline-4 Gas Turbocharged	Gas		
+Ford F-150	XLT SuperCrew 5.5' Box 4WD	2016	gthShort Bed	5.0L V-8 Gas	Gas		
+Ford Fusion	Titanium FWD	2016	70,328	2.0L Inline-4 Gas Turbocharged	Gas		
+Ford Super Duty F-250	XLT Crew Cab 156" 4WD	2016	gthStandard Bed	6.2L V-8 Gas	Gas		
+Ford Explorer	Limited FWD	2016	85,048	3.5L V-6 Gas	Gas		
+Ford Transit Cargo Van	T-150 with Sliding RH Door 130" Low Roof 8600 GVWR	2016	ightStandard	3.7L V-6 Gas	Gas		
+Ford Transit Passenger Wagon	T-350 XLT with Swing-Out RH Door 148" Low Roof	2016	ightStandard	3.7L V-6 Gas	Gas		
+Ford Transit Passenger Wagon	T-350 XL with Sliding RH Door 148" Low Roof	2016	ightStandard	3.7L V-6 Gas	Gas		
+Ford Fusion	SE FWD	2016	74,381	1.5L Inline-4 Gas Turbocharged	Gas		
+Ford F-150	Lariat SuperCrew 5.5' Box 4WD	2016	gthShort Bed	3.5L V-6 Gas Turbocharged	Gas		
+Ford F-150	XLT SuperCrew 5.5' Box 4WD	2016	gthShort Bed	5.0L V-8 Gas	Gas		
+Ford Transit Cargo Van	T-250 with Sliding RH Door 130" Low Roof 9000 GVWR	2016	ightStandard	3.5L V-6 Gas Turbocharged	Gas		
+Ford Taurus	SE FWD	2016	111,800	3.5L V-6 Gas	Gas		
+Ford Fiesta	S Hatchback	2016	47,966	1.6L Inline-4 Gas	Gas		
+Ford Fusion	SE FWD	2016	67,348	2.5L Inline-4 Gas	Gas		
+Ford Fusion	SE FWD	2016	71,721	2.5L Inline-4 Gas	Gas		
+Ford F-150	XLT SuperCrew 5.5' Box 4WD	2016	gthShort Bed	2.7L V-6 Gas Turbocharged	Gas		
+Ford F-150	XLT SuperCrew 5.5' Box RWD	2016	gthShort Bed	3.5L V-6 Gas Turbocharged	Gas		
+Ford Focus	SE Sedan	2016	77,282	2.0L Inline-4 Gas	Gas		
+Ford Super Duty F-250	XL SuperCab 158" 4WD	2016	gthLong Bed	6.2L V-8 Gas	Gas		
+Ford Super Duty F-250	XLT Crew Cab 156" 4WD	2016	gthStandard Bed	6.2L V-8 Gas	Gas		
+Ford Transit Passenger Wagon	T-350 XLT with Swing-Out RH Door 148" Low Roof	2016	ightStandard	3.7L V-6 Gas	Gas		
+Ford Edge	SEL FWD	2016	63,260	2.0L Inline-4 Gas Turbocharged	Gas		
+Ford F-150	XLT SuperCrew 5.5' Box 4WD	2016	gthShort Bed	5.0L V-8 Gas	Gas		
+Ford Transit Passenger Wagon	T-350 XL with Swing-Out RH Door 148" Low Roof	2016	ightStandard	3.7L V-6 Gas	Gas		
+Ford Transit Passenger Wagon	T-350 XLT with Swing-Out RH Door 148" Low Roof	2016	ightStandard	3.7L V-6 Gas	Gas		
+Ford Escape	S FWD	2016	54,002	2.5L Inline-4 Gas	Gas		
+Ford F-150	XLT SuperCrew 5.5' Box RWD	2016	gthShort Bed	3.5L V-6 Gas Turbocharged	Gas		
+Ford Fusion	SE FWD	2016	75,151	2.5L Inline-4 Gas	Gas		
+Ford Super Duty F-350 Chassis Cab	XLT Regular Cab 141" 60" CA DRW 4WD	2016	eRegular Cab	6.2L V-8 Gas	Gas		
+Ford Fusion	SE FWD	2016	103,644	2.5L Inline-4 Gas	Gas		
+Ford F-150	XLT Regular Cab 8.0' Box RWD	2016	gthLong Bed	3.5L V-6 Gas	Gas		
+Ford F-150	XLT SuperCrew 5.5' Box 4WD	2016	gthShort Bed	3.5L V-6 Gas Turbocharged	Gas		
+Ford Focus	SE Hatchback	2016	37,371	2.0L Inline-4 Gas	Gas		
+Ford Fiesta	S Hatchback	2016	71,000	1.6L Inline-4 Gas	Gas		
+Ford Fusion	SE FWD	2016	63,082	1.5L Inline-4 Gas Turbocharged	Gas		
+Ford Super Duty F-350	XLT Crew Cab 156" 4WD	2016	gthStandard Bed	6.2L V-8 Gas	Gas		
+Ford Super Duty F-350	XL Crew Cab 156" 4WD	2016	gthStandard Bed	6.2L V-8 Gas	Gas		
+Ford Fusion	SE FWD	2016	31,222	1.5L Inline-4 Gas Turbocharged	Gas		
+Ford F-150	Limited SuperCrew 5.5' Box 4WD *Late Avail*	2016	gthShort Bed	3.5L V-6 Gas Turbocharged	Gas		
+Ford Super Duty F-350	Platinum Crew Cab 172" 4WD	2016	gthLong Bed	6.7L V-8 Diesel Turbocharged	Diesel		
+Ford Fusion	SE FWD	2016	59,695	2.5L Inline-4 Gas	Gas		
+Ford Explorer	Limited FWD	2016	91,154	3.5L V-6 Gas	Gas		
+Ford Transit Cargo Van	T-150 with Swing-Out RH Door 130" Low Roof 8600 GVWR	2016	ightStandard	3.7L V-6 Gas	Gas		
+Ford Transit Cargo Van	T-150 with Sliding RH Door 130" Low Roof 8600 GVWR	2016	ightStandard	3.7L V-6 Gas	Gas		
+Ford Focus	SE Hatchback	2016	70,342	2.0L Inline-4 Gas	Gas		
+Ford Super Duty F-250	XL Crew Cab 172" 4WD	2016	gthLong Bed	6.2L V-8 Gas	Gas		
+Ford F-150	XLT SuperCrew 5.5' Box 4WD	2016	gthShort Bed	3.5L V-6 Gas Turbocharged	Gas		
+Ford Super Duty F-250	Lariat Crew Cab 172" 4WD	2016	gthLong Bed	6.2L V-8 Gas	Gas		
+Ford Super Duty F-350	XLT Crew Cab 156" 4WD	2016	gthStandard Bed	6.7L V-8 Diesel Turbocharged	Diesel		
+Ford Fusion	SE FWD	2016	40,979	2.5L Inline-4 Gas	Gas		
+Ford Explorer	Base FWD	2017	14,939	3.5L V-6 Gas	Gas		
+Ford Fusion	SE FWD	2017	42,057	2.5L Inline-4 Gas	Gas		
+Ford Fusion	SE FWD	2017	32,549	1.5L Inline-4 Gas Turbocharged	Gas		
+Ford Fusion	SE FWD	2017	85,773	1.5L Inline-4 Gas Turbocharged	Gas		
+Ford Fusion	SE FWD	2017	82,306	1.5L Inline-4 Gas Turbocharged	Gas		
+Ford Super Duty F-250	XLT Crew Cab 6.75' Bed 4WD	2017	gthStandard Bed	6.7L V-8 Diesel Turbocharged	Diesel		
+Ford Fusion	SE FWD	2017	72,142	2.5L Inline-4 Gas	Gas		
+Ford Fusion	SE FWD	2017	109,707	2.5L Inline-4 Gas	Gas		
+Ford F-150	XL SuperCab 6.5' Box RWD	2017	gthStandard Bed	3.5L V-6 Gas	Gas		
+Ford Fiesta	SE Sedan	2017	35,283	1.6L Inline-4 Gas	Gas		
+Ford F-150	XLT SuperCrew 5.5' Box 4WD	2017	gthShort Bed	5.0L V-8 Gas	Gas		
+Ford Fusion	SE FWD	2017	103,237	2.5L Inline-4 Gas	Gas		
+Ford Super Duty F-250	XLT Crew Cab 6.75' Bed 4WD	2017	gthStandard Bed	6.7L V-8 Diesel Turbocharged	Diesel		
+Ford Escape	SE 4WD	2017	129,036	1.5L Inline-4 Gas Turbocharged	Gas		
+Ford Escape	SE FWD	2017	162,391	1.5L Inline-4 Gas Turbocharged	Gas		
+Ford Super Duty F-350	XLT SuperCab 6.75' Bed 4WD SRW	2017	gthStandard Bed	6.7L V-8 Diesel Turbocharged	Diesel		
+Ford Super Duty F-350	Platinum Crew Cab 8' Bed 4WD SRW	2017	gthLong Bed	6.2L V-8 Gas	Gas		
+Ford Escape	SE 4WD	2017	54,281	1.5L Inline-4 Gas Turbocharged	Gas		
+Ford Explorer	XLT 4WD	2017	19,182	3.5L V-6 Gas	Gas		
+Ford Transit Passenger Wagon	T-350 XLT with Swing-Out RH Door 148" Low Roof	2017	ightStandard	3.7L V-6 Gas	Gas		
+Ford Escape	Titanium FWD	2017	127,627	2.0L Inline-4 Gas Turbocharged	Gas		
+Ford Transit Passenger Wagon	T-350 XLT with Swing-Out RH Door 148" Low Roof	2017	ightStandard	3.7L V-6 Gas	Gas		
+Ford Fusion	S FWD	2017	90,285	2.5L Inline-4 Gas	Gas		
+Ford F-150	XL SuperCab 6.5' Box RWD	2017	gthStandard Bed	3.5L V-6 Gas	Gas		
+Ford Edge	SEL AWD	2017	70,531	2.0L Inline-4 Gas Turbocharged	Gas		
+Ford Super Duty F-350	XLT Crew Cab 8' Bed 4WD DRW	2017	gthLong Bed	6.7L V-8 Diesel Turbocharged	Diesel		
+Ford Fusion	SE FWD	2017	35,926	1.5L Inline-4 Gas Turbocharged	Gas		
+Ford F-150	XLT SuperCrew 5.5' Box 4WD	2017	gthShort Bed	5.0L V-8 Gas	Gas		
+Ford Super Duty F-250	XLT Crew Cab 6.75' Bed 4WD	2017	gthStandard Bed	6.2L V-8 Gas	Gas		
+Ford F-150	XL SuperCrew 5.5' Box 4WD	2017	gthShort Bed	5.0L V-8 Gas	Gas		
+Ford Super Duty F-250	Lariat Crew Cab 6.75' Bed 4WD	2017	gthStandard Bed	6.2L V-8 Gas	Gas		
+Ford F-150	XLT SuperCrew 5.5' Box 4WD	2017	gthShort Bed	5.0L V-8 Gas	Gas		
+Ford F-150	XLT SuperCrew 5.5' Box 4WD	2017	gthShort Bed	3.5L V-6 Gas	Gas		
+Ford Explorer	Base FWD	2017	14,939	3.5L V-6 Gas	Gas		
+Ford Fusion	SE FWD	2017	42,057	2.5L Inline-4 Gas	Gas		
+Ford Fusion	SE FWD	2017	32,549	1.5L Inline-4 Gas Turbocharged	Gas		
+Ford Fusion	SE FWD	2017	85,773	1.5L Inline-4 Gas Turbocharged	Gas		
+Ford Fusion	SE FWD	2017	82,306	1.5L Inline-4 Gas Turbocharged	Gas		
+Ford Super Duty F-250	XLT Crew Cab 6.75' Bed 4WD	2017	gthStandard Bed	6.7L V-8 Diesel Turbocharged	Diesel		
+Ford Fusion	SE FWD	2017	72,142	2.5L Inline-4 Gas	Gas		
+Ford Fusion	SE FWD	2017	109,707	2.5L Inline-4 Gas	Gas		
+Ford F-150	XL SuperCab 6.5' Box RWD	2017	gthStandard Bed	3.5L V-6 Gas	Gas		
+Ford Fiesta	SE Sedan	2017	35,283	1.6L Inline-4 Gas	Gas		
+Ford F-150	XLT SuperCrew 5.5' Box 4WD	2017	gthShort Bed	5.0L V-8 Gas	Gas		
+Ford Fusion	SE FWD	2017	103,237	2.5L Inline-4 Gas	Gas		
+Ford Super Duty F-250	XLT Crew Cab 6.75' Bed 4WD	2017	gthStandard Bed	6.7L V-8 Diesel Turbocharged	Diesel		
+Ford Escape	SE 4WD	2017	129,036	1.5L Inline-4 Gas Turbocharged	Gas		
+Ford Escape	SE FWD	2017	162,391	1.5L Inline-4 Gas Turbocharged	Gas		
+Ford Super Duty F-350	XLT SuperCab 6.75' Bed 4WD SRW	2017	gthStandard Bed	6.7L V-8 Diesel Turbocharged	Diesel		
+Ford Super Duty F-350	Platinum Crew Cab 8' Bed 4WD SRW	2017	gthLong Bed	6.2L V-8 Gas	Gas		
+Ford Escape	SE 4WD	2017	54,281	1.5L Inline-4 Gas Turbocharged	Gas		
+Ford Explorer	XLT 4WD	2017	19,182	3.5L V-6 Gas	Gas		
+Ford Transit Passenger Wagon	T-350 XLT with Swing-Out RH Door 148" Low Roof	2017	ightStandard	3.7L V-6 Gas	Gas		
+Ford Escape	Titanium FWD	2017	127,627	2.0L Inline-4 Gas Turbocharged	Gas		
+Ford Transit Passenger Wagon	T-350 XLT with Swing-Out RH Door 148" Low Roof	2017	ightStandard	3.7L V-6 Gas	Gas		
+Ford Fusion	S FWD	2017	90,285	2.5L Inline-4 Gas	Gas		
+Ford F-150	XL SuperCab 6.5' Box RWD	2017	gthStandard Bed	3.5L V-6 Gas	Gas		
+Ford Edge	SEL AWD	2017	70,531	2.0L Inline-4 Gas Turbocharged	Gas		
+Ford Super Duty F-350	XLT Crew Cab 8' Bed 4WD DRW	2017	gthLong Bed	6.7L V-8 Diesel Turbocharged	Diesel		
+Ford Fusion	SE FWD	2017	35,926	1.5L Inline-4 Gas Turbocharged	Gas		
+Ford F-150	XLT SuperCrew 5.5' Box 4WD	2017	gthShort Bed	5.0L V-8 Gas	Gas		
+Ford Super Duty F-250	XLT Crew Cab 6.75' Bed 4WD	2017	gthStandard Bed	6.2L V-8 Gas	Gas		
+Ford F-150	XL SuperCrew 5.5' Box 4WD	2017	gthShort Bed	5.0L V-8 Gas	Gas		
+Ford Super Duty F-250	Lariat Crew Cab 6.75' Bed 4WD	2017	gthStandard Bed	6.2L V-8 Gas	Gas		
+Ford F-150	XLT SuperCrew 5.5' Box 4WD	2017	gthShort Bed	5.0L V-8 Gas	Gas		
+Ford F-150	XLT SuperCrew 5.5' Box 4WD	2017	gthShort Bed	3.5L V-6 Gas	Gas		
+Ford C-Max	Hybrid SE	2017	147,545	2.0L Inline-4 Hybrid	Hybrid		
+Ford Fusion	SE FWD	2017	97,118	2.5L Inline-4 Gas	Gas		
+Ford F-150	XLT SuperCrew 5.5' Box 4WD	2017	gthShort Bed	5.0L V-8 Gas	Gas		
+Ford F-150	XLT Regular Cab 6.5' Box RWD	2017	gthStandard Bed	5.0L V-8 Gas	Gas		
+Ford Super Duty F-250	Lariat Crew Cab 8' Bed 4WD	2017	gthLong Bed	6.7L V-8 Diesel Turbocharged	Diesel		
+Ford Focus	SE Sedan	2017	76,736	1.0L Inline-3 Gas Turbocharged	Gas		
+Ford F-150	Platinum SuperCrew 5.5' Box 4WD	2017	gthShort Bed	3.5L V-6 Gas Turbocharged	Gas		
+Ford Transit Passenger Wagon	T-350 XL with Swing-Out RH Door 148" Low Roof	2017	ightStandard	3.7L V-6 Gas	Gas		
+Ford Fiesta	SE Sedan	2017	55,000	1.6L Inline-4 Gas	Gas		
+Ford Mustang	EcoBoost Premium Convertible	2017	82,961	2.3L Inline-4 Gas Turbocharged	Gas		
+Ford Super Duty F-450	Platinum Crew Cab 8' Bed 4WD DRW	2017	gthLong Bed	6.7L V-8 Diesel Turbocharged	Diesel		
+Ford Fusion	SE FWD	2017	98,360	2.5L Inline-4 Gas	Gas		
+Ford F-150	XLT SuperCrew 5.5' Box 4WD	2017	gthShort Bed	2.7L V-6 Gas Turbocharged	Gas		
+Ford Transit Passenger Wagon	T-350 XLT with Swing-Out RH Door 148" Low Roof	2017	ightStandard	3.7L V-6 Gas	Gas		
+Ford Super Duty F-350	Lariat Crew Cab 6.75' Bed 4WD SRW	2017	gthStandard Bed	6.2L V-8 Gas	Gas		
+Ford Transit Passenger Wagon	T-350 XL with Swing-Out RH Door 148" Low Roof	2017	ightStandard	3.7L V-6 Gas	Gas		
+Ford Super Duty F-250	XLT Crew Cab 6.75' Bed 4WD	2017	gthStandard Bed	6.2L V-8 Gas	Gas		
+Ford Fusion	SE FWD	2017	120,207	1.5L Inline-4 Gas Turbocharged	Gas		
+Ford Super Duty F-250	XL Crew Cab 8' Bed 4WD	2017	gthLong Bed	6.2L V-8 Gas	Gas		
+Ford Super Duty F-250	XLT Crew Cab 6.75' Bed 4WD	2017	gthStandard Bed	6.7L V-8 Diesel Turbocharged	Diesel		
+Ford Super Duty F-250	Lariat Crew Cab 8' Bed 4WD	2017	gthLong Bed	6.2L V-8 Gas	Gas		
+Ford Super Duty F-350	XLT Crew Cab 6.75' Bed 4WD SRW	2017	gthStandard Bed	6.2L V-8 Gas	Gas		
+Ford Super Duty F-250	Lariat Crew Cab 8' Bed 4WD	2017	gthLong Bed	6.2L V-8 Gas	Gas		
+Ford C-Max	Hybrid SE	2017	20,345	2.0L Inline-4 Hybrid	Hybrid		
+Ford F-150	XLT SuperCrew 5.5' Box 4WD	2017	gthShort Bed	5.0L V-8 Gas	Gas		
+Ford Super Duty F-350	XLT Crew Cab 6.75' Bed 4WD SRW	2017	gthStandard Bed	6.2L V-8 Gas	Gas		
+Ford Transit Cargo Van	T-150 with Swing-Out RH Door 130" Low Roof 8600 GVWR	2017	ightStandard	3.7L V-6 Gas	Gas		
+Ford Focus	SE Sedan	2017	43,348	2.0L Inline-4 Gas Turbocharged	Gas		
+Ford Focus	SE Hatchback	2017	63,641	2.0L Inline-4 Gas	Gas		
+Ford Fusion	SE FWD	2017	121,531	2.5L Inline-4 Gas	Gas		
+Ford Transit Passenger Wagon	T-350 XL with Swing-Out RH Door 148" Low Roof	2017	ightStandard	3.7L V-6 Gas	Gas		
+Ford Super Duty F-250	XLT Crew Cab 6.75' Bed 4WD	2017	gthStandard Bed	6.7L V-8 Diesel Turbocharged	Diesel		
+Ford Escape	S FWD	2017	42,830	2.5L Inline-4 Gas	Gas		
+Ford Explorer	XLT 4WD	2017	83,556	3.5L V-6 Gas	Gas		
+Ford EcoSport	S FWD	2018	10,255	1.0L Inline-3 Gas Turbocharged	Gas		
+Ford Focus	SE Sedan	2018	27,205	1.0L Inline-3 Gas Turbocharged	Gas		
+Ford C-Max	Hybrid SE	2018	38,743	2.0L Inline-4 Hybrid	Hybrid		
+Ford F-150	XLT SuperCrew 5.5' Box 4WD	2018	gthShort Bed	2.7L V-6 Gas Turbocharged	Gas		
+Ford F-150	XLT SuperCrew 5.5' Box 4WD	2018	gthShort Bed	3.5L V-6 Gas Turbocharged	Gas		
+Ford F-150	XLT SuperCrew 5.5' Box 4WD	2018	gthShort Bed	5.0L V-8 Gas	Gas		
+Ford F-150	XLT SuperCrew 5.5' Box 4WD	2018	gthShort Bed	3.5L V-6 Gas Turbocharged	Gas		
+Ford F-150	Lariat SuperCrew 5.5' Box 4WD	2018	gthShort Bed	3.5L V-6 Gas Turbocharged	Gas		
+Ford Super Duty F-250	Lariat 4WD Crew Cab 6.75' Box	2018	gthStandard Bed	6.2L V-8 Gas	Gas		
+Ford F-150	XLT SuperCrew 5.5' Box 4WD	2018	gthShort Bed	2.7L V-6 Gas Turbocharged	Gas		
+Ford F-150	XLT SuperCrew 5.5' Box 4WD	2018	gthShort Bed	3.3L V-6 Gas	Gas		
+Ford F-150	XLT SuperCrew 5.5' Box 2WD	2018	gthShort Bed	3.3L V-6 Gas	Gas		
+Ford F-150	XLT SuperCrew 5.5' Box 4WD	2018	gthShort Bed	3.5L V-6 Gas Turbocharged	Gas		
+Ford F-150	XL SuperCab 6.5' Box 4WD	2018	gthStandard Bed	3.3L V-6 Gas	Gas		
+Ford F-150	King Ranch SuperCrew 5.5' Box 4WD	2018	gthShort Bed	3.5L V-6 Gas Turbocharged	Gas		
+Ford Focus	SE Hatchback	2018	39,418	2.0L Inline-4 Gas	Gas		
+Ford Super Duty F-250	XLT 4WD Crew Cab 6.75' Box	2018	gthStandard Bed	6.2L V-8 Gas	Gas		
+Ford F-150	XLT SuperCrew 5.5' Box 4WD	2018	gthShort Bed	3.5L V-6 Gas Turbocharged	Gas		
+Ford F-150	XLT SuperCrew 5.5' Box 4WD	2018	gthShort Bed	3.3L V-6 Gas	Gas		
+Ford Fusion	Hybrid Titanium FWD	2018	62,590	2.0L Inline-4 Hybrid	Hybrid		
+Ford Super Duty F-250	XL 4WD Crew Cab 6.75' Box	2018	gthStandard Bed	6.2L V-8 Gas	Gas		
+Ford Focus	Titanium Hatchback	2018	50,953	2.0L Inline-4 Gas	Gas		
+Ford Super Duty F-350	XLT 4WD Crew Cab 6.75' Box SRW	2018	gthStandard Bed	6.2L V-8 Gas	Gas		
+Ford F-150	Lariat SuperCrew 5.5' Box 4WD	2018	gthShort Bed	3.5L V-6 Gas Turbocharged	Gas		
+Ford F-150	XLT SuperCrew 5.5' Box 4WD	2018	gthShort Bed	3.3L V-6 Gas	Gas		
+Ford F-150	XLT SuperCrew 5.5' Box 2WD	2018	gthShort Bed	3.3L V-6 Gas	Gas		
+Ford F-150	XLT SuperCrew 5.5' Box 4WD	2018	gthShort Bed	3.3L V-6 Gas	Gas		
+Ford F-150	XL Regular Cab 6.5' Box 2WD	2018	gthStandard Bed	3.3L V-6 Gas	Gas		
+Ford Transit Passenger Wagon	T-350 XL with Sliding RH Door 148" Low Roof	2018	ightStandard	3.5L V-6 Gas Turbocharged	Gas		
+Ford F-150	XL SuperCrew 5.5' Box 2WD	2018	gthShort Bed	3.3L V-6 Gas	Gas		
+Ford Super Duty F-350	XLT 4WD Crew Cab 6.75' Box SRW	2018	gthStandard Bed	6.2L V-8 Gas	Gas		
+Ford Super Duty F-250	King Ranch 4WD Crew Cab 6.75' Box	2018	gthStandard Bed	6.2L V-8 Gas	Gas		
+Ford F-150	XLT SuperCrew 5.5' Box 2WD	2018	gthShort Bed	2.7L V-6 Gas Turbocharged	Gas		
+Ford EcoSport	S FWD	2018	10,255	1.0L Inline-3 Gas Turbocharged	Gas		
+Ford Focus	SE Sedan	2018	27,205	1.0L Inline-3 Gas Turbocharged	Gas		
+Ford C-Max	Hybrid SE	2018	38,743	2.0L Inline-4 Hybrid	Hybrid		
+Ford F-150	XLT SuperCrew 5.5' Box 4WD	2018	gthShort Bed	2.7L V-6 Gas Turbocharged	Gas		
+Ford F-150	XLT SuperCrew 5.5' Box 4WD	2018	gthShort Bed	3.5L V-6 Gas Turbocharged	Gas		
+Ford F-150	XLT SuperCrew 5.5' Box 4WD	2018	gthShort Bed	5.0L V-8 Gas	Gas		
+Ford F-150	XLT SuperCrew 5.5' Box 4WD	2018	gthShort Bed	3.5L V-6 Gas Turbocharged	Gas		
+Ford F-150	Lariat SuperCrew 5.5' Box 4WD	2018	gthShort Bed	3.5L V-6 Gas Turbocharged	Gas		
+Ford Super Duty F-250	Lariat 4WD Crew Cab 6.75' Box	2018	gthStandard Bed	6.2L V-8 Gas	Gas		
+Ford F-150	XLT SuperCrew 5.5' Box 4WD	2018	gthShort Bed	2.7L V-6 Gas Turbocharged	Gas		
+Ford F-150	XLT SuperCrew 5.5' Box 4WD	2018	gthShort Bed	3.3L V-6 Gas	Gas		
+Ford F-150	XLT SuperCrew 5.5' Box 2WD	2018	gthShort Bed	3.3L V-6 Gas	Gas		
+Ford F-150	XLT SuperCrew 5.5' Box 4WD	2018	gthShort Bed	3.5L V-6 Gas Turbocharged	Gas		
+Ford F-150	XL SuperCab 6.5' Box 4WD	2018	gthStandard Bed	3.3L V-6 Gas	Gas		
+Ford F-150	King Ranch SuperCrew 5.5' Box 4WD	2018	gthShort Bed	3.5L V-6 Gas Turbocharged	Gas		
+Ford Focus	SE Hatchback	2018	39,418	2.0L Inline-4 Gas	Gas		
+Ford Super Duty F-250	XLT 4WD Crew Cab 6.75' Box	2018	gthStandard Bed	6.2L V-8 Gas	Gas		
+Ford F-150	XLT SuperCrew 5.5' Box 4WD	2018	gthShort Bed	3.5L V-6 Gas Turbocharged	Gas		
+Ford F-150	XLT SuperCrew 5.5' Box 4WD	2018	gthShort Bed	3.3L V-6 Gas	Gas		
+Ford Fusion	Hybrid Titanium FWD	2018	62,590	2.0L Inline-4 Hybrid	Hybrid		
+Ford Super Duty F-250	XL 4WD Crew Cab 6.75' Box	2018	gthStandard Bed	6.2L V-8 Gas	Gas		
+Ford Focus	Titanium Hatchback	2018	50,953	2.0L Inline-4 Gas	Gas		
+Ford Super Duty F-350	XLT 4WD Crew Cab 6.75' Box SRW	2018	gthStandard Bed	6.2L V-8 Gas	Gas		
+Ford F-150	Lariat SuperCrew 5.5' Box 4WD	2018	gthShort Bed	3.5L V-6 Gas Turbocharged	Gas		
+Ford F-150	XLT SuperCrew 5.5' Box 4WD	2018	gthShort Bed	3.3L V-6 Gas	Gas		
+Ford F-150	XLT SuperCrew 5.5' Box 2WD	2018	gthShort Bed	3.3L V-6 Gas	Gas		
+Ford F-150	XLT SuperCrew 5.5' Box 4WD	2018	gthShort Bed	3.3L V-6 Gas	Gas		
+Ford F-150	XL Regular Cab 6.5' Box 2WD	2018	gthStandard Bed	3.3L V-6 Gas	Gas		
+Ford Transit Passenger Wagon	T-350 XL with Sliding RH Door 148" Low Roof	2018	ightStandard	3.5L V-6 Gas Turbocharged	Gas		
+Ford F-150	XL SuperCrew 5.5' Box 2WD	2018	gthShort Bed	3.3L V-6 Gas	Gas		
+Ford Super Duty F-350	XLT 4WD Crew Cab 6.75' Box SRW	2018	gthStandard Bed	6.2L V-8 Gas	Gas		
+Ford Super Duty F-250	King Ranch 4WD Crew Cab 6.75' Box	2018	gthStandard Bed	6.2L V-8 Gas	Gas		
+Ford F-150	XLT SuperCrew 5.5' Box 2WD	2018	gthShort Bed	2.7L V-6 Gas Turbocharged	Gas		
+Ford F-150	XLT SuperCrew 5.5' Box 4WD	2018	gthShort Bed	2.7L V-6 Gas Turbocharged	Gas		
+Ford Escape	SE FWD	2018	21,606	1.5L Inline-4 Gas Turbocharged	Gas		
+Ford Transit Passenger Wagon	T-350 XLT with Sliding RH Door 148" Low Roof	2018	ightStandard	3.7L V-6 Gas	Gas		
+Ford Explorer	XLT FWD	2018	95,760	3.5L V-6 Gas	Gas		
+Ford Super Duty F-250	XL 4WD Crew Cab 6.75' Box	2018	gthStandard Bed	6.2L V-8 Gas	Gas		
+Ford Explorer	XLT FWD	2018	88,147	3.5L V-6 Gas	Gas		
+Ford Edge	Titanium FWD	2018	47,149	2.0L Inline-4 Gas Turbocharged	Gas		
+Ford Super Duty F-250	Lariat 4WD Crew Cab 6.75' Box	2018	gthStandard Bed	6.2L V-8 Gas	Gas		
+Ford Fusion	Hybrid SE FWD	2018	32,067	2.0L Inline-4 Hybrid	Hybrid		
+Ford Transit Passenger Wagon	T-350 XL with Sliding RH Door 148" Low Roof	2018	ightStandard	3.7L V-6 Gas	Gas		
+Ford F-150	XLT SuperCab 6.5' Box 4WD	2018	gthStandard Bed	2.7L V-6 Gas Turbocharged	Gas		
+Ford Super Duty F-250	XL 4WD Crew Cab 8' Box	2018	gthLong Bed	6.7L V-8 Diesel Turbocharged	Diesel		
+Ford F-150	XLT SuperCrew 5.5' Box 4WD	2018	gthShort Bed	3.5L V-6 Gas Turbocharged	Gas		
+Ford Edge	SEL FWD	2018	34,134	2.0L Inline-4 Gas Turbocharged	Gas		
+Ford Fusion	Hybrid Titanium FWD	2018	94,735	2.0L Inline-4 Hybrid	Hybrid		
+Ford Fusion	Titanium AWD	2018	81,527	2.0L Inline-4 Gas Turbocharged	Gas		
+Ford Super Duty F-350	Lariat 4WD Crew Cab 6.75' Box	2018	gthStandard Bed	6.2L V-8 Gas	Gas		
+Ford F-150	XLT SuperCrew 5.5' Box 4WD	2018	gthShort Bed	2.7L V-6 Gas Turbocharged	Gas		
+Ford F-150	XLT SuperCrew 5.5' Box 4WD	2018	gthShort Bed	2.7L V-6 Gas Turbocharged	Gas		
+Ford Super Duty F-350	XL 4WD Crew Cab 6.75' Box SRW	2018	gthStandard Bed	6.7L V-8 Diesel Turbocharged	Diesel		
+Ford Fusion	SE FWD	2018	21,966	2.5L Inline-4 Gas	Gas		
+Ford Fiesta	SE Sedan	2018	42,854	1.6L Inline-4 Gas	Gas		
+Ford F-150	XLT SuperCrew 5.5' Box 4WD	2018	gthShort Bed	3.3L V-6 Gas	Gas		
+Ford Escape	SE 4WD	2018	75,859	1.5L Inline-4 Gas Turbocharged	Gas		
+Ford Fusion	SE FWD	2018	31,778	1.5L Inline-4 Gas Turbocharged	Gas		
+Ford Fiesta	SE Sedan	2018	35,838	1.6L Inline-4 Gas	Gas		
+Ford Fusion	Hybrid Platinum FWD	2018	61,148	2.0L Inline-4 Hybrid	Hybrid		
+		2018					
+Ford Focus	S Sedan	2018	167,560	2.0L Inline-4 Gas	Gas		
+Ford F-150	XLT SuperCrew 5.5' Box 4WD	2018	gthShort Bed	3.3L V-6 Gas	Gas		
+Ford F-150	XLT SuperCab 6.5' Box 4WD	2018	gthStandard Bed	2.7L V-6 Gas Turbocharged	Gas		
+Ford F-150	XLT SuperCrew 5.5' Box 4WD	2018	gthShort Bed	2.7L V-6 Gas Turbocharged	Gas		
+Ford F-150	XLT SuperCrew 5.5' Box 2WD	2018	gthShort Bed	3.5L V-6 Gas Turbocharged	Gas		
+Ford Super Duty F-250	XL 4WD Crew Cab 6.75' Box	2018	gthStandard Bed	6.2L V-8 Gas	Gas		
+Ford Escape	SEL AWD	2019	22,166	1.5L Inline-4 Gas Turbocharged	Gas		
+Ford F-150	XLT Regular Cab 6.5' Box 2WD	2019	gthStandard Bed	5.0L V-8 Gas	Gas		
+Ford Fusion	Titanium FWD	2019	32,218	2.0L Inline-4 Gas Turbocharged	Gas		
+Ford Fusion	Hybrid SE FWD	2019	40,085	2.0L Inline-4 Hybrid	Hybrid		
+Ford Fusion	Titanium FWD	2019	29,974	2.0L Inline-4 Gas Turbocharged	Gas		
+Ford Fusion	Hybrid SE FWD	2019	32,316	2.0L Inline-4 Hybrid	Hybrid		
+Ford Fusion	Energi Titanium FWD	2019	11,205	2.0L Inline-4 Plug-In Hybrid	Plug-In Hybrid		
+Ford Fiesta	SE Hatchback	2019	35,312	1.6L Inline-4 Gas	Gas		
+Ford Fusion	Titanium AWD	2019	37,890	2.0L Inline-4 Gas Turbocharged	Gas		
+Ford Fusion	SEL FWD	2019	36,567	1.5L Inline-4 Gas Turbocharged	Gas		
+Ford Fusion	SE AWD	2019	35,598	2.0L Inline-4 Gas Turbocharged	Gas		
+Ford Fusion	SEL FWD	2019	39,129	1.5L Inline-4 Gas Turbocharged	Gas		
+Ford Fusion	Titanium AWD	2019	37,869	2.0L Inline-4 Gas Turbocharged	Gas		
+Ford Fusion	S FWD	2019	26,360	2.5L Inline-4 Gas	Gas		
+Ford Super Duty F-250	Lariat 4WD Crew Cab 6.75' Box	2019	gthStandard Bed	6.2L V-8 Gas	Gas		
+Ford Super Duty F-250	Lariat 4WD Crew Cab 6.75' Box	2019	gthStandard Bed	6.2L V-8 Gas	Gas		
+Ford Flex	Limited FWD	2019	29,502	3.5L V-6 Gas	Gas		
+Ford Fusion	SEL FWD	2019	30,331	1.5L Inline-4 Gas Turbocharged	Gas		
+Ford Fiesta	SE Sedan	2019	38,558	1.6L Inline-4 Gas	Gas		
+Ford Fusion	Hybrid SE FWD	2019	29,038	2.0L Inline-4 Hybrid	Hybrid		
+Ford Super Duty F-250	Lariat 4WD Crew Cab 6.75' Box	2019	gthStandard Bed	6.2L V-8 Gas	Gas		
+Ford Fusion	Hybrid Titanium FWD	2019	38,832	2.0L Inline-4 Hybrid	Hybrid		
+Ford Super Duty F-250	XLT 4WD Crew Cab 6.75' Box	2019	gthStandard Bed	6.2L V-8 Gas	Gas		
+Ford Fusion	SE AWD	2019	44,017	2.0L Inline-4 Gas Turbocharged	Gas		
+Ford Fusion	Titanium AWD	2019	37,327	2.0L Inline-4 Gas Turbocharged	Gas		
+Ford Super Duty F-250	Lariat 4WD Crew Cab 6.75' Box	2019	gthStandard Bed	6.2L V-8 Gas	Gas		
+Ford Fusion	SE AWD	2019	32,420	2.0L Inline-4 Gas Turbocharged	Gas		
+Ford Super Duty F-250	Platinum 4WD Crew Cab 6.75' Box	2019	gthStandard Bed	6.2L V-8 Gas	Gas		
+Ford Flex	Limited FWD	2019	38,209	3.5L V-6 Gas	Gas		
+Ford Super Duty F-350 Chassis Cab	XL Crew Cab 179" 60" CA DRW 4WD	2019	eCrew Cab	6.2L V-8 Gas	Gas		
+Ford Super Duty F-350 Chassis Cab	XL Crew Cab 179" 60" CA DRW 4WD	2019	eCrew Cab	6.2L V-8 Gas	Gas		
+Ford Fusion	Hybrid Titanium FWD	2019	36,924	2.0L Inline-4 Hybrid	Hybrid		
+Ford Fusion	Hybrid Titanium FWD	2019	38,983	2.0L Inline-4 Hybrid	Hybrid		
+Ford Escape	SEL AWD	2019	22,166	1.5L Inline-4 Gas Turbocharged	Gas		
+Ford F-150	XLT Regular Cab 6.5' Box 2WD	2019	gthStandard Bed	5.0L V-8 Gas	Gas		
+Ford Fusion	Titanium FWD	2019	32,218	2.0L Inline-4 Gas Turbocharged	Gas		
+Ford Fusion	Hybrid SE FWD	2019	40,085	2.0L Inline-4 Hybrid	Hybrid		
+Ford Fusion	Titanium FWD	2019	29,974	2.0L Inline-4 Gas Turbocharged	Gas		
+Ford Fusion	Hybrid SE FWD	2019	32,316	2.0L Inline-4 Hybrid	Hybrid		
+Ford Fusion	Energi Titanium FWD	2019	11,205	2.0L Inline-4 Plug-In Hybrid	Plug-In Hybrid		
+Ford Fiesta	SE Hatchback	2019	35,312	1.6L Inline-4 Gas	Gas		
+Ford Fusion	Titanium AWD	2019	37,890	2.0L Inline-4 Gas Turbocharged	Gas		
+Ford Fusion	SEL FWD	2019	36,567	1.5L Inline-4 Gas Turbocharged	Gas		
+Ford Fusion	SE AWD	2019	35,598	2.0L Inline-4 Gas Turbocharged	Gas		
+Ford Fusion	SEL FWD	2019	39,129	1.5L Inline-4 Gas Turbocharged	Gas		
+Ford Fusion	Titanium AWD	2019	37,869	2.0L Inline-4 Gas Turbocharged	Gas		
+Ford Fusion	S FWD	2019	26,360	2.5L Inline-4 Gas	Gas		
+Ford Super Duty F-250	Lariat 4WD Crew Cab 6.75' Box	2019	gthStandard Bed	6.2L V-8 Gas	Gas		
+Ford Super Duty F-250	Lariat 4WD Crew Cab 6.75' Box	2019	gthStandard Bed	6.2L V-8 Gas	Gas		
+Ford Flex	Limited FWD	2019	29,502	3.5L V-6 Gas	Gas		
+Ford Fusion	SEL FWD	2019	30,331	1.5L Inline-4 Gas Turbocharged	Gas		
+Ford Fiesta	SE Sedan	2019	38,558	1.6L Inline-4 Gas	Gas		
+Ford Fusion	Hybrid SE FWD	2019	29,038	2.0L Inline-4 Hybrid	Hybrid		
+Ford Super Duty F-250	Lariat 4WD Crew Cab 6.75' Box	2019	gthStandard Bed	6.2L V-8 Gas	Gas		
+Ford Fusion	Hybrid Titanium FWD	2019	38,832	2.0L Inline-4 Hybrid	Hybrid		
+Ford Super Duty F-250	XLT 4WD Crew Cab 6.75' Box	2019	gthStandard Bed	6.2L V-8 Gas	Gas		
+Ford Fusion	SE AWD	2019	44,017	2.0L Inline-4 Gas Turbocharged	Gas		
+Ford Fusion	Titanium AWD	2019	37,327	2.0L Inline-4 Gas Turbocharged	Gas		
+Ford Super Duty F-250	Lariat 4WD Crew Cab 6.75' Box	2019	gthStandard Bed	6.2L V-8 Gas	Gas		
+Ford Fusion	SE AWD	2019	32,420	2.0L Inline-4 Gas Turbocharged	Gas		
+Ford Super Duty F-250	Platinum 4WD Crew Cab 6.75' Box	2019	gthStandard Bed	6.2L V-8 Gas	Gas		
+Ford Flex	Limited FWD	2019	38,209	3.5L V-6 Gas	Gas		
+Ford Super Duty F-350 Chassis Cab	XL Crew Cab 179" 60" CA DRW 4WD	2019	eCrew Cab	6.2L V-8 Gas	Gas		
+Ford Super Duty F-350 Chassis Cab	XL Crew Cab 179" 60" CA DRW 4WD	2019	eCrew Cab	6.2L V-8 Gas	Gas		
+Ford Fusion	Hybrid Titanium FWD	2019	36,924	2.0L Inline-4 Hybrid	Hybrid		
+Ford Fusion	Hybrid Titanium FWD	2019	38,983	2.0L Inline-4 Hybrid	Hybrid		
+Ford Fusion	Titanium AWD	2019	28,283	2.0L Inline-4 Gas Turbocharged	Gas		
+Ford Fusion	SEL FWD	2019	36,450	1.5L Inline-4 Gas Turbocharged	Gas		
+Ford Fiesta	SE Sedan	2019	16,787	1.6L Inline-4 Gas	Gas		
+Ford Super Duty F-350 Chassis Cab	XL Crew Cab 179" 60" CA DRW 4WD	2019	eCrew Cab	6.2L V-8 Gas	Gas		
+Ford Flex	Limited AWD	2019	39,645	3.5L V-6 Gas	Gas		
+Ford Fiesta	SE Sedan	2019	32,350	1.6L Inline-4 Gas	Gas		
+Ford Fusion	SE AWD	2019	33,365	2.0L Inline-4 Gas Turbocharged	Gas		
+Ford Fusion	SE AWD	2019	36,263	2.0L Inline-4 Gas Turbocharged	Gas		
+Ford F-150	XL Regular Cab 6.5' Box 2WD	2019	gthStandard Bed	5.0L V-8 Gas	Gas		
+Ford Fusion	Hybrid Titanium FWD	2019	43,517	2.0L Inline-4 Hybrid	Hybrid		
+Ford Fiesta	SE Hatchback	2019	36,356	1.6L Inline-4 Gas	Gas		
+Ford Flex	Limited AWD	2019	36,999	3.5L V-6 Gas	Gas		
+Ford Fusion	Hybrid SE FWD	2019	16,350	2.0L Inline-4 Hybrid	Hybrid		
+Ford Fusion	Hybrid SE FWD	2019	42,380	2.0L Inline-4 Hybrid	Hybrid		
+Ford Fusion	SEL FWD	2019	36,045	1.5L Inline-4 Gas Turbocharged	Gas		
+Ford F-150	XLT SuperCrew 5.5' Box 4WD	2019	gthShort Bed	5.0L V-8 Gas	Gas		
+Ford Super Duty F-250	Lariat 4WD Crew Cab 6.75' Box	2019	gthStandard Bed	6.2L V-8 Gas	Gas		
+Ford Fusion	SEL FWD	2019	8,854	1.5L Inline-4 Gas Turbocharged	Gas		
+Ford Fusion	SEL FWD	2019	31,447	1.5L Inline-4 Gas Turbocharged	Gas		
+Ford Fusion	SEL FWD	2019	43,357	1.5L Inline-4 Gas Turbocharged	Gas		
+Ford Fusion	SE FWD	2019	7,011	1.5L Inline-4 Gas Turbocharged	Gas		
+Ford Super Duty F-250	Lariat 4WD Crew Cab 6.75' Box	2019	gthStandard Bed	6.2L V-8 Gas	Gas		
+Ford Fusion	SEL FWD	2019	37,056	1.5L Inline-4 Gas Turbocharged	Gas		
+Ford Fusion	SEL FWD	2019	44,476	1.5L Inline-4 Gas Turbocharged	Gas		
+Ford Fiesta	SE Sedan	2019	29,020	1.6L Inline-4 Gas	Gas		
+Ford Transit Passenger Wagon	T-350 XLT with Sliding RH Door 148" Low Roof	2019	ightStandard	3.7L V-6 Gas	Gas		
+Ford Escape	SE AWD	2019	30,937	1.5L Inline-4 Gas Turbocharged	Gas		
+Ford Fusion	SE FWD	2019	20,203	1.5L Inline-4 Gas Turbocharged	Gas		
+Ford Fiesta	SE Hatchback	2019	28,885	1.6L Inline-4 Gas	Gas		
+Ford Fiesta	ST Line Hatchback	2019	309	1.6L Inline-4 Gas	Gas		
+Ford Super Duty F-250	XLT 4WD Crew Cab 6.75' Box	2019	gthStandard Bed	6.2L V-8 Gas	Gas		
+Ford Transit Passenger Wagon	T-350 XL with Swing-Out RH Door 148" Low Roof	2019	ightStandard	3.5L V-6 Gas Turbocharged	Gas		
+Ford Fusion	Titanium AWD	2019	29,878	2.0L Inline-4 Gas Turbocharged	Gas		
+Ford F-150	XLT SuperCrew 5.5' Box 4WD	2019	gthShort Bed	3.3L V-6 Gas	Gas		
+Ford F-150	XL Regular Cab 6.5' Box 2WD	2020	gthStandard Bed	3.3L V-6 Gas	Gas		
+Ford F-150	XLT SuperCrew 5.5' Box 4WD	2020	gthShort Bed	3.5L V-6 Gas Turbocharged	Gas		
+Ford F-150	XL SuperCrew 5.5' Box 4WD	2020	gthShort Bed	2.7L V-6 Gas Turbocharged	Gas		
+Ford Edge	SEL FWD	2020	14,432	2.0L Inline-4 Gas Turbocharged	Gas		
+Ford Edge	SEL FWD	2020	16,970	2.0L Inline-4 Gas Turbocharged	Gas		
+Ford Super Duty F-250	Lariat Crew Cab 6.75' Box 4WD	2020	gthStandard Bed	6.2L V-8 Gas	Gas		
+Ford Edge	SEL FWD	2020	11,311	2.0L Inline-4 Gas Turbocharged	Gas		
+Ford Super Duty F-250	XLT Crew Cab 6.75' Box 4WD	2020	gthStandard Bed	6.2L V-8 Gas	Gas		
+Ford Super Duty F-250	Lariat Crew Cab 6.75' Box 4WD	2020	gthStandard Bed	6.2L V-8 Gas	Gas		
+Ford Edge	SEL FWD	2020	29,987	2.0L Inline-4 Gas Turbocharged	Gas		
+Ford Edge	SEL FWD	2020	4,664	2.0L Inline-4 Gas Turbocharged	Gas		
+Ford Super Duty F-250	Lariat Crew Cab 6.75' Box 4WD	2020	gthStandard Bed	6.2L V-8 Gas	Gas		
+Ford Super Duty F-250	Platinum Crew Cab 6.75' Box 4WD	2020	gthStandard Bed	6.2L V-8 Gas	Gas		
+Ford Super Duty F-250	XLT Crew Cab 6.75' Box 4WD	2020	gthStandard Bed	6.2L V-8 Gas	Gas		
+Ford Super Duty F-250	Lariat Crew Cab 6.75' Box 4WD	2020	gthStandard Bed	6.2L V-8 Gas	Gas		
+Ford Edge	SEL FWD	2020	4,247	2.0L Inline-4 Gas Turbocharged	Gas		
+Ford Super Duty F-250	Lariat Crew Cab 6.75' Box 4WD	2020	gthStandard Bed	6.2L V-8 Gas	Gas		
+Ford Super Duty F-250	XLT Crew Cab 6.75' Box 4WD	2020	gthStandard Bed	6.2L V-8 Gas	Gas		
+Ford Super Duty F-250	XLT Crew Cab 6.75' Box 4WD	2020	gthStandard Bed	6.2L V-8 Gas	Gas		
+Ford Transit Cargo Van	T-250 148" EL High Roof 9070 GVWR RWD	2020	ightHigh	3.5L V-6 Gas	Gas		
+Ford Super Duty F-250	XL Crew Cab 6.75' Box 4WD	2020	gthStandard Bed	6.2L V-8 Gas	Gas		
+Ford Super Duty F-250	XL Crew Cab 6.75' Box 4WD	2020	gthStandard Bed	6.2L V-8 Gas	Gas		
+Ford Super Duty F-250	XL Crew Cab 6.75' Box 4WD	2020	gthStandard Bed	6.2L V-8 Gas	Gas		
+Ford Super Duty F-250	XL Crew Cab 6.75' Box 4WD	2020	gthStandard Bed	6.2L V-8 Gas	Gas		
+Ford Super Duty F-250	XL Crew Cab 6.75' Box 4WD	2020	gthStandard Bed	6.2L V-8 Gas	Gas		
+Ford Super Duty F-250	XL Crew Cab 6.75' Box 4WD	2020	gthStandard Bed	6.2L V-8 Gas	Gas		
+Ford Super Duty F-250	XL Crew Cab 6.75' Box 4WD	2020	gthStandard Bed	6.2L V-8 Gas	Gas		
+Ford Edge	SEL FWD	2020	7,603	2.0L Inline-4 Gas Turbocharged	Gas		
+Ford Fusion	SEL FWD	2020	11,062	1.5L Inline-4 Gas Turbocharged	Gas		
+Ford Fusion	SEL FWD	2020	14,931	1.5L Inline-4 Gas Turbocharged	Gas		
+Ford Edge	SE FWD	2020	3,699	2.0L Inline-4 Gas Turbocharged	Gas		
+Ford F-150	Lariat SuperCrew 5.5' Box 4WD	2020	gthShort Bed	5.0L V-8 Gas Twin-Turbo	Gas		
+Ford Expedition	Max Limited RWD	2020	41,814	3.5L V-6 Gas Turbocharged	Gas		
+Ford F-150	XL Regular Cab 6.5' Box 2WD	2020	gthStandard Bed	3.3L V-6 Gas	Gas		
+Ford F-150	XLT SuperCrew 5.5' Box 4WD	2020	gthShort Bed	3.5L V-6 Gas Turbocharged	Gas		
+Ford F-150	XL SuperCrew 5.5' Box 4WD	2020	gthShort Bed	2.7L V-6 Gas Turbocharged	Gas		
+Ford Edge	SEL FWD	2020	14,432	2.0L Inline-4 Gas Turbocharged	Gas		
+Ford Edge	SEL FWD	2020	16,970	2.0L Inline-4 Gas Turbocharged	Gas		
+Ford Super Duty F-250	Lariat Crew Cab 6.75' Box 4WD	2020	gthStandard Bed	6.2L V-8 Gas	Gas		
+Ford Edge	SEL FWD	2020	11,311	2.0L Inline-4 Gas Turbocharged	Gas		
+Ford Super Duty F-250	XLT Crew Cab 6.75' Box 4WD	2020	gthStandard Bed	6.2L V-8 Gas	Gas		
+Ford Super Duty F-250	Lariat Crew Cab 6.75' Box 4WD	2020	gthStandard Bed	6.2L V-8 Gas	Gas		
+Ford Edge	SEL FWD	2020	29,987	2.0L Inline-4 Gas Turbocharged	Gas		
+Ford Edge	SEL FWD	2020	4,664	2.0L Inline-4 Gas Turbocharged	Gas		
+Ford Super Duty F-250	Lariat Crew Cab 6.75' Box 4WD	2020	gthStandard Bed	6.2L V-8 Gas	Gas		
+Ford Super Duty F-250	Platinum Crew Cab 6.75' Box 4WD	2020	gthStandard Bed	6.2L V-8 Gas	Gas		
+Ford Super Duty F-250	XLT Crew Cab 6.75' Box 4WD	2020	gthStandard Bed	6.2L V-8 Gas	Gas		
+Ford Super Duty F-250	Lariat Crew Cab 6.75' Box 4WD	2020	gthStandard Bed	6.2L V-8 Gas	Gas		
+Ford Edge	SEL FWD	2020	4,247	2.0L Inline-4 Gas Turbocharged	Gas		
+Ford Super Duty F-250	Lariat Crew Cab 6.75' Box 4WD	2020	gthStandard Bed	6.2L V-8 Gas	Gas		
+Ford Super Duty F-250	XLT Crew Cab 6.75' Box 4WD	2020	gthStandard Bed	6.2L V-8 Gas	Gas		
+Ford Super Duty F-250	XLT Crew Cab 6.75' Box 4WD	2020	gthStandard Bed	6.2L V-8 Gas	Gas		
+Ford Transit Cargo Van	T-250 148" EL High Roof 9070 GVWR RWD	2020	ightHigh	3.5L V-6 Gas	Gas		
+Ford Super Duty F-250	XL Crew Cab 6.75' Box 4WD	2020	gthStandard Bed	6.2L V-8 Gas	Gas		
+Ford Super Duty F-250	XL Crew Cab 6.75' Box 4WD	2020	gthStandard Bed	6.2L V-8 Gas	Gas		
+Ford Super Duty F-250	XL Crew Cab 6.75' Box 4WD	2020	gthStandard Bed	6.2L V-8 Gas	Gas		
+Ford Super Duty F-250	XL Crew Cab 6.75' Box 4WD	2020	gthStandard Bed	6.2L V-8 Gas	Gas		
+Ford Super Duty F-250	XL Crew Cab 6.75' Box 4WD	2020	gthStandard Bed	6.2L V-8 Gas	Gas		
+Ford Super Duty F-250	XL Crew Cab 6.75' Box 4WD	2020	gthStandard Bed	6.2L V-8 Gas	Gas		
+Ford Super Duty F-250	XL Crew Cab 6.75' Box 4WD	2020	gthStandard Bed	6.2L V-8 Gas	Gas		
+Ford Edge	SEL FWD	2020	7,603	2.0L Inline-4 Gas Turbocharged	Gas		
+Ford Fusion	SEL FWD	2020	11,062	1.5L Inline-4 Gas Turbocharged	Gas		
+Ford Fusion	SEL FWD	2020	14,931	1.5L Inline-4 Gas Turbocharged	Gas		
+Ford Edge	SE FWD	2020	3,699	2.0L Inline-4 Gas Turbocharged	Gas		
+Ford F-150	Lariat SuperCrew 5.5' Box 4WD	2020	gthShort Bed	5.0L V-8 Gas Twin-Turbo	Gas		
+Ford Expedition	Max Limited RWD	2020	41,814	3.5L V-6 Gas Turbocharged	Gas		
+Ford Super Duty F-250	Lariat Crew Cab 6.75' Box 4WD	2020	gthStandard Bed	6.2L V-8 Gas	Gas		
+Ford Super Duty F-350	XL Crew Cab 6.75' Box SRW 4WD	2020	gthStandard Bed	6.2L V-8 Gas	Gas		
+Ford Super Duty F-350	XL Crew Cab 6.75' Box SRW 4WD	2020	gthStandard Bed	6.2L V-8 Gas	Gas		
+Ford Escape	SEL FWD	2020	2,852	1.5L Inline-4 Gas Turbocharged	Gas		
+Ford Super Duty F-250	XLT Crew Cab 6.75' Box 4WD	2020	gthStandard Bed	6.2L V-8 Gas	Gas		
+Ford F-150	King Ranch SuperCrew 5.5' Box 4WD	2020	gthShort Bed	5.0L V-8 Gas	Gas		
+Ford Escape	SE AWD	2020	1,489	1.5L Inline-4 Gas Turbocharged	Gas		
+Ford Super Duty F-250	Lariat Crew Cab 6.75' Box 4WD	2020	gthStandard Bed	6.2L V-8 Gas	Gas		
+Ford Expedition	Max Limited RWD	2020	28,927	3.5L V-6 Gas Turbocharged	Gas		
+Ford F-150	XLT SuperCrew 5.5' Box 2WD	2020	gthShort Bed	3.5L V-6 Gas Turbocharged	Gas		
+Ford Super Duty F-250	XLT Crew Cab 6.75' Box 4WD	2020	gthStandard Bed	6.2L V-8 Gas	Gas		
+Ford Transit Cargo Van	T-250 130" Medium Roof 9070 GVWR AWD	2020	ightMedium	3.5L V-6 Gas	Gas		
+Ford Edge	SEL AWD	2020	10,137	2.0L Inline-4 Gas Turbocharged	Gas		
+Ford F-150	Lariat SuperCrew 5.5' Box 4WD	2020	gthShort Bed	5.0L V-8 Gas Twin-Turbo	Gas		
+Ford Mustang	EcoBoost Premium Convertible	2020	19,878	2.3L Inline-4 Gas Turbocharged	Gas		
+Ford Fusion	SEL FWD	2020	11,451	1.5L Inline-4 Gas Turbocharged	Gas		
+Ford F-150	XLT SuperCrew 5.5' Box 4WD	2020	gthShort Bed	3.5L V-6 Gas Turbocharged	Gas		
+Ford F-150	King Ranch SuperCrew 5.5' Box 4WD	2020	gthShort Bed	3.5L V-6 Gas Turbocharged	Gas		
+Ford Super Duty F-250	Lariat Crew Cab 6.75' Box 4WD	2020	gthStandard Bed	6.2L V-8 Gas	Gas		
+Ford Super Duty F-350	Lariat Crew Cab 6.75' Box SRW 4WD	2020	gthStandard Bed	7.2L V-8 Gas	Gas		
+Ford F-150	XLT SuperCrew 5.5' Box 2WD	2020	gthShort Bed	3.5L V-6 Gas Turbocharged	Gas		
+Ford F-150	XLT SuperCrew 5.5' Box 4WD	2020	gthShort Bed	3.5L V-6 Gas Turbocharged	Gas		
+Ford Transit Passenger Wagon	T-150 XL 130" Medium Roof RWD	2020	ightMedium	3.5L V-6 Gas	Gas		
+Ford Fusion	S FWD	2020	3,012	2.5L Inline-4 Gas	Gas		
+Ford F-150	XL SuperCrew 5.5' Box 4WD	2020	gthShort Bed	5.0L V-8 Gas	Gas		
+Ford Super Duty F-250	Platinum Crew Cab 6.75' Box 4WD	2020	gthStandard Bed	6.2L V-8 Gas	Gas		
+Ford Super Duty F-250	XLT Crew Cab 6.75' Box 4WD	2020	gthStandard Bed	6.2L V-8 Gas	Gas		
+Ford F-150	XLT SuperCrew 5.5' Box 4WD	2020	gthShort Bed	3.5L V-6 Gas Turbocharged	Gas		
+Ford F-150	XLT SuperCrew 5.5' Box 4WD	2020	gthShort Bed	3.5L V-6 Gas Turbocharged	Gas		
+Ford F-150	XLT SuperCab 8' Box 4WD	2020	gthLong Bed	3.5L V-6 Gas Turbocharged	Gas		
+Ford Escape	SE FWD	2020	39,534	1.5L Inline-4 Gas Turbocharged	Gas		
+Ford Fusion	SEL FWD	2020	17,258	1.5L Inline-4 Gas Turbocharged	Gas		
+Ford Edge	SEL FWD	2020	10,348	2.0L Inline-4 Gas Turbocharged	Gas		
+Ford Escape	SE AWD	2020	1,855	1.5L Inline-4 Gas Turbocharged	Gas		
+Ford F-150	XL SuperCrew 5.5' Box 2WD	2013	gthShort Bed	2.7L V-6 Gas Turbocharged	Gas		
+Ford Fusion	SE FWD	2013	28,713	1.5L Inline-4 Gas Turbocharged	Gas		
+Ford Escape	Titanium 4WD	2013	38,426	2.0L Inline-4 Gas Turbocharged	Gas		
+Ford Fusion	Hybrid SE FWD	2013	40,085	2.0L Inline-4 Hybrid	Hybrid		
+Ford Fusion	Titanium FWD	2013	29,974	2.0L Inline-4 Gas Turbocharged	Gas		
+Ford Fusion	SE FWD	2013	91,335	1.5L Inline-4 Gas Turbocharged	Gas		
+Ford Escape	SEL 4WD	2013	106,102	1.6L Inline-4 Gas Turbocharged	Gas		
+Ford Focus	SE Sedan	2013	93,864	2.0L Inline-4 Gas	Gas		
+Ford Escape	SE FWD	2013	138,791	1.6L Inline-4 Gas Turbocharged	Gas		
+Ford Fusion	SE FWD	2013	112,014	1.5L Inline-4 Gas Turbocharged	Gas		
+Ford F-150	XL Regular Cab 8.0' Box RWD	2013	gthLong Bed	3.7L V-6 Gas	Gas		
+Ford Escape	SE FWD	2013	111,989	1.6L Inline-4 Gas Turbocharged	Gas		
+Ford Focus	SE Sedan	2013	138,673	2.0L Inline-4 Gas	Gas		
+Ford Escape	SE FWD	2013	92,699	1.6L Inline-4 Gas Turbocharged	Gas		
+Ford Edge	SEL FWD	2013	14,432	2.0L Inline-4 Gas Turbocharged	Gas		
+Ford Fusion	SE FWD	2013	77,245	2.5L Inline-4 Gas	Gas		
+Ford Escape	SEL FWD	2013	149,756	1.6L Inline-4 Gas Turbocharged	Gas		
+Ford Fusion	Hybrid SE FWD	2013	32,316	2.0L Inline-4 Hybrid	Hybrid		
+Ford Explorer	XLT FWD	2013	105,380	3.5L V-6 Gas	Gas		
+Ford Fusion	SE FWD	2013	124,245	1.6L Inline-4 Gas Turbocharged	Gas		
+Ford F-150	XL SuperCrew 5.5' Box 4WD	2013	gthShort Bed	5.0L V-8 Gas	Gas		
+Ford Focus	SE Sedan	2013	91,616	2.0L Inline-4 Gas	Gas		
+Ford Edge	SEL FWD	2013	16,970	2.0L Inline-4 Gas Turbocharged	Gas		
+Ford Fusion	Energi Titanium FWD	2013	11,205	2.0L Inline-4 Plug-In Hybrid	Plug-In Hybrid		
+Ford F-150	XL SuperCrew 5.5' Box 4WD	2013	gthShort Bed	5.0L V-8 Gas	Gas		
+Ford F-150	XL Regular Cab 8.0' Box RWD	2013	gthLong Bed	3.7L V-6 Gas	Gas		
+Ford C-Max	Hybrid SEL	2013	72,465	2.0L Inline-4 Hybrid	Hybrid		
+Ford Super Duty F-250	Lariat Crew Cab 6.75' Box 4WD	2013	gthStandard Bed	6.2L V-8 Gas	Gas		
+Ford Fiesta	SE Hatchback	2013	35,312	1.6L Inline-4 Gas	Gas		
+Ford Fusion	S FWD	2013	217,255	2.5L Inline-4 Gas	Gas		
+Ford Fusion	SE FWD	2013	156,500	1.6L Inline-4 Gas Turbocharged	Gas		
+Ford Fusion	Titanium AWD	2013	37,890	2.0L Inline-4 Gas Turbocharged	Gas		
+Ford Fusion	SE FWD	2013	108,331	2.5L Inline-4 Gas	Gas		
+Ford F-150	XL SuperCrew 5.5' Box 2WD	2013	gthShort Bed	2.7L V-6 Gas Turbocharged	Gas		
+Ford Fusion	SE FWD	2013	28,713	1.5L Inline-4 Gas Turbocharged	Gas		
+Ford Escape	Titanium 4WD	2013	38,426	2.0L Inline-4 Gas Turbocharged	Gas		
+Ford Fusion	Hybrid SE FWD	2013	40,085	2.0L Inline-4 Hybrid	Hybrid		
+Ford Fusion	Titanium FWD	2013	29,974	2.0L Inline-4 Gas Turbocharged	Gas		
+Ford Fusion	SE FWD	2013	91,335	1.5L Inline-4 Gas Turbocharged	Gas		
+Ford Escape	SEL 4WD	2013	106,102	1.6L Inline-4 Gas Turbocharged	Gas		
+Ford Focus	SE Sedan	2013	93,864	2.0L Inline-4 Gas	Gas		
+Ford Escape	SE FWD	2013	138,791	1.6L Inline-4 Gas Turbocharged	Gas		
+Ford Fusion	SE FWD	2013	112,014	1.5L Inline-4 Gas Turbocharged	Gas		
+Ford F-150	XL Regular Cab 8.0' Box RWD	2013	gthLong Bed	3.7L V-6 Gas	Gas		
+Ford Escape	SE FWD	2013	111,989	1.6L Inline-4 Gas Turbocharged	Gas		
+Ford Focus	SE Sedan	2013	138,673	2.0L Inline-4 Gas	Gas		
+Ford Escape	SE FWD	2013	92,699	1.6L Inline-4 Gas Turbocharged	Gas		
+Ford Edge	SEL FWD	2013	14,432	2.0L Inline-4 Gas Turbocharged	Gas		
+Ford Fusion	SE FWD	2013	77,245	2.5L Inline-4 Gas	Gas		
+Ford Escape	SEL FWD	2013	149,756	1.6L Inline-4 Gas Turbocharged	Gas		
+Ford Fusion	Hybrid SE FWD	2013	32,316	2.0L Inline-4 Hybrid	Hybrid		
+Ford Explorer	XLT FWD	2013	105,380	3.5L V-6 Gas	Gas		
+Ford Fusion	SE FWD	2013	124,245	1.6L Inline-4 Gas Turbocharged	Gas		
+Ford F-150	XL SuperCrew 5.5' Box 4WD	2013	gthShort Bed	5.0L V-8 Gas	Gas		
+Ford Focus	SE Sedan	2013	91,616	2.0L Inline-4 Gas	Gas		
+Ford Edge	SEL FWD	2013	16,970	2.0L Inline-4 Gas Turbocharged	Gas		
+Ford Fusion	Energi Titanium FWD	2013	11,205	2.0L Inline-4 Plug-In Hybrid	Plug-In Hybrid		
+Ford F-150	XL SuperCrew 5.5' Box 4WD	2013	gthShort Bed	5.0L V-8 Gas	Gas		
+Ford F-150	XL Regular Cab 8.0' Box RWD	2013	gthLong Bed	3.7L V-6 Gas	Gas		
+Ford C-Max	Hybrid SEL	2013	72,465	2.0L Inline-4 Hybrid	Hybrid		
+Ford Super Duty F-250	Lariat Crew Cab 6.75' Box 4WD	2013	gthStandard Bed	6.2L V-8 Gas	Gas		
+Ford Fiesta	SE Hatchback	2013	35,312	1.6L Inline-4 Gas	Gas		
+Ford Fusion	S FWD	2013	217,255	2.5L Inline-4 Gas	Gas		
+Ford Fusion	SE FWD	2013	156,500	1.6L Inline-4 Gas Turbocharged	Gas		
+Ford Fusion	Titanium AWD	2013	37,890	2.0L Inline-4 Gas Turbocharged	Gas		
+Ford Fusion	SE FWD	2013	108,331	2.5L Inline-4 Gas	Gas		
+Ford Escape	SE 4WD	2013	192,802	2.0L Inline-4 Gas Turbocharged	Gas		
+Ford Explorer	Sport 4WD	2013	96,802	3.5L V-6 Gas Turbocharged	Gas		
+Ford Focus	SE Hatchback	2013	75,026	2.0L Inline-4 Gas	Gas		
+Ford Escape	SE FWD	2013	112,857	1.6L Inline-4 Gas Turbocharged	Gas		
+Ford Fusion	SEL FWD	2013	36,567	1.5L Inline-4 Gas Turbocharged	Gas		
+Ford F-150	XL Regular Cab 8.0' Box RWD	2013	gthLong Bed	5.0L V-8 Gas	Gas		
+Ford Fusion	SE AWD	2013	35,598	2.0L Inline-4 Gas Turbocharged	Gas		
+Ford Edge	SEL FWD	2013	11,311	2.0L Inline-4 Gas Turbocharged	Gas		
+Ford Fusion	SEL FWD	2013	39,129	1.5L Inline-4 Gas Turbocharged	Gas		
+Ford Escape	S FWD	2013	106,735	2.5L Inline-4 Gas	Gas		
+Ford Fusion	SE FWD	2013	77,169	2.5L Inline-4 Gas	Gas		
+Ford Focus	SE Sedan	2013	89,339	2.0L Inline-4 Gas	Gas		
+Ford Super Duty F-250	XLT Crew Cab 6.75' Box 4WD	2013	gthStandard Bed	6.2L V-8 Gas	Gas		
+Ford Fusion	SE FWD	2013	100,625	2.5L Inline-4 Gas	Gas		
+Ford Fusion	SE FWD	2013	87,220	1.5L Inline-4 Gas Turbocharged	Gas		
+Ford Focus	SE Sedan	2013	72,258	2.0L Inline-4 Gas	Gas		
+Ford Explorer	Sport 4WD	2013	100,093	3.5L V-6 Gas Turbocharged	Gas		
+Ford Fusion	Titanium AWD	2013	37,869	2.0L Inline-4 Gas Turbocharged	Gas		
+Ford Fusion	SE FWD	2013	85,773	1.5L Inline-4 Gas Turbocharged	Gas		
+Ford Mustang	GT Coupe	2013	61,236	5.0L V-8 Gas	Gas		
+Ford F-150	XL SuperCrew 5.5' Box 2WD	2013	gthShort Bed	5.0L V-8 Gas	Gas		
+Ford Super Duty F-250	Lariat Crew Cab 6.75' Box 4WD	2013	gthStandard Bed	6.2L V-8 Gas	Gas		
+Ford Edge	SEL FWD	2013	29,987	2.0L Inline-4 Gas Turbocharged	Gas		
+Ford Explorer	XLT FWD	2013	78,562	3.5L V-6 Gas	Gas		
+Ford F-150	XLT SuperCrew 5.5' Box 4WD	2013	gthShort Bed	5.0L V-8 Gas	Gas		
+Ford Edge	SEL FWD	2013	4,664	2.0L Inline-4 Gas Turbocharged	Gas		
+Ford Fusion	SE FWD	2013	118,797	2.5L Inline-4 Gas	Gas		
+Ford Mustang	V6 Convertible	2013	68,561	3.7L V-6 Gas	Gas		
+Ford Super Duty F-250	Lariat Crew Cab 6.75' Box 4WD	2013	gthStandard Bed	6.2L V-8 Gas	Gas		
+Ford Focus	SE Sedan	2013	121,242	2.0L Inline-4 Gas	Gas		
+Ford Focus	SE Sedan	2013	121,242	2.0L Inline-4 Gas	Gas		
+Ford Focus	SE Hatchback	2013	71,266	2.0L Inline-4 Gas	Gas		
+Ford F-150	XL SuperCrew 5.5' Box 4WD	2013	gthShort Bed	5.0L V-8 Gas	Gas		
+Ford Super Duty F-250	Platinum Crew Cab 6.75' Box 4WD	2013	gthStandard Bed	6.2L V-8 Gas	Gas		
+Ford Mustang	GT Coupe	2014	89,764	5.0L V-8 Gas	Gas		
+Ford Explorer	XLT FWD	2014	88,989	3.5L V-6 Gas	Gas		
+Ford Edge	Limited AWD	2014	155,427	3.5L V-6 Gas	Gas		
+Ford Fusion	SE FWD	2014	91,335	1.5L Inline-4 Gas Turbocharged	Gas		
+Ford Focus	SE Sedan	2014	93,864	2.0L Inline-4 Gas	Gas		
+Ford Fusion	SE FWD	2014	112,014	1.5L Inline-4 Gas Turbocharged	Gas		
+Ford F-150	XL Regular Cab 8.0' Box RWD	2014	gthLong Bed	3.7L V-6 Gas	Gas		
+Ford Escape	SE FWD	2014	111,989	1.6L Inline-4 Gas Turbocharged	Gas		
+Ford Escape	SE FWD	2014	92,699	1.6L Inline-4 Gas Turbocharged	Gas		
+Ford Fusion	SE FWD	2014	77,245	2.5L Inline-4 Gas	Gas		
+Ford F-150	XL SuperCrew 5.5' Box 4WD	2014	gthShort Bed	5.0L V-8 Gas	Gas		
+Ford Focus	SE Sedan	2014	91,616	2.0L Inline-4 Gas	Gas		
+Ford F-150	XL SuperCrew 5.5' Box 4WD	2014	gthShort Bed	5.0L V-8 Gas	Gas		
+Ford F-150	XL Regular Cab 8.0' Box RWD	2014	gthLong Bed	3.7L V-6 Gas	Gas		
+Ford Escape	SE 4WD	2014	192,802	2.0L Inline-4 Gas Turbocharged	Gas		
+Ford Focus	SE Hatchback	2014	75,026	2.0L Inline-4 Gas	Gas		
+Ford Escape	SE FWD	2014	112,857	1.6L Inline-4 Gas Turbocharged	Gas		
+Ford Fusion	SE FWD	2014	157,460	2.0L Inline-4 Gas Turbocharged	Gas		
+Ford F-150	XL Regular Cab 8.0' Box RWD	2014	gthLong Bed	5.0L V-8 Gas	Gas		
+Ford Focus	SE Sedan	2014	89,339	2.0L Inline-4 Gas	Gas		
+Ford Fusion	SE FWD	2014	100,625	2.5L Inline-4 Gas	Gas		
+Ford Focus	SE Sedan	2014	72,258	2.0L Inline-4 Gas	Gas		
+Ford Mustang	GT Coupe	2014	61,236	5.0L V-8 Gas	Gas		
+Ford F-150	XLT SuperCrew 5.5' Box 4WD	2014	gthShort Bed	5.0L V-8 Gas	Gas		
+Ford F-150	XL SuperCrew 5.5' Box 4WD	2014	gthShort Bed	5.0L V-8 Gas	Gas		
+Ford F-150	XL SuperCab 8.0' Box RWD	2014	gthLong Bed	5.0L V-8 Gas	Gas		
+Ford F-150	XLT SuperCrew 6.5' Box RWD	2014	gthStandard Bed	5.0L V-8 Gas	Gas		
+Ford F-150	XL Regular Cab 8.0' Box RWD	2014	gthLong Bed	3.7L V-6 Gas	Gas		
+Ford F-150	XL Regular Cab 8.0' Box RWD	2014	gthLong Bed	3.7L V-6 Gas	Gas		
+Ford Focus	SE Hatchback	2014	127,032	2.0L Inline-4 Gas	Gas		
+Ford Escape	SE FWD	2014	138,656	1.6L Inline-4 Gas Turbocharged	Gas		
+Ford Escape	S FWD	2014	73,223	2.5L Inline-4 Gas	Gas		
+Ford Fusion	SE FWD	2014	79,550	2.5L Inline-4 Gas	Gas		
+Ford Mustang	GT Coupe	2014	89,764	5.0L V-8 Gas	Gas		
+Ford Explorer	XLT FWD	2014	88,989	3.5L V-6 Gas	Gas		
+Ford Edge	Limited AWD	2014	155,427	3.5L V-6 Gas	Gas		
+Ford Fusion	SE FWD	2014	91,335	1.5L Inline-4 Gas Turbocharged	Gas		
+Ford Focus	SE Sedan	2014	93,864	2.0L Inline-4 Gas	Gas		
+Ford Fusion	SE FWD	2014	112,014	1.5L Inline-4 Gas Turbocharged	Gas		
+Ford F-150	XL Regular Cab 8.0' Box RWD	2014	gthLong Bed	3.7L V-6 Gas	Gas		
+Ford Escape	SE FWD	2014	111,989	1.6L Inline-4 Gas Turbocharged	Gas		
+Ford Escape	SE FWD	2014	92,699	1.6L Inline-4 Gas Turbocharged	Gas		
+Ford Fusion	SE FWD	2014	77,245	2.5L Inline-4 Gas	Gas		
+Ford F-150	XL SuperCrew 5.5' Box 4WD	2014	gthShort Bed	5.0L V-8 Gas	Gas		
+Ford Focus	SE Sedan	2014	91,616	2.0L Inline-4 Gas	Gas		
+Ford F-150	XL SuperCrew 5.5' Box 4WD	2014	gthShort Bed	5.0L V-8 Gas	Gas		
+Ford F-150	XL Regular Cab 8.0' Box RWD	2014	gthLong Bed	3.7L V-6 Gas	Gas		
+Ford Escape	SE 4WD	2014	192,802	2.0L Inline-4 Gas Turbocharged	Gas		
+Ford Focus	SE Hatchback	2014	75,026	2.0L Inline-4 Gas	Gas		
+Ford Escape	SE FWD	2014	112,857	1.6L Inline-4 Gas Turbocharged	Gas		
+Ford Fusion	SE FWD	2014	157,460	2.0L Inline-4 Gas Turbocharged	Gas		
+Ford F-150	XL Regular Cab 8.0' Box RWD	2014	gthLong Bed	5.0L V-8 Gas	Gas		
+Ford Focus	SE Sedan	2014	89,339	2.0L Inline-4 Gas	Gas		
+Ford Fusion	SE FWD	2014	100,625	2.5L Inline-4 Gas	Gas		
+Ford Focus	SE Sedan	2014	72,258	2.0L Inline-4 Gas	Gas		
+Ford Mustang	GT Coupe	2014	61,236	5.0L V-8 Gas	Gas		
+Ford F-150	XLT SuperCrew 5.5' Box 4WD	2014	gthShort Bed	5.0L V-8 Gas	Gas		
+Ford F-150	XL SuperCrew 5.5' Box 4WD	2014	gthShort Bed	5.0L V-8 Gas	Gas		
+Ford F-150	XL SuperCab 8.0' Box RWD	2014	gthLong Bed	5.0L V-8 Gas	Gas		
+Ford F-150	XLT SuperCrew 6.5' Box RWD	2014	gthStandard Bed	5.0L V-8 Gas	Gas		
+Ford F-150	XL Regular Cab 8.0' Box RWD	2014	gthLong Bed	3.7L V-6 Gas	Gas		
+Ford F-150	XL Regular Cab 8.0' Box RWD	2014	gthLong Bed	3.7L V-6 Gas	Gas		
+Ford Focus	SE Hatchback	2014	127,032	2.0L Inline-4 Gas	Gas		
+Ford Escape	SE FWD	2014	138,656	1.6L Inline-4 Gas Turbocharged	Gas		
+Ford Escape	S FWD	2014	73,223	2.5L Inline-4 Gas	Gas		
+Ford Fusion	SE FWD	2014	79,550	2.5L Inline-4 Gas	Gas		
+Ford Fusion	SE FWD	2014	105,953	2.5L Inline-4 Gas	Gas		
+Ford Fusion	SE FWD	2014	105,067	1.5L Inline-4 Gas Turbocharged	Gas		
+Ford C-Max	Hybrid SE	2014	83,363	2.0L Inline-4 Hybrid	Hybrid		
+Ford Fusion	SE FWD	2014	129,260	1.5L Inline-4 Gas Turbocharged	Gas		
+Ford F-150	XL SuperCrew 5.5' Box RWD	2014	gthShort Bed	5.0L V-8 Gas	Gas		
+Ford F-150	FX4 SuperCrew 5.5' Box 4WD	2014	gthShort Bed	3.5L V-6 Gas Turbocharged	Gas		
+Ford Fusion	S FWD	2014	89,922	2.5L Inline-4 Gas	Gas		
+Ford Fusion	SE FWD	2014	47,741	2.5L Inline-4 Gas	Gas		
+Ford F-150	XL SuperCab 8.0' Box RWD	2014	gthLong Bed	5.0L V-8 Gas	Gas		
+Ford Explorer	Limited 4WD	2014	151,911	3.5L V-6 Gas	Gas		
+Ford Mustang	V6 Coupe	2014	154,425	3.7L V-6 Gas	Gas		
+Ford Escape	SE 4WD	2014	110,227	1.6L Inline-4 Gas Turbocharged	Gas		
+Ford Explorer	Sport 4WD	2014	82,613	3.5L V-6 Gas Turbocharged	Gas		
+Ford F-150	XLT SuperCab 8.0' Box RWD	2014	gthLong Bed	5.0L V-8 Gas	Gas		
+Ford Fiesta	SE Sedan	2014	102,000	1.6L Inline-4 Gas	Gas		
+Ford Focus	SE Sedan	2014	114,214	2.0L Inline-4 Gas	Gas		
+Ford F-150	XLT SuperCrew 5.5' Box RWD	2014	gthShort Bed	3.5L V-6 Gas Turbocharged	Gas		
+Ford F-150	XLT SuperCrew 5.5' Box RWD	2014	gthShort Bed	3.5L V-6 Gas Turbocharged	Gas		
+Ford Escape	SE FWD	2014	129,315	2.0L Inline-4 Gas Turbocharged	Gas		
+Ford F-150	XL SuperCrew 5.5' Box 4WD	2014	gthShort Bed	5.0L V-8 Gas	Gas		
+Ford F-150	XL Regular Cab 8.0' Box RWD	2014	gthLong Bed	3.7L V-6 Gas	Gas		
+Ford Focus	SE Sedan	2014	131,315	2.0L Inline-4 Gas	Gas		
+Ford Focus	SE Sedan	2014	96,518	2.0L Inline-4 Gas	Gas		
+Ford Fiesta	SE Sedan	2014	95,093	1.6L Inline-4 Gas	Gas		
+Ford Escape	SE FWD	2014	72,804	1.6L Inline-4 Gas Turbocharged	Gas		
+Ford F-150	XL SuperCrew 5.5' Box 4WD	2014	gthShort Bed	5.0L V-8 Gas	Gas		
+Ford Fusion	SE FWD	2014	56,868	2.5L Inline-4 Gas	Gas		
+Ford Fiesta	SE Hatchback	2014	38,712	1.6L Inline-4 Gas	Gas		
+Ford F-150	XL Regular Cab 8.0' Box RWD	2014	gthLong Bed	3.7L V-6 Gas	Gas		
+Ford Focus	SE Hatchback	2014	73,647	2.0L Inline-4 Gas	Gas		
+Ford Fiesta	Titanium Hatchback	2014	93,950	1.6L Inline-4 Gas	Gas		
+Ford Explorer	Limited FWD	2014	81,791	3.5L V-6 Gas	Gas		
+Ford Taurus	SEL FWD	2014	61,415	3.5L V-6 Gas	Gas		
+Ford F-150	XLT SuperCrew 5.5' Box 4WD	2014	gthShort Bed	5.0L V-8 Gas	Gas		
+Ford Explorer	Limited FWD	2015	115,273	3.5L V-6 Gas	Gas		
+Ford Taurus	SEL AWD	2015	78,601	3.5L V-6 Gas	Gas		
+Ford Fusion	SE FWD	2015	30,940	2.5L Inline-4 Gas	Gas		
+Ford Explorer	Sport 4WD	2015	96,802	3.5L V-6 Gas Turbocharged	Gas		
+Ford Fusion	SE FWD	2015	87,220	1.5L Inline-4 Gas Turbocharged	Gas		
+Ford Explorer	Sport 4WD	2015	100,093	3.5L V-6 Gas Turbocharged	Gas		
+Ford Mustang	V6 Convertible	2015	68,561	3.7L V-6 Gas	Gas		
+Ford Focus	SE Hatchback	2015	71,266	2.0L Inline-4 Gas	Gas		
+Ford Focus	SE Hatchback	2015	39,308	2.0L Inline-4 Gas	Gas		
+Ford Taurus	Limited FWD	2015	86,578	3.5L V-6 Gas	Gas		
+Ford Super Duty F-250	XL Regular Cab 137" RWD	2015	gthLong Bed	6.2L V-8 Gas	Gas		
+Ford Super Duty F-350	XLT Crew Cab 156" 4WD	2015	gthStandard Bed	6.2L V-8 Gas	Gas		
+Ford Focus	SE Sedan	2015	78,595	2.0L Inline-4 Gas	Gas		
+Ford Escape	Titanium FWD	2015	114,016	1.6L Inline-4 Gas Turbocharged	Gas		
+Ford Super Duty F-350	XL Crew Cab 156" 4WD	2015	gthStandard Bed	6.2L V-8 Gas	Gas		
+Ford Mustang	V6 Fastback	2015	124,620	3.7L V-6 Gas	Gas		
+Ford Focus	SE Hatchback	2015	84,582	2.0L Inline-4 Gas	Gas		
+Ford Escape	SE FWD	2015	63,358	2.5L Inline-4 Gas Turbocharged	Gas		
+Ford Fusion	SE FWD	2015	92,261	2.5L Inline-4 Gas	Gas		
+Ford Super Duty F-350	Platinum Crew Cab 172" 4WD	2015	gthLong Bed	6.7L V-8 Diesel Turbocharged	Diesel		
+Ford Fusion	SE FWD	2015	41,791	2.5L Inline-4 Gas	Gas		
+Ford F-150	XL SuperCrew 5.5' Box RWD	2015	gthShort Bed	5.0L V-8 Gas	Gas		
+Ford Explorer	XLT 4WD	2015	85,312	3.5L V-6 Gas	Gas		
+Ford Escape	SE 4WD	2015	74,295	1.6L Inline-4 Gas Turbocharged	Gas		
+Ford F-150	XL SuperCrew 5.5' Box 4WD	2015	gthShort Bed	2.7L V-6 Gas Turbocharged	Gas		
+Ford Focus	SE Hatchback	2015	43,422	1.0L Inline-3 Gas Turbocharged	Gas		
+Ford F-150	XLT SuperCab 6.5' Box 4WD	2015	gthStandard Bed	2.7L V-6 Gas Turbocharged	Gas		
+Ford Super Duty F-250	XL Crew Cab 172" 4WD	2015	gthLong Bed	6.2L V-8 Gas	Gas		
+Ford Super Duty F-250	XL Regular Cab 137" RWD	2015	gthLong Bed	6.2L V-8 Gas	Gas		
+Ford Transit Passenger Wagon	T-350 XLT with Sliding RH Door 148" Low Roof	2015	ightStandard	3.7L V-6 Gas	Gas		
+Ford Super Duty F-250	XLT Regular Cab 137" RWD	2015	gthLong Bed	6.2L V-8 Gas	Gas		
+Ford Super Duty F-350	Lariat Crew Cab 156" 4WD	2015	gthStandard Bed	6.2L V-8 Gas	Gas		
+Ford F-150	XL SuperCrew 5.5' Box 4WD	2015	gthShort Bed	2.7L V-6 Gas Turbocharged	Gas		
+Ford Explorer	Limited FWD	2015	115,273	3.5L V-6 Gas	Gas		
+Ford Taurus	SEL AWD	2015	78,601	3.5L V-6 Gas	Gas		
+Ford Fusion	SE FWD	2015	30,940	2.5L Inline-4 Gas	Gas		
+Ford Explorer	Sport 4WD	2015	96,802	3.5L V-6 Gas Turbocharged	Gas		
+Ford Fusion	SE FWD	2015	87,220	1.5L Inline-4 Gas Turbocharged	Gas		
+Ford Explorer	Sport 4WD	2015	100,093	3.5L V-6 Gas Turbocharged	Gas		
+Ford Mustang	V6 Convertible	2015	68,561	3.7L V-6 Gas	Gas		
+Ford Focus	SE Hatchback	2015	71,266	2.0L Inline-4 Gas	Gas		
+Ford Focus	SE Hatchback	2015	39,308	2.0L Inline-4 Gas	Gas		
+Ford Taurus	Limited FWD	2015	86,578	3.5L V-6 Gas	Gas		
+Ford Super Duty F-250	XL Regular Cab 137" RWD	2015	gthLong Bed	6.2L V-8 Gas	Gas		
+Ford Super Duty F-350	XLT Crew Cab 156" 4WD	2015	gthStandard Bed	6.2L V-8 Gas	Gas		
+Ford Focus	SE Sedan	2015	78,595	2.0L Inline-4 Gas	Gas		
+Ford Escape	Titanium FWD	2015	114,016	1.6L Inline-4 Gas Turbocharged	Gas		
+Ford Super Duty F-350	XL Crew Cab 156" 4WD	2015	gthStandard Bed	6.2L V-8 Gas	Gas		
+Ford Mustang	V6 Fastback	2015	124,620	3.7L V-6 Gas	Gas		
+Ford Focus	SE Hatchback	2015	84,582	2.0L Inline-4 Gas	Gas		
+Ford Escape	SE FWD	2015	63,358	2.5L Inline-4 Gas Turbocharged	Gas		
+Ford Fusion	SE FWD	2015	92,261	2.5L Inline-4 Gas	Gas		
+Ford Super Duty F-350	Platinum Crew Cab 172" 4WD	2015	gthLong Bed	6.7L V-8 Diesel Turbocharged	Diesel		
+Ford Fusion	SE FWD	2015	41,791	2.5L Inline-4 Gas	Gas		
+Ford F-150	XL SuperCrew 5.5' Box RWD	2015	gthShort Bed	5.0L V-8 Gas	Gas		
+Ford Explorer	XLT 4WD	2015	85,312	3.5L V-6 Gas	Gas		
+Ford Escape	SE 4WD	2015	74,295	1.6L Inline-4 Gas Turbocharged	Gas		
+Ford F-150	XL SuperCrew 5.5' Box 4WD	2015	gthShort Bed	2.7L V-6 Gas Turbocharged	Gas		
+Ford Focus	SE Hatchback	2015	43,422	1.0L Inline-3 Gas Turbocharged	Gas		
+Ford F-150	XLT SuperCab 6.5' Box 4WD	2015	gthStandard Bed	2.7L V-6 Gas Turbocharged	Gas		
+Ford Super Duty F-250	XL Crew Cab 172" 4WD	2015	gthLong Bed	6.2L V-8 Gas	Gas		
+Ford Super Duty F-250	XL Regular Cab 137" RWD	2015	gthLong Bed	6.2L V-8 Gas	Gas		
+Ford Transit Passenger Wagon	T-350 XLT with Sliding RH Door 148" Low Roof	2015	ightStandard	3.7L V-6 Gas	Gas		
+Ford Super Duty F-250	XLT Regular Cab 137" RWD	2015	gthLong Bed	6.2L V-8 Gas	Gas		
+Ford Super Duty F-350	Lariat Crew Cab 156" 4WD	2015	gthStandard Bed	6.2L V-8 Gas	Gas		
+Ford F-150	XL SuperCrew 5.5' Box 4WD	2015	gthShort Bed	2.7L V-6 Gas Turbocharged	Gas		
+Ford Transit Passenger Wagon	T-350 XL with Swing-Out RH Door 148" Low Roof	2015	ightStandard	3.7L V-6 Gas	Gas		
+Ford F-150	XL SuperCrew 6.5' Box RWD	2015	gthStandard Bed	2.7L V-6 Gas Turbocharged	Gas		
+Ford F-150	XLT SuperCrew 6.5' Box 4WD	2015	gthStandard Bed	5.0L V-8 Gas	Gas		
+Ford F-150	XLT SuperCrew 5.5' Box 4WD	2015	gthShort Bed	5.0L V-8 Gas	Gas		
+Ford Super Duty F-250	Lariat Crew Cab 172" 4WD	2015	gthLong Bed	6.2L V-8 Gas	Gas		
+Ford Super Duty F-350	Lariat Crew Cab 156" 4WD	2015	gthStandard Bed	6.2L V-8 Gas	Gas		
+Ford Super Duty F-350	Platinum Crew Cab 172" 4WD	2015	gthLong Bed	6.7L V-8 Diesel Turbocharged	Diesel		
+Ford Escape	SE FWD	2015	113,074	1.6L Inline-4 Gas Turbocharged	Gas		
+Ford Focus	SE Hatchback	2015	87,818	2.0L Inline-4 Gas	Gas		
+Ford Transit Passenger Wagon	T-350 XLT with Swing-Out RH Door 148" Low Roof	2015	ightStandard	3.7L V-6 Gas	Gas		
+Ford Super Duty F-250	XL Crew Cab 172" 4WD	2015	gthLong Bed	6.2L V-8 Gas	Gas		
+Ford Transit Passenger Wagon	T-350 XLT with Swing-Out RH Door 148" Low Roof	2015	ightStandard	3.7L V-6 Gas	Gas		
+Ford Super Duty F-350 Chassis Cab	XL Crew Cab 176" 60" CA DRW 4WD	2015	eCrew Cab	6.2L V-8 Gas	Gas		
+Ford Transit Cargo Van	T-250 with Sliding RH Door 148" Medium Roof 9000 GVWR	2015	ightMedium	3.7L V-6 Gas	Gas		
+Ford F-150	XL SuperCab 6.5' Box 4WD	2015	gthStandard Bed	3.5L V-6 Gas	Gas		
+Ford Super Duty F-350 Chassis Cab	XL Crew Cab 176" 60" CA DRW 2WD	2015	eCrew Cab	6.2L V-8 Gas	Gas		
+Ford Explorer	Sport 4WD	2015	94,302	3.5L V-6 Gas Turbocharged	Gas		
+Ford Super Duty F-350	Lariat Crew Cab 156" 4WD	2015	gthStandard Bed	6.2L V-8 Gas	Gas		
+Ford Explorer	XLT 4WD	2015	115,539	3.5L V-6 Gas	Gas		
+Ford Transit Connect Van	XL LWB	2015	ightStandard	1.6L Inline-4 Gas Turbocharged	Gas		
+Ford Transit Cargo Van	T-250 with Swing-Out RH Door 130" Low Roof 9000 GVWR	2015	ightStandard	3.7L V-6 Gas	Gas		
+Ford Super Duty F-350	Lariat Crew Cab 156" 4WD	2015	gthStandard Bed	6.2L V-8 Gas	Gas		
+Ford F-150	XLT SuperCrew 5.5' Box RWD	2015	gthShort Bed	2.7L V-6 Gas Turbocharged	Gas		
+Ford Focus	SE Hatchback	2015	61,853	2.0L Inline-4 Gas	Gas		
+Ford Transit Connect Van	XLT LWB	2015	ightStandard	2.5L Inline-4 Gas	Gas		
+Ford Transit Passenger Wagon	T-350 XLT with Sliding RH Door 148" Low Roof	2015	ightStandard	3.7L V-6 Gas	Gas		
+Ford F-150	XLT SuperCrew 5.5' Box 4WD	2015	gthShort Bed	5.0L V-8 Gas	Gas		
+Ford Mustang	EcoBoost Premium Fastback	2015	70,716	2.3L Inline-4 Gas Turbocharged	Gas		
+Ford Super Duty F-250	XLT SuperCab 158" 4WD	2015	gthLong Bed	6.2L V-8 Gas	Gas		
+Ford F-150	XL SuperCab 6.5' Box 4WD	2015	gthStandard Bed	5.0L V-8 Gas	Gas		
+Ford F-150	XLT SuperCab 6.5' Box 4WD	2015	gthStandard Bed	5.0L V-8 Gas	Gas		
+Ford Transit Connect Wagon	Titanium with Rear Liftgate LWB	2015	ightStandard	2.5L Inline-4 Gas	Gas		
+Ford Super Duty F-250	Lariat Crew Cab 172" 4WD	2015	gthLong Bed	6.2L V-8 Gas	Gas		
+Ford Super Duty F-350	Platinum Crew Cab 172" 4WD	2015	gthLong Bed	6.2L V-8 Gas	Gas		
+Ford F-150	King Ranch SuperCrew 5.5' Box RWD	2016	gthShort Bed	3.5L V-6 Gas Turbocharged	Gas		
+Ford Fiesta	Titanium Sedan	2016	24,110	1.6L Inline-4 Gas	Gas		
+Ford F-150	Lariat SuperCrew 5.5' Box 4WD	2016	gthShort Bed	3.5L V-6 Gas Turbocharged	Gas		
+Ford Fusion	SE FWD	2016	86,128	2.5L Inline-4 Gas	Gas		
+Ford C-Max	Hybrid SE	2016	78,271	2.0L Inline-4 Hybrid	Hybrid		
+Ford Explorer	Base FWD	2016	91,540	3.5L V-6 Gas	Gas		
+Ford Transit Passenger Wagon	T-350 XLT with Swing-Out RH Door 148" Low Roof	2016	ightStandard	3.7L V-6 Gas	Gas		
+Ford Fusion	SE FWD	2016	132,232	2.5L Inline-4 Gas	Gas		
+Ford Escape	SE 4WD	2016	54,048	1.6L Inline-4 Gas Turbocharged	Gas		
+Ford Transit Cargo Van	T-250 with Swing-Out RH Door 130" Low Roof 9000 GVWR	2016	ightStandard	3.7L V-6 Gas	Gas		
+Ford Fusion	SE AWD	2016	51,767	2.0L Inline-4 Gas Turbocharged	Gas		
+Ford Super Duty F-250	XLT Crew Cab 156" 4WD	2016	gthStandard Bed	6.2L V-8 Gas	Gas		
+Ford Super Duty F-250	XLT Crew Cab 156" 4WD	2016	gthStandard Bed	6.2L V-8 Gas	Gas		
+Ford Fiesta	S Hatchback	2016	120,645	1.6L Inline-4 Gas	Gas		
+Ford Fusion	SE FWD	2016	135,397	2.5L Inline-4 Gas	Gas		
+Ford Fusion	SE FWD	2016	102,242	1.5L Inline-4 Gas Turbocharged	Gas		
+Ford F-150	XLT SuperCrew 5.5' Box 4WD	2016	gthShort Bed	5.0L V-8 Gas	Gas		
+Ford Fusion	Titanium FWD	2016	70,328	2.0L Inline-4 Gas Turbocharged	Gas		
+Ford Super Duty F-250	XLT Crew Cab 156" 4WD	2016	gthStandard Bed	6.2L V-8 Gas	Gas		
+Ford Explorer	Limited FWD	2016	85,048	3.5L V-6 Gas	Gas		
+Ford Transit Cargo Van	T-150 with Sliding RH Door 130" Low Roof 8600 GVWR	2016	ightStandard	3.7L V-6 Gas	Gas		
+Ford Transit Passenger Wagon	T-350 XLT with Swing-Out RH Door 148" Low Roof	2016	ightStandard	3.7L V-6 Gas	Gas		
+Ford Transit Passenger Wagon	T-350 XL with Sliding RH Door 148" Low Roof	2016	ightStandard	3.7L V-6 Gas	Gas		
+Ford Fusion	SE FWD	2016	74,381	1.5L Inline-4 Gas Turbocharged	Gas		
+Ford F-150	Lariat SuperCrew 5.5' Box 4WD	2016	gthShort Bed	3.5L V-6 Gas Turbocharged	Gas		
+Ford Fusion	SE FWD	2016	122,000	1.5L Inline-4 Gas Turbocharged	Gas		
+Ford F-150	XLT SuperCrew 5.5' Box 4WD	2016	gthShort Bed	5.0L V-8 Gas	Gas		
+Ford Transit Cargo Van	T-250 with Sliding RH Door 130" Low Roof 9000 GVWR	2016	ightStandard	3.5L V-6 Gas Turbocharged	Gas		
+Ford Fusion	SE FWD	2016	67,348	2.5L Inline-4 Gas	Gas		
+Ford Fiesta	S Hatchback	2016	47,966	1.6L Inline-4 Gas	Gas		
+Ford Fusion	SE FWD	2016	71,721	2.5L Inline-4 Gas	Gas		
+Ford F-150	XLT SuperCrew 5.5' Box 4WD	2016	gthShort Bed	2.7L V-6 Gas Turbocharged	Gas		
+Ford F-150	XLT SuperCrew 5.5' Box RWD	2016	gthShort Bed	3.5L V-6 Gas Turbocharged	Gas		
+Ford F-150	King Ranch SuperCrew 5.5' Box RWD	2016	gthShort Bed	3.5L V-6 Gas Turbocharged	Gas		
+Ford Fiesta	Titanium Sedan	2016	24,110	1.6L Inline-4 Gas	Gas		
+Ford F-150	Lariat SuperCrew 5.5' Box 4WD	2016	gthShort Bed	3.5L V-6 Gas Turbocharged	Gas		
+Ford Fusion	SE FWD	2016	86,128	2.5L Inline-4 Gas	Gas		
+Ford C-Max	Hybrid SE	2016	78,271	2.0L Inline-4 Hybrid	Hybrid		
+Ford Explorer	Base FWD	2016	91,540	3.5L V-6 Gas	Gas		
+Ford Transit Passenger Wagon	T-350 XLT with Swing-Out RH Door 148" Low Roof	2016	ightStandard	3.7L V-6 Gas	Gas		
+Ford Fusion	SE FWD	2016	132,232	2.5L Inline-4 Gas	Gas		
+Ford Escape	SE 4WD	2016	54,048	1.6L Inline-4 Gas Turbocharged	Gas		
+Ford Transit Cargo Van	T-250 with Swing-Out RH Door 130" Low Roof 9000 GVWR	2016	ightStandard	3.7L V-6 Gas	Gas		
+Ford Fusion	SE AWD	2016	51,767	2.0L Inline-4 Gas Turbocharged	Gas		
+Ford Super Duty F-250	XLT Crew Cab 156" 4WD	2016	gthStandard Bed	6.2L V-8 Gas	Gas		
+Ford Super Duty F-250	XLT Crew Cab 156" 4WD	2016	gthStandard Bed	6.2L V-8 Gas	Gas		
+Ford Fiesta	S Hatchback	2016	120,645	1.6L Inline-4 Gas	Gas		
+Ford Fusion	SE FWD	2016	135,397	2.5L Inline-4 Gas	Gas		
+Ford Fusion	SE FWD	2016	102,242	1.5L Inline-4 Gas Turbocharged	Gas		
+Ford F-150	XLT SuperCrew 5.5' Box 4WD	2016	gthShort Bed	5.0L V-8 Gas	Gas		
+Ford Fusion	Titanium FWD	2016	70,328	2.0L Inline-4 Gas Turbocharged	Gas		
+Ford Super Duty F-250	XLT Crew Cab 156" 4WD	2016	gthStandard Bed	6.2L V-8 Gas	Gas		
+Ford Explorer	Limited FWD	2016	85,048	3.5L V-6 Gas	Gas		
+Ford Transit Cargo Van	T-150 with Sliding RH Door 130" Low Roof 8600 GVWR	2016	ightStandard	3.7L V-6 Gas	Gas		
+Ford Transit Passenger Wagon	T-350 XLT with Swing-Out RH Door 148" Low Roof	2016	ightStandard	3.7L V-6 Gas	Gas		
+Ford Transit Passenger Wagon	T-350 XL with Sliding RH Door 148" Low Roof	2016	ightStandard	3.7L V-6 Gas	Gas		
+Ford Fusion	SE FWD	2016	74,381	1.5L Inline-4 Gas Turbocharged	Gas		
+Ford F-150	Lariat SuperCrew 5.5' Box 4WD	2016	gthShort Bed	3.5L V-6 Gas Turbocharged	Gas		
+Ford Fusion	SE FWD	2016	122,000	1.5L Inline-4 Gas Turbocharged	Gas		
+Ford F-150	XLT SuperCrew 5.5' Box 4WD	2016	gthShort Bed	5.0L V-8 Gas	Gas		
+Ford Transit Cargo Van	T-250 with Sliding RH Door 130" Low Roof 9000 GVWR	2016	ightStandard	3.5L V-6 Gas Turbocharged	Gas		
+Ford Fusion	SE FWD	2016	67,348	2.5L Inline-4 Gas	Gas		
+Ford Fiesta	S Hatchback	2016	47,966	1.6L Inline-4 Gas	Gas		
+Ford Fusion	SE FWD	2016	71,721	2.5L Inline-4 Gas	Gas		
+Ford F-150	XLT SuperCrew 5.5' Box 4WD	2016	gthShort Bed	2.7L V-6 Gas Turbocharged	Gas		
+Ford F-150	XLT SuperCrew 5.5' Box RWD	2016	gthShort Bed	3.5L V-6 Gas Turbocharged	Gas		
+Ford Focus	SE Sedan	2016	77,282	2.0L Inline-4 Gas	Gas		
+Ford Transit Passenger Wagon	T-350 XLT with Swing-Out RH Door 148" Low Roof	2016	ightStandard	3.7L V-6 Gas	Gas		
+Ford Edge	SEL FWD	2016	63,260	2.0L Inline-4 Gas Turbocharged	Gas		
+Ford F-150	XLT SuperCrew 5.5' Box 4WD	2016	gthShort Bed	5.0L V-8 Gas	Gas		
+Ford Transit Passenger Wagon	T-350 XL with Swing-Out RH Door 148" Low Roof	2016	ightStandard	3.7L V-6 Gas	Gas		
+Ford Transit Passenger Wagon	T-350 XLT with Swing-Out RH Door 148" Low Roof	2016	ightStandard	3.7L V-6 Gas	Gas		
+Ford Escape	S FWD	2016	54,002	2.5L Inline-4 Gas	Gas		
+Ford F-150	XLT SuperCrew 5.5' Box RWD	2016	gthShort Bed	3.5L V-6 Gas Turbocharged	Gas		
+Ford Fusion	SE FWD	2016	75,151	2.5L Inline-4 Gas	Gas		
+Ford Super Duty F-350 Chassis Cab	XLT Regular Cab 141" 60" CA DRW 4WD	2016	eRegular Cab	6.2L V-8 Gas	Gas		
+Ford Fusion	SE FWD	2016	103,644	2.5L Inline-4 Gas	Gas		
+Ford F-150	XLT Regular Cab 8.0' Box RWD	2016	gthLong Bed	3.5L V-6 Gas	Gas		
+Ford F-150	XLT SuperCrew 5.5' Box 4WD	2016	gthShort Bed	3.5L V-6 Gas Turbocharged	Gas		
+Ford Focus	SE Hatchback	2016	37,371	2.0L Inline-4 Gas	Gas		
+Ford Fiesta	S Hatchback	2016	71,000	1.6L Inline-4 Gas	Gas		
+Ford Fusion	SE FWD	2016	63,082	1.5L Inline-4 Gas Turbocharged	Gas		
+Ford Super Duty F-350	XLT Crew Cab 156" 4WD	2016	gthStandard Bed	6.2L V-8 Gas	Gas		
+Ford Super Duty F-350	XL Crew Cab 156" 4WD	2016	gthStandard Bed	6.2L V-8 Gas	Gas		
+Ford Fusion	SE FWD	2016	31,222	1.5L Inline-4 Gas Turbocharged	Gas		
+Ford F-150	Limited SuperCrew 5.5' Box 4WD *Late Avail*	2016	gthShort Bed	3.5L V-6 Gas Turbocharged	Gas		
+Ford Super Duty F-350	Platinum Crew Cab 172" 4WD	2016	gthLong Bed	6.7L V-8 Diesel Turbocharged	Diesel		
+Ford Fusion	SE FWD	2016	59,695	2.5L Inline-4 Gas	Gas		
+Ford Explorer	Limited FWD	2016	91,154	3.5L V-6 Gas	Gas		
+Ford Transit Cargo Van	T-150 with Swing-Out RH Door 130" Low Roof 8600 GVWR	2016	ightStandard	3.7L V-6 Gas	Gas		
+Ford Transit Cargo Van	T-150 with Sliding RH Door 130" Low Roof 8600 GVWR	2016	ightStandard	3.7L V-6 Gas	Gas		
+Ford Focus	SE Hatchback	2016	70,342	2.0L Inline-4 Gas	Gas		
+Ford Super Duty F-250	XL Crew Cab 172" 4WD	2016	gthLong Bed	6.2L V-8 Gas	Gas		
+Ford F-150	XLT SuperCrew 5.5' Box 4WD	2016	gthShort Bed	3.5L V-6 Gas Turbocharged	Gas		
+Ford Super Duty F-250	Lariat Crew Cab 172" 4WD	2016	gthLong Bed	6.2L V-8 Gas	Gas		
+Ford Super Duty F-350	XLT Crew Cab 156" 4WD	2016	gthStandard Bed	6.7L V-8 Diesel Turbocharged	Diesel		
+Ford Fusion	SE FWD	2016	40,979	2.5L Inline-4 Gas	Gas		
+Ford Super Duty F-250	Lariat Crew Cab 172" 4WD	2016	gthLong Bed	6.2L V-8 Gas	Gas		
+Ford F-150	XLT Regular Cab 6.5' Box 4WD	2016	gthStandard Bed	2.7L V-6 Gas Turbocharged	Gas		
+Ford Transit Passenger Wagon	T-350 XL with Sliding RH Door 148" Low Roof	2016	ightStandard	3.7L V-6 Gas	Gas		
+Ford Flex	SEL FWD	2017	37,270	3.5L V-6 Gas	Gas		
+Ford Explorer	XLT FWD	2017	35,623	2.3L V-4 Gas Turbocharged	Gas		
+Ford Explorer	Sport 4WD	2017	28,330	3.5L V-6 Gas Turbocharged	Gas		
+Ford Fusion	SE FWD	2017	85,773	1.5L Inline-4 Gas Turbocharged	Gas		
+Ford Fusion	SE FWD	2017	82,306	1.5L Inline-4 Gas Turbocharged	Gas		
+Ford Super Duty F-250	XLT Crew Cab 6.75' Bed 4WD	2017	gthStandard Bed	6.7L V-8 Diesel Turbocharged	Diesel		
+Ford Fusion	SE FWD	2017	72,142	2.5L Inline-4 Gas	Gas		
+Ford Fusion	SE FWD	2017	109,707	2.5L Inline-4 Gas	Gas		
+Ford F-150	XL SuperCab 6.5' Box RWD	2017	gthStandard Bed	3.5L V-6 Gas	Gas		
+Ford Fiesta	SE Sedan	2017	35,283	1.6L Inline-4 Gas	Gas		
+Ford F-150	XLT SuperCrew 5.5' Box 4WD	2017	gthShort Bed	5.0L V-8 Gas	Gas		
+Ford Fusion	SE FWD	2017	103,237	2.5L Inline-4 Gas	Gas		
+Ford Super Duty F-250	XLT Crew Cab 6.75' Bed 4WD	2017	gthStandard Bed	6.7L V-8 Diesel Turbocharged	Diesel		
+Ford Escape	SE 4WD	2017	129,036	1.5L Inline-4 Gas Turbocharged	Gas		
+Ford Escape	SE FWD	2017	162,391	1.5L Inline-4 Gas Turbocharged	Gas		
+Ford Super Duty F-350	XLT SuperCab 6.75' Bed 4WD SRW	2017	gthStandard Bed	6.7L V-8 Diesel Turbocharged	Diesel		
+Ford Super Duty F-350	Platinum Crew Cab 8' Bed 4WD SRW	2017	gthLong Bed	6.2L V-8 Gas	Gas		
+Ford Escape	SE 4WD	2017	54,281	1.5L Inline-4 Gas Turbocharged	Gas		
+Ford Explorer	XLT 4WD	2017	19,182	3.5L V-6 Gas	Gas		
+Ford Transit Passenger Wagon	T-350 XLT with Swing-Out RH Door 148" Low Roof	2017	ightStandard	3.7L V-6 Gas	Gas		
+Ford Escape	Titanium FWD	2017	127,627	2.0L Inline-4 Gas Turbocharged	Gas		
+Ford Transit Passenger Wagon	T-350 XLT with Swing-Out RH Door 148" Low Roof	2017	ightStandard	3.7L V-6 Gas	Gas		
+Ford Fusion	S FWD	2017	90,285	2.5L Inline-4 Gas	Gas		
+Ford F-150	XL SuperCab 6.5' Box RWD	2017	gthStandard Bed	3.5L V-6 Gas	Gas		
+Ford Edge	SEL AWD	2017	70,531	2.0L Inline-4 Gas Turbocharged	Gas		
+Ford Super Duty F-350	XLT Crew Cab 8' Bed 4WD DRW	2017	gthLong Bed	6.7L V-8 Diesel Turbocharged	Diesel		
+Ford Fusion	SE FWD	2017	35,926	1.5L Inline-4 Gas Turbocharged	Gas		
+Ford F-150	XLT SuperCrew 5.5' Box 4WD	2017	gthShort Bed	5.0L V-8 Gas	Gas		
+Ford Super Duty F-250	XLT Crew Cab 6.75' Bed 4WD	2017	gthStandard Bed	6.2L V-8 Gas	Gas		
+Ford F-150	XL SuperCrew 5.5' Box 4WD	2017	gthShort Bed	5.0L V-8 Gas	Gas		
+Ford Super Duty F-250	Lariat Crew Cab 6.75' Bed 4WD	2017	gthStandard Bed	6.2L V-8 Gas	Gas		
+Ford F-150	XLT SuperCrew 5.5' Box 4WD	2017	gthShort Bed	5.0L V-8 Gas	Gas		
+Ford F-150	XLT SuperCrew 5.5' Box 4WD	2017	gthShort Bed	3.5L V-6 Gas	Gas		
+Ford Flex	SEL FWD	2017	37,270	3.5L V-6 Gas	Gas		
+Ford Explorer	XLT FWD	2017	35,623	2.3L V-4 Gas Turbocharged	Gas		
+Ford Explorer	Sport 4WD	2017	28,330	3.5L V-6 Gas Turbocharged	Gas		
+Ford Fusion	SE FWD	2017	85,773	1.5L Inline-4 Gas Turbocharged	Gas		
+Ford Fusion	SE FWD	2017	82,306	1.5L Inline-4 Gas Turbocharged	Gas		
+Ford Super Duty F-250	XLT Crew Cab 6.75' Bed 4WD	2017	gthStandard Bed	6.7L V-8 Diesel Turbocharged	Diesel		
+Ford Fusion	SE FWD	2017	72,142	2.5L Inline-4 Gas	Gas		
+Ford Fusion	SE FWD	2017	109,707	2.5L Inline-4 Gas	Gas		
+Ford F-150	XL SuperCab 6.5' Box RWD	2017	gthStandard Bed	3.5L V-6 Gas	Gas		
+Ford Fiesta	SE Sedan	2017	35,283	1.6L Inline-4 Gas	Gas		
+Ford F-150	XLT SuperCrew 5.5' Box 4WD	2017	gthShort Bed	5.0L V-8 Gas	Gas		
+Ford Fusion	SE FWD	2017	103,237	2.5L Inline-4 Gas	Gas		
+Ford Super Duty F-250	XLT Crew Cab 6.75' Bed 4WD	2017	gthStandard Bed	6.7L V-8 Diesel Turbocharged	Diesel		
+Ford Escape	SE 4WD	2017	129,036	1.5L Inline-4 Gas Turbocharged	Gas		
+Ford Escape	SE FWD	2017	162,391	1.5L Inline-4 Gas Turbocharged	Gas		
+Ford Super Duty F-350	XLT SuperCab 6.75' Bed 4WD SRW	2017	gthStandard Bed	6.7L V-8 Diesel Turbocharged	Diesel		
+Ford Super Duty F-350	Platinum Crew Cab 8' Bed 4WD SRW	2017	gthLong Bed	6.2L V-8 Gas	Gas		
+Ford Escape	SE 4WD	2017	54,281	1.5L Inline-4 Gas Turbocharged	Gas		
+Ford Explorer	XLT 4WD	2017	19,182	3.5L V-6 Gas	Gas		
+Ford Transit Passenger Wagon	T-350 XLT with Swing-Out RH Door 148" Low Roof	2017	ightStandard	3.7L V-6 Gas	Gas		
+Ford Escape	Titanium FWD	2017	127,627	2.0L Inline-4 Gas Turbocharged	Gas		
+Ford Transit Passenger Wagon	T-350 XLT with Swing-Out RH Door 148" Low Roof	2017	ightStandard	3.7L V-6 Gas	Gas		
+Ford Fusion	S FWD	2017	90,285	2.5L Inline-4 Gas	Gas		
+Ford F-150	XL SuperCab 6.5' Box RWD	2017	gthStandard Bed	3.5L V-6 Gas	Gas		
+Ford Edge	SEL AWD	2017	70,531	2.0L Inline-4 Gas Turbocharged	Gas		
+Ford Super Duty F-350	XLT Crew Cab 8' Bed 4WD DRW	2017	gthLong Bed	6.7L V-8 Diesel Turbocharged	Diesel		
+Ford Fusion	SE FWD	2017	35,926	1.5L Inline-4 Gas Turbocharged	Gas		
+Ford F-150	XLT SuperCrew 5.5' Box 4WD	2017	gthShort Bed	5.0L V-8 Gas	Gas		
+Ford Super Duty F-250	XLT Crew Cab 6.75' Bed 4WD	2017	gthStandard Bed	6.2L V-8 Gas	Gas		
+Ford F-150	XL SuperCrew 5.5' Box 4WD	2017	gthShort Bed	5.0L V-8 Gas	Gas		
+Ford Super Duty F-250	Lariat Crew Cab 6.75' Bed 4WD	2017	gthStandard Bed	6.2L V-8 Gas	Gas		
+Ford F-150	XLT SuperCrew 5.5' Box 4WD	2017	gthShort Bed	5.0L V-8 Gas	Gas		
+Ford F-150	XLT SuperCrew 5.5' Box 4WD	2017	gthShort Bed	3.5L V-6 Gas	Gas		
+Ford C-Max	Hybrid SE	2017	147,545	2.0L Inline-4 Hybrid	Hybrid		
+Ford Fusion	SE FWD	2017	97,118	2.5L Inline-4 Gas	Gas		
+Ford F-150	XLT SuperCrew 5.5' Box 4WD	2017	gthShort Bed	5.0L V-8 Gas	Gas		
+Ford F-150	XLT Regular Cab 6.5' Box RWD	2017	gthStandard Bed	5.0L V-8 Gas	Gas		
+Ford Super Duty F-250	Lariat Crew Cab 8' Bed 4WD	2017	gthLong Bed	6.7L V-8 Diesel Turbocharged	Diesel		
+Ford Focus	SE Sedan	2017	76,736	1.0L Inline-3 Gas Turbocharged	Gas		
+Ford F-150	Platinum SuperCrew 5.5' Box 4WD	2017	gthShort Bed	3.5L V-6 Gas Turbocharged	Gas		
+Ford Transit Passenger Wagon	T-350 XL with Swing-Out RH Door 148" Low Roof	2017	ightStandard	3.7L V-6 Gas	Gas		
+Ford Fiesta	SE Sedan	2017	55,000	1.6L Inline-4 Gas	Gas		
+Ford Mustang	EcoBoost Premium Convertible	2017	82,961	2.3L Inline-4 Gas Turbocharged	Gas		
+Ford Super Duty F-450	Platinum Crew Cab 8' Bed 4WD DRW	2017	gthLong Bed	6.7L V-8 Diesel Turbocharged	Diesel		
+Ford Fusion	SE FWD	2017	98,360	2.5L Inline-4 Gas	Gas		
+Ford F-150	XLT SuperCrew 5.5' Box 4WD	2017	gthShort Bed	2.7L V-6 Gas Turbocharged	Gas		
+Ford Transit Passenger Wagon	T-350 XLT with Swing-Out RH Door 148" Low Roof	2017	ightStandard	3.7L V-6 Gas	Gas		
+Ford Super Duty F-350	Lariat Crew Cab 6.75' Bed 4WD SRW	2017	gthStandard Bed	6.2L V-8 Gas	Gas		
+Ford Transit Passenger Wagon	T-350 XL with Swing-Out RH Door 148" Low Roof	2017	ightStandard	3.7L V-6 Gas	Gas		
+Ford Super Duty F-250	XLT Crew Cab 6.75' Bed 4WD	2017	gthStandard Bed	6.2L V-8 Gas	Gas		
+Ford Fusion	SE FWD	2017	120,207	1.5L Inline-4 Gas Turbocharged	Gas		
+Ford Super Duty F-250	XL Crew Cab 8' Bed 4WD	2017	gthLong Bed	6.2L V-8 Gas	Gas		
+Ford Super Duty F-250	XLT Crew Cab 6.75' Bed 4WD	2017	gthStandard Bed	6.7L V-8 Diesel Turbocharged	Diesel		
+Ford Super Duty F-250	Lariat Crew Cab 8' Bed 4WD	2017	gthLong Bed	6.2L V-8 Gas	Gas		
+Ford Super Duty F-350	XLT Crew Cab 6.75' Bed 4WD SRW	2017	gthStandard Bed	6.2L V-8 Gas	Gas		
+Ford Super Duty F-250	Lariat Crew Cab 8' Bed 4WD	2017	gthLong Bed	6.2L V-8 Gas	Gas		
+Ford C-Max	Hybrid SE	2017	20,345	2.0L Inline-4 Hybrid	Hybrid		
+Ford F-150	XLT SuperCrew 5.5' Box 4WD	2017	gthShort Bed	5.0L V-8 Gas	Gas		
+Ford Super Duty F-350	XLT Crew Cab 6.75' Bed 4WD SRW	2017	gthStandard Bed	6.2L V-8 Gas	Gas		
+Ford Transit Cargo Van	T-150 with Swing-Out RH Door 130" Low Roof 8600 GVWR	2017	ightStandard	3.7L V-6 Gas	Gas		
+Ford Focus	SE Sedan	2017	43,348	2.0L Inline-4 Gas Turbocharged	Gas		
+Ford Focus	SE Hatchback	2017	63,641	2.0L Inline-4 Gas	Gas		
+Ford Fusion	SE FWD	2017	121,531	2.5L Inline-4 Gas	Gas		
+Ford Transit Passenger Wagon	T-350 XL with Swing-Out RH Door 148" Low Roof	2017	ightStandard	3.7L V-6 Gas	Gas		
+Ford Super Duty F-250	XLT Crew Cab 6.75' Bed 4WD	2017	gthStandard Bed	6.7L V-8 Diesel Turbocharged	Diesel		
+Ford Escape	S FWD	2017	42,830	2.5L Inline-4 Gas	Gas		
+Ford Explorer	XLT 4WD	2017	83,556	3.5L V-6 Gas	Gas		
+Ford Explorer	Base FWD	2018	11,072	3.5L V-6 Gas	Gas		
+Ford Escape	SE 4WD	2018	80,819	1.5L Inline-4 Gas Turbocharged	Gas		
+Ford Fiesta	SE Hatch	2018	25,170	1.6L Inline-4 Gas	Gas		
+Ford F-150	XLT SuperCrew 5.5' Box 4WD	2018	gthShort Bed	2.7L V-6 Gas Turbocharged	Gas		
+Ford F-150	XLT SuperCrew 5.5' Box 4WD	2018	gthShort Bed	3.5L V-6 Gas Turbocharged	Gas		
+Ford F-150	XLT SuperCrew 5.5' Box 4WD	2018	gthShort Bed	5.0L V-8 Gas	Gas		
+Ford F-150	XLT SuperCrew 5.5' Box 4WD	2018	gthShort Bed	3.5L V-6 Gas Turbocharged	Gas		
+Ford F-150	Lariat SuperCrew 5.5' Box 4WD	2018	gthShort Bed	3.5L V-6 Gas Turbocharged	Gas		
+Ford Super Duty F-250	Lariat 4WD Crew Cab 6.75' Box	2018	gthStandard Bed	6.2L V-8 Gas	Gas		
+Ford F-150	XLT SuperCrew 5.5' Box 4WD	2018	gthShort Bed	2.7L V-6 Gas Turbocharged	Gas		
+Ford F-150	XLT SuperCrew 5.5' Box 4WD	2018	gthShort Bed	3.3L V-6 Gas	Gas		
+Ford F-150	XLT SuperCrew 5.5' Box 2WD	2018	gthShort Bed	3.3L V-6 Gas	Gas		
+Ford F-150	XLT SuperCrew 5.5' Box 4WD	2018	gthShort Bed	3.5L V-6 Gas Turbocharged	Gas		
+Ford F-150	XL SuperCab 6.5' Box 4WD	2018	gthStandard Bed	3.3L V-6 Gas	Gas		
+Ford F-150	King Ranch SuperCrew 5.5' Box 4WD	2018	gthShort Bed	3.5L V-6 Gas Turbocharged	Gas		
+Ford Focus	SE Hatchback	2018	39,418	2.0L Inline-4 Gas	Gas		
+Ford Super Duty F-250	XLT 4WD Crew Cab 6.75' Box	2018	gthStandard Bed	6.2L V-8 Gas	Gas		
+Ford F-150	XLT SuperCrew 5.5' Box 4WD	2018	gthShort Bed	3.5L V-6 Gas Turbocharged	Gas		
+Ford F-150	XLT SuperCrew 5.5' Box 4WD	2018	gthShort Bed	3.3L V-6 Gas	Gas		
+Ford Fusion	Hybrid Titanium FWD	2018	62,590	2.0L Inline-4 Hybrid	Hybrid		
+Ford Super Duty F-250	XL 4WD Crew Cab 6.75' Box	2018	gthStandard Bed	6.2L V-8 Gas	Gas		
+Ford Focus	Titanium Hatchback	2018	50,953	2.0L Inline-4 Gas	Gas		
+Ford Super Duty F-350	XLT 4WD Crew Cab 6.75' Box SRW	2018	gthStandard Bed	6.2L V-8 Gas	Gas		
+Ford F-150	Lariat SuperCrew 5.5' Box 4WD	2018	gthShort Bed	3.5L V-6 Gas Turbocharged	Gas		
+Ford F-150	XLT SuperCrew 5.5' Box 4WD	2018	gthShort Bed	3.3L V-6 Gas	Gas		
+Ford F-150	XLT SuperCrew 5.5' Box 2WD	2018	gthShort Bed	3.3L V-6 Gas	Gas		
+Ford F-150	XLT SuperCrew 5.5' Box 4WD	2018	gthShort Bed	3.3L V-6 Gas	Gas		
+Ford F-150	XL Regular Cab 6.5' Box 2WD	2018	gthStandard Bed	3.3L V-6 Gas	Gas		
+Ford Transit Passenger Wagon	T-350 XL with Sliding RH Door 148" Low Roof	2018	ightStandard	3.5L V-6 Gas Turbocharged	Gas		
+Ford F-150	XL SuperCrew 5.5' Box 2WD	2018	gthShort Bed	3.3L V-6 Gas	Gas		
+Ford Super Duty F-350	XLT 4WD Crew Cab 6.75' Box SRW	2018	gthStandard Bed	6.2L V-8 Gas	Gas		
+Ford Super Duty F-250	King Ranch 4WD Crew Cab 6.75' Box	2018	gthStandard Bed	6.2L V-8 Gas	Gas		
+Ford F-150	XLT SuperCrew 5.5' Box 2WD	2018	gthShort Bed	2.7L V-6 Gas Turbocharged	Gas		
+Ford Explorer	Base FWD	2018	11,072	3.5L V-6 Gas	Gas		
+Ford Escape	SE 4WD	2018	80,819	1.5L Inline-4 Gas Turbocharged	Gas		
+Ford Fiesta	SE Hatch	2018	25,170	1.6L Inline-4 Gas	Gas		
+Ford F-150	XLT SuperCrew 5.5' Box 4WD	2018	gthShort Bed	2.7L V-6 Gas Turbocharged	Gas		
+Ford F-150	XLT SuperCrew 5.5' Box 4WD	2018	gthShort Bed	3.5L V-6 Gas Turbocharged	Gas		
+Ford F-150	XLT SuperCrew 5.5' Box 4WD	2018	gthShort Bed	5.0L V-8 Gas	Gas		
+Ford F-150	XLT SuperCrew 5.5' Box 4WD	2018	gthShort Bed	3.5L V-6 Gas Turbocharged	Gas		
+Ford F-150	Lariat SuperCrew 5.5' Box 4WD	2018	gthShort Bed	3.5L V-6 Gas Turbocharged	Gas		
+Ford Super Duty F-250	Lariat 4WD Crew Cab 6.75' Box	2018	gthStandard Bed	6.2L V-8 Gas	Gas		
+Ford F-150	XLT SuperCrew 5.5' Box 4WD	2018	gthShort Bed	2.7L V-6 Gas Turbocharged	Gas		
+Ford F-150	XLT SuperCrew 5.5' Box 4WD	2018	gthShort Bed	3.3L V-6 Gas	Gas		
+Ford F-150	XLT SuperCrew 5.5' Box 2WD	2018	gthShort Bed	3.3L V-6 Gas	Gas		
+Ford F-150	XLT SuperCrew 5.5' Box 4WD	2018	gthShort Bed	3.5L V-6 Gas Turbocharged	Gas		
+Ford F-150	XL SuperCab 6.5' Box 4WD	2018	gthStandard Bed	3.3L V-6 Gas	Gas		
+Ford F-150	King Ranch SuperCrew 5.5' Box 4WD	2018	gthShort Bed	3.5L V-6 Gas Turbocharged	Gas		
+Ford Focus	SE Hatchback	2018	39,418	2.0L Inline-4 Gas	Gas		
+Ford Super Duty F-250	XLT 4WD Crew Cab 6.75' Box	2018	gthStandard Bed	6.2L V-8 Gas	Gas		
+Ford F-150	XLT SuperCrew 5.5' Box 4WD	2018	gthShort Bed	3.5L V-6 Gas Turbocharged	Gas		
+Ford F-150	XLT SuperCrew 5.5' Box 4WD	2018	gthShort Bed	3.3L V-6 Gas	Gas		
+Ford Fusion	Hybrid Titanium FWD	2018	62,590	2.0L Inline-4 Hybrid	Hybrid		
+Ford Super Duty F-250	XL 4WD Crew Cab 6.75' Box	2018	gthStandard Bed	6.2L V-8 Gas	Gas		
+Ford Focus	Titanium Hatchback	2018	50,953	2.0L Inline-4 Gas	Gas		
+Ford Super Duty F-350	XLT 4WD Crew Cab 6.75' Box SRW	2018	gthStandard Bed	6.2L V-8 Gas	Gas		
+Ford F-150	Lariat SuperCrew 5.5' Box 4WD	2018	gthShort Bed	3.5L V-6 Gas Turbocharged	Gas		
+Ford F-150	XLT SuperCrew 5.5' Box 4WD	2018	gthShort Bed	3.3L V-6 Gas	Gas		
+Ford F-150	XLT SuperCrew 5.5' Box 2WD	2018	gthShort Bed	3.3L V-6 Gas	Gas		
+Ford F-150	XLT SuperCrew 5.5' Box 4WD	2018	gthShort Bed	3.3L V-6 Gas	Gas		
+Ford F-150	XL Regular Cab 6.5' Box 2WD	2018	gthStandard Bed	3.3L V-6 Gas	Gas		
+Ford Transit Passenger Wagon	T-350 XL with Sliding RH Door 148" Low Roof	2018	ightStandard	3.5L V-6 Gas Turbocharged	Gas		
+Ford F-150	XL SuperCrew 5.5' Box 2WD	2018	gthShort Bed	3.3L V-6 Gas	Gas		
+Ford Super Duty F-350	XLT 4WD Crew Cab 6.75' Box SRW	2018	gthStandard Bed	6.2L V-8 Gas	Gas		
+Ford Super Duty F-250	King Ranch 4WD Crew Cab 6.75' Box	2018	gthStandard Bed	6.2L V-8 Gas	Gas		
+Ford F-150	XLT SuperCrew 5.5' Box 2WD	2018	gthShort Bed	2.7L V-6 Gas Turbocharged	Gas		
+Ford Escape	SE FWD	2018	21,606	1.5L Inline-4 Gas Turbocharged	Gas		
+Ford Transit Passenger Wagon	T-350 XLT with Sliding RH Door 148" Low Roof	2018	ightStandard	3.7L V-6 Gas	Gas		
+Ford Explorer	XLT FWD	2018	95,760	3.5L V-6 Gas	Gas		
+Ford Super Duty F-250	XL 4WD Crew Cab 6.75' Box	2018	gthStandard Bed	6.2L V-8 Gas	Gas		
+Ford Explorer	XLT FWD	2018	88,147	3.5L V-6 Gas	Gas		
+Ford Edge	Titanium FWD	2018	47,149	2.0L Inline-4 Gas Turbocharged	Gas		
+Ford Super Duty F-250	Lariat 4WD Crew Cab 6.75' Box	2018	gthStandard Bed	6.2L V-8 Gas	Gas		
+Ford Fusion	Hybrid SE FWD	2018	32,067	2.0L Inline-4 Hybrid	Hybrid		
+Ford Transit Passenger Wagon	T-350 XL with Sliding RH Door 148" Low Roof	2018	ightStandard	3.7L V-6 Gas	Gas		
+Ford F-150	XLT SuperCab 6.5' Box 4WD	2018	gthStandard Bed	2.7L V-6 Gas Turbocharged	Gas		
+Ford Super Duty F-250	XL 4WD Crew Cab 8' Box	2018	gthLong Bed	6.7L V-8 Diesel Turbocharged	Diesel		
+Ford F-150	XLT SuperCrew 5.5' Box 4WD	2018	gthShort Bed	3.5L V-6 Gas Turbocharged	Gas		
+Ford Edge	SEL FWD	2018	34,134	2.0L Inline-4 Gas Turbocharged	Gas		
+Ford F-150	Lariat SuperCrew 5.5' Box 4WD	2018	gthShort Bed	2.7L V-6 Gas Turbocharged	Gas		
+Ford Fusion	Hybrid Titanium FWD	2018	94,735	2.0L Inline-4 Hybrid	Hybrid		
+Ford Fusion	Titanium AWD	2018	81,527	2.0L Inline-4 Gas Turbocharged	Gas		
+Ford Super Duty F-350	Lariat 4WD Crew Cab 6.75' Box	2018	gthStandard Bed	6.2L V-8 Gas	Gas		
+Ford F-150	XLT SuperCrew 5.5' Box 4WD	2018	gthShort Bed	2.7L V-6 Gas Turbocharged	Gas		
+Ford F-150	XLT SuperCrew 5.5' Box 4WD	2018	gthShort Bed	2.7L V-6 Gas Turbocharged	Gas		
+Ford Super Duty F-350	XL 4WD Crew Cab 6.75' Box SRW	2018	gthStandard Bed	6.7L V-8 Diesel Turbocharged	Diesel		
+Ford Fusion	SE FWD	2018	21,966	2.5L Inline-4 Gas	Gas		
+Ford Fiesta	SE Sedan	2018	42,854	1.6L Inline-4 Gas	Gas		
+Ford F-150	XLT SuperCrew 5.5' Box 4WD	2018	gthShort Bed	3.3L V-6 Gas	Gas		
+Ford Escape	SE 4WD	2018	75,859	1.5L Inline-4 Gas Turbocharged	Gas		
+Ford Fusion	SE FWD	2018	31,778	1.5L Inline-4 Gas Turbocharged	Gas		
+Ford Fiesta	SE Sedan	2018	35,838	1.6L Inline-4 Gas	Gas		
+Ford Fusion	Hybrid Platinum FWD	2018	61,148	2.0L Inline-4 Hybrid	Hybrid		
+Ford Focus	S Sedan	2018	167,560	2.0L Inline-4 Gas	Gas		
+Ford F-150	XLT SuperCrew 5.5' Box 4WD	2018	gthShort Bed	3.3L V-6 Gas	Gas		
+Ford F-150	XLT SuperCab 6.5' Box 4WD	2018	gthStandard Bed	2.7L V-6 Gas Turbocharged	Gas		
+Ford F-150	XLT SuperCrew 5.5' Box 4WD	2018	gthShort Bed	2.7L V-6 Gas Turbocharged	Gas		
+Ford F-150	XLT SuperCrew 5.5' Box 4WD	2018	gthShort Bed	3.3L V-6 Gas	Gas		
+Ford F-150	XLT SuperCrew 5.5' Box 2WD	2018	gthShort Bed	3.5L V-6 Gas Turbocharged	Gas		
+Ford Super Duty F-250	XL 4WD Crew Cab 6.75' Box	2018	gthStandard Bed	6.2L V-8 Gas	Gas		
+Ford Ranger	XLT SuperCrew 5' Box 4WD	2019	gthShort Bed	2.3L Inline-4 Gas Turbocharged	Gas		
+Ford F-150	XL Regular Cab 8.0' Box 2WD	2019	gthLong Bed	3.3L V-6 Gas	Gas		
+Ford Super Duty F-250	XLT 4WD Crew Cab 6.75' Box	2019	gthStandard Bed	6.2L V-8 Gas	Gas		
+Ford Fusion	Hybrid SE FWD	2019	40,085	2.0L Inline-4 Hybrid	Hybrid		
+Ford Fusion	Titanium FWD	2019	29,974	2.0L Inline-4 Gas Turbocharged	Gas		
+Ford Fusion	Hybrid SE FWD	2019	32,316	2.0L Inline-4 Hybrid	Hybrid		
+Ford Fusion	Energi Titanium FWD	2019	11,205	2.0L Inline-4 Plug-In Hybrid	Plug-In Hybrid		
+Ford Fiesta	SE Hatchback	2019	35,312	1.6L Inline-4 Gas	Gas		
+Ford Fusion	Titanium AWD	2019	37,890	2.0L Inline-4 Gas Turbocharged	Gas		
+Ford Fusion	SE AWD	2019	34,995	2.0L Inline-4 Gas Turbocharged	Gas		
+Ford Fusion	SEL FWD	2019	36,567	1.5L Inline-4 Gas Turbocharged	Gas		
+Ford Fusion	SE AWD	2019	35,598	2.0L Inline-4 Gas Turbocharged	Gas		
+Ford Fusion	SEL FWD	2019	39,129	1.5L Inline-4 Gas Turbocharged	Gas		
+Ford Fusion	Titanium AWD	2019	37,869	2.0L Inline-4 Gas Turbocharged	Gas		
+Ford Fusion	S FWD	2019	26,360	2.5L Inline-4 Gas	Gas		
+Ford Super Duty F-250	Lariat 4WD Crew Cab 6.75' Box	2019	gthStandard Bed	6.2L V-8 Gas	Gas		
+Ford Super Duty F-250	Lariat 4WD Crew Cab 6.75' Box	2019	gthStandard Bed	6.2L V-8 Gas	Gas		
+Ford Flex	Limited FWD	2019	29,502	3.5L V-6 Gas	Gas		
+Ford Fusion	SEL FWD	2019	30,331	1.5L Inline-4 Gas Turbocharged	Gas		
+Ford Fiesta	SE Sedan	2019	38,558	1.6L Inline-4 Gas	Gas		
+Ford Fusion	Hybrid SE FWD	2019	29,038	2.0L Inline-4 Hybrid	Hybrid		
+Ford Super Duty F-250	Lariat 4WD Crew Cab 6.75' Box	2019	gthStandard Bed	6.2L V-8 Gas	Gas		
+Ford Fusion	Hybrid Titanium FWD	2019	38,832	2.0L Inline-4 Hybrid	Hybrid		
+Ford Super Duty F-250	XLT 4WD Crew Cab 6.75' Box	2019	gthStandard Bed	6.2L V-8 Gas	Gas		
+Ford Fusion	SE AWD	2019	44,017	2.0L Inline-4 Gas Turbocharged	Gas		
+Ford Fusion	Titanium AWD	2019	37,327	2.0L Inline-4 Gas Turbocharged	Gas		
+Ford Super Duty F-250	Lariat 4WD Crew Cab 6.75' Box	2019	gthStandard Bed	6.2L V-8 Gas	Gas		
+Ford Fusion	SE AWD	2019	32,420	2.0L Inline-4 Gas Turbocharged	Gas		
+Ford Super Duty F-250	Platinum 4WD Crew Cab 6.75' Box	2019	gthStandard Bed	6.2L V-8 Gas	Gas		
+Ford Flex	Limited FWD	2019	38,209	3.5L V-6 Gas	Gas		
+Ford Super Duty F-350 Chassis Cab	XL Crew Cab 179" 60" CA DRW 4WD	2019	eCrew Cab	6.2L V-8 Gas	Gas		
+Ford Super Duty F-350 Chassis Cab	XL Crew Cab 179" 60" CA DRW 4WD	2019	eCrew Cab	6.2L V-8 Gas	Gas		
+Ford Fusion	Hybrid Titanium FWD	2019	36,924	2.0L Inline-4 Hybrid	Hybrid		
+Ford Ranger	XLT SuperCrew 5' Box 4WD	2019	gthShort Bed	2.3L Inline-4 Gas Turbocharged	Gas		
+Ford F-150	XL Regular Cab 8.0' Box 2WD	2019	gthLong Bed	3.3L V-6 Gas	Gas		
+Ford Super Duty F-250	XLT 4WD Crew Cab 6.75' Box	2019	gthStandard Bed	6.2L V-8 Gas	Gas		
+Ford Fusion	Hybrid SE FWD	2019	40,085	2.0L Inline-4 Hybrid	Hybrid		
+Ford Fusion	Titanium FWD	2019	29,974	2.0L Inline-4 Gas Turbocharged	Gas		
+Ford Fusion	Hybrid SE FWD	2019	32,316	2.0L Inline-4 Hybrid	Hybrid		
+Ford Fusion	Energi Titanium FWD	2019	11,205	2.0L Inline-4 Plug-In Hybrid	Plug-In Hybrid		
+Ford Fiesta	SE Hatchback	2019	35,312	1.6L Inline-4 Gas	Gas		
+Ford Fusion	Titanium AWD	2019	37,890	2.0L Inline-4 Gas Turbocharged	Gas		
+Ford Fusion	SE AWD	2019	34,995	2.0L Inline-4 Gas Turbocharged	Gas		
+Ford Fusion	SEL FWD	2019	36,567	1.5L Inline-4 Gas Turbocharged	Gas		
+Ford Fusion	SE AWD	2019	35,598	2.0L Inline-4 Gas Turbocharged	Gas		
+Ford Fusion	SEL FWD	2019	39,129	1.5L Inline-4 Gas Turbocharged	Gas		
+Ford Fusion	Titanium AWD	2019	37,869	2.0L Inline-4 Gas Turbocharged	Gas		
+Ford Fusion	S FWD	2019	26,360	2.5L Inline-4 Gas	Gas		
+Ford Super Duty F-250	Lariat 4WD Crew Cab 6.75' Box	2019	gthStandard Bed	6.2L V-8 Gas	Gas		
+Ford Super Duty F-250	Lariat 4WD Crew Cab 6.75' Box	2019	gthStandard Bed	6.2L V-8 Gas	Gas		
+Ford Flex	Limited FWD	2019	29,502	3.5L V-6 Gas	Gas		
+Ford Fusion	SEL FWD	2019	30,331	1.5L Inline-4 Gas Turbocharged	Gas		
+Ford Fiesta	SE Sedan	2019	38,558	1.6L Inline-4 Gas	Gas		
+Ford Fusion	Hybrid SE FWD	2019	29,038	2.0L Inline-4 Hybrid	Hybrid		
+Ford Super Duty F-250	Lariat 4WD Crew Cab 6.75' Box	2019	gthStandard Bed	6.2L V-8 Gas	Gas		
+Ford Fusion	Hybrid Titanium FWD	2019	38,832	2.0L Inline-4 Hybrid	Hybrid		
+Ford Super Duty F-250	XLT 4WD Crew Cab 6.75' Box	2019	gthStandard Bed	6.2L V-8 Gas	Gas		
+Ford Fusion	SE AWD	2019	44,017	2.0L Inline-4 Gas Turbocharged	Gas		
+Ford Fusion	Titanium AWD	2019	37,327	2.0L Inline-4 Gas Turbocharged	Gas		
+Ford Super Duty F-250	Lariat 4WD Crew Cab 6.75' Box	2019	gthStandard Bed	6.2L V-8 Gas	Gas		
+Ford Fusion	SE AWD	2019	32,420	2.0L Inline-4 Gas Turbocharged	Gas		
+Ford Super Duty F-250	Platinum 4WD Crew Cab 6.75' Box	2019	gthStandard Bed	6.2L V-8 Gas	Gas		
+Ford Flex	Limited FWD	2019	38,209	3.5L V-6 Gas	Gas		
+Ford Super Duty F-350 Chassis Cab	XL Crew Cab 179" 60" CA DRW 4WD	2019	eCrew Cab	6.2L V-8 Gas	Gas		
+Ford Super Duty F-350 Chassis Cab	XL Crew Cab 179" 60" CA DRW 4WD	2019	eCrew Cab	6.2L V-8 Gas	Gas		
+Ford Fusion	Hybrid Titanium FWD	2019	36,924	2.0L Inline-4 Hybrid	Hybrid		
+Ford Fusion	Hybrid Titanium FWD	2019	38,983	2.0L Inline-4 Hybrid	Hybrid		
+Ford Fusion	Titanium AWD	2019	28,283	2.0L Inline-4 Gas Turbocharged	Gas		
+Ford Fusion	SEL FWD	2019	36,450	1.5L Inline-4 Gas Turbocharged	Gas		
+Ford Fiesta	SE Sedan	2019	16,787	1.6L Inline-4 Gas	Gas		
+Ford Super Duty F-350 Chassis Cab	XL Crew Cab 179" 60" CA DRW 4WD	2019	eCrew Cab	6.2L V-8 Gas	Gas		
+Ford Flex	Limited AWD	2019	39,645	3.5L V-6 Gas	Gas		
+Ford Fiesta	SE Sedan	2019	32,350	1.6L Inline-4 Gas	Gas		
+Ford Fusion	SE AWD	2019	33,365	2.0L Inline-4 Gas Turbocharged	Gas		
+Ford Fusion	SE AWD	2019	36,263	2.0L Inline-4 Gas Turbocharged	Gas		
+Ford F-150	XL Regular Cab 6.5' Box 2WD	2019	gthStandard Bed	5.0L V-8 Gas	Gas		
+Ford Fusion	Hybrid Titanium FWD	2019	43,517	2.0L Inline-4 Hybrid	Hybrid		
+Ford Fiesta	SE Hatchback	2019	36,356	1.6L Inline-4 Gas	Gas		
+Ford Flex	Limited AWD	2019	36,999	3.5L V-6 Gas	Gas		
+Ford Fusion	Hybrid SE FWD	2019	16,350	2.0L Inline-4 Hybrid	Hybrid		
+Ford Fusion	Hybrid SE FWD	2019	42,380	2.0L Inline-4 Hybrid	Hybrid		
+Ford Fusion	SEL FWD	2019	36,045	1.5L Inline-4 Gas Turbocharged	Gas		
+Ford F-150	XLT SuperCrew 5.5' Box 4WD	2019	gthShort Bed	5.0L V-8 Gas	Gas		
+Ford Super Duty F-250	Lariat 4WD Crew Cab 6.75' Box	2019	gthStandard Bed	6.2L V-8 Gas	Gas		
+Ford Fusion	SEL FWD	2019	8,854	1.5L Inline-4 Gas Turbocharged	Gas		
+Ford Fusion	SEL FWD	2019	31,447	1.5L Inline-4 Gas Turbocharged	Gas		
+Ford Fusion	SEL FWD	2019	43,357	1.5L Inline-4 Gas Turbocharged	Gas		
+Ford Fusion	SE FWD	2019	7,011	1.5L Inline-4 Gas Turbocharged	Gas		
+Ford Super Duty F-250	Lariat 4WD Crew Cab 6.75' Box	2019	gthStandard Bed	6.2L V-8 Gas	Gas		
+Ford Fusion	SEL FWD	2019	37,056	1.5L Inline-4 Gas Turbocharged	Gas		
+Ford Fusion	SEL FWD	2019	44,476	1.5L Inline-4 Gas Turbocharged	Gas		
+Ford Fiesta	SE Sedan	2019	29,020	1.6L Inline-4 Gas	Gas		
+Ford Transit Passenger Wagon	T-350 XLT with Sliding RH Door 148" Low Roof	2019	ightStandard	3.7L V-6 Gas	Gas		
+Ford Escape	SE AWD	2019	30,937	1.5L Inline-4 Gas Turbocharged	Gas		
+Ford Fusion	SE FWD	2019	20,203	1.5L Inline-4 Gas Turbocharged	Gas		
+Ford Fiesta	SE Hatchback	2019	28,885	1.6L Inline-4 Gas	Gas		
+Ford Fiesta	ST Line Hatchback	2019	309	1.6L Inline-4 Gas	Gas		
+Ford Super Duty F-250	XLT 4WD Crew Cab 6.75' Box	2019	gthStandard Bed	6.2L V-8 Gas	Gas		
+Ford Transit Passenger Wagon	T-350 XL with Swing-Out RH Door 148" Low Roof	2019	ightStandard	3.5L V-6 Gas Turbocharged	Gas		
+Ford Fusion	Titanium AWD	2019	29,878	2.0L Inline-4 Gas Turbocharged	Gas		
+Ford F-150	XL Regular Cab 6.5' Box 2WD	2020	gthStandard Bed	3.3L V-6 Gas	Gas		
+Ford Explorer	XLT RWD	2020	7,769	2.3L Inline-4 Gas Turbocharged	Gas		
+Ford Edge	Titanium AWD	2020	16,060	2.0L Inline-4 Gas Turbocharged	Gas		
+Ford Edge	SEL FWD	2020	14,432	2.0L Inline-4 Gas Turbocharged	Gas		
+Ford Edge	SEL FWD	2020	16,970	2.0L Inline-4 Gas Turbocharged	Gas		
+Ford Super Duty F-250	Lariat Crew Cab 6.75' Box 4WD	2020	gthStandard Bed	6.2L V-8 Gas	Gas		
+Ford Edge	SEL FWD	2020	11,311	2.0L Inline-4 Gas Turbocharged	Gas		
+Ford Super Duty F-250	XLT Crew Cab 6.75' Box 4WD	2020	gthStandard Bed	6.2L V-8 Gas	Gas		
+Ford Super Duty F-250	Lariat Crew Cab 6.75' Box 4WD	2020	gthStandard Bed	6.2L V-8 Gas	Gas		
+Ford Edge	SEL FWD	2020	29,987	2.0L Inline-4 Gas Turbocharged	Gas		
+Ford Edge	SEL FWD	2020	4,664	2.0L Inline-4 Gas Turbocharged	Gas		
+Ford Super Duty F-250	Lariat Crew Cab 6.75' Box 4WD	2020	gthStandard Bed	6.2L V-8 Gas	Gas		
+Ford Super Duty F-250	Platinum Crew Cab 6.75' Box 4WD	2020	gthStandard Bed	6.2L V-8 Gas	Gas		
+Ford Super Duty F-250	XLT Crew Cab 6.75' Box 4WD	2020	gthStandard Bed	6.2L V-8 Gas	Gas		
+Ford Super Duty F-250	Lariat Crew Cab 6.75' Box 4WD	2020	gthStandard Bed	6.2L V-8 Gas	Gas		
+Ford Edge	SEL FWD	2020	4,247	2.0L Inline-4 Gas Turbocharged	Gas		
+Ford Super Duty F-250	Lariat Crew Cab 6.75' Box 4WD	2020	gthStandard Bed	6.2L V-8 Gas	Gas		
+Ford Super Duty F-250	XLT Crew Cab 6.75' Box 4WD	2020	gthStandard Bed	6.2L V-8 Gas	Gas		
+Ford Super Duty F-250	XLT Crew Cab 6.75' Box 4WD	2020	gthStandard Bed	6.2L V-8 Gas	Gas		
+Ford Transit Cargo Van	T-250 148" EL High Roof 9070 GVWR RWD	2020	ightHigh	3.5L V-6 Gas	Gas		
+Ford Super Duty F-250	XL Crew Cab 6.75' Box 4WD	2020	gthStandard Bed	6.2L V-8 Gas	Gas		
+Ford Super Duty F-250	XL Crew Cab 6.75' Box 4WD	2020	gthStandard Bed	6.2L V-8 Gas	Gas		
+Ford Super Duty F-250	XL Crew Cab 6.75' Box 4WD	2020	gthStandard Bed	6.2L V-8 Gas	Gas		
+Ford Super Duty F-250	XL Crew Cab 6.75' Box 4WD	2020	gthStandard Bed	6.2L V-8 Gas	Gas		
+Ford Super Duty F-250	XL Crew Cab 6.75' Box 4WD	2020	gthStandard Bed	6.2L V-8 Gas	Gas		
+Ford Super Duty F-250	XL Crew Cab 6.75' Box 4WD	2020	gthStandard Bed	6.2L V-8 Gas	Gas		
+Ford Super Duty F-250	XL Crew Cab 6.75' Box 4WD	2020	gthStandard Bed	6.2L V-8 Gas	Gas		
+Ford Edge	SEL FWD	2020	7,603	2.0L Inline-4 Gas Turbocharged	Gas		
+Ford Fusion	SEL FWD	2020	11,062	1.5L Inline-4 Gas Turbocharged	Gas		
+Ford Fusion	SEL FWD	2020	14,931	1.5L Inline-4 Gas Turbocharged	Gas		
+Ford Edge	SE FWD	2020	3,699	2.0L Inline-4 Gas Turbocharged	Gas		
+Ford F-150	Lariat SuperCrew 5.5' Box 4WD	2020	gthShort Bed	5.0L V-8 Gas Twin-Turbo	Gas		
+Ford Expedition	Max Limited RWD	2020	41,814	3.5L V-6 Gas Turbocharged	Gas		
+Ford F-150	XL Regular Cab 6.5' Box 2WD	2020	gthStandard Bed	3.3L V-6 Gas	Gas		
+Ford Explorer	XLT RWD	2020	7,769	2.3L Inline-4 Gas Turbocharged	Gas		
+Ford Edge	Titanium AWD	2020	16,060	2.0L Inline-4 Gas Turbocharged	Gas		
+Ford Edge	SEL FWD	2020	14,432	2.0L Inline-4 Gas Turbocharged	Gas		
+Ford Edge	SEL FWD	2020	16,970	2.0L Inline-4 Gas Turbocharged	Gas		
+Ford Super Duty F-250	Lariat Crew Cab 6.75' Box 4WD	2020	gthStandard Bed	6.2L V-8 Gas	Gas		
+Ford Edge	SEL FWD	2020	11,311	2.0L Inline-4 Gas Turbocharged	Gas		
+Ford Super Duty F-250	XLT Crew Cab 6.75' Box 4WD	2020	gthStandard Bed	6.2L V-8 Gas	Gas		
+Ford Super Duty F-250	Lariat Crew Cab 6.75' Box 4WD	2020	gthStandard Bed	6.2L V-8 Gas	Gas		
+Ford Edge	SEL FWD	2020	29,987	2.0L Inline-4 Gas Turbocharged	Gas		
+Ford Edge	SEL FWD	2020	4,664	2.0L Inline-4 Gas Turbocharged	Gas		
+Ford Super Duty F-250	Lariat Crew Cab 6.75' Box 4WD	2020	gthStandard Bed	6.2L V-8 Gas	Gas		
+Ford Super Duty F-250	Platinum Crew Cab 6.75' Box 4WD	2020	gthStandard Bed	6.2L V-8 Gas	Gas		
+Ford Super Duty F-250	XLT Crew Cab 6.75' Box 4WD	2020	gthStandard Bed	6.2L V-8 Gas	Gas		
+Ford Super Duty F-250	Lariat Crew Cab 6.75' Box 4WD	2020	gthStandard Bed	6.2L V-8 Gas	Gas		
+Ford Edge	SEL FWD	2020	4,247	2.0L Inline-4 Gas Turbocharged	Gas		
+Ford Super Duty F-250	Lariat Crew Cab 6.75' Box 4WD	2020	gthStandard Bed	6.2L V-8 Gas	Gas		
+Ford Super Duty F-250	XLT Crew Cab 6.75' Box 4WD	2020	gthStandard Bed	6.2L V-8 Gas	Gas		
+Ford Super Duty F-250	XLT Crew Cab 6.75' Box 4WD	2020	gthStandard Bed	6.2L V-8 Gas	Gas		
+Ford Transit Cargo Van	T-250 148" EL High Roof 9070 GVWR RWD	2020	ightHigh	3.5L V-6 Gas	Gas		
+Ford Super Duty F-250	XL Crew Cab 6.75' Box 4WD	2020	gthStandard Bed	6.2L V-8 Gas	Gas		
+Ford Super Duty F-250	XL Crew Cab 6.75' Box 4WD	2020	gthStandard Bed	6.2L V-8 Gas	Gas		
+Ford Super Duty F-250	XL Crew Cab 6.75' Box 4WD	2020	gthStandard Bed	6.2L V-8 Gas	Gas		
+Ford Super Duty F-250	XL Crew Cab 6.75' Box 4WD	2020	gthStandard Bed	6.2L V-8 Gas	Gas		
+Ford Super Duty F-250	XL Crew Cab 6.75' Box 4WD	2020	gthStandard Bed	6.2L V-8 Gas	Gas		
+Ford Super Duty F-250	XL Crew Cab 6.75' Box 4WD	2020	gthStandard Bed	6.2L V-8 Gas	Gas		
+Ford Super Duty F-250	XL Crew Cab 6.75' Box 4WD	2020	gthStandard Bed	6.2L V-8 Gas	Gas		
+Ford Edge	SEL FWD	2020	7,603	2.0L Inline-4 Gas Turbocharged	Gas		
+Ford Fusion	SEL FWD	2020	11,062	1.5L Inline-4 Gas Turbocharged	Gas		
+Ford Fusion	SEL FWD	2020	14,931	1.5L Inline-4 Gas Turbocharged	Gas		
+Ford Edge	SE FWD	2020	3,699	2.0L Inline-4 Gas Turbocharged	Gas		
+Ford F-150	Lariat SuperCrew 5.5' Box 4WD	2020	gthShort Bed	5.0L V-8 Gas Twin-Turbo	Gas		
+Ford Expedition	Max Limited RWD	2020	41,814	3.5L V-6 Gas Turbocharged	Gas		
+Ford F-150	XLT SuperCrew 5.5' Box 2WD	2020	gthShort Bed	3.5L V-6 Gas Turbocharged	Gas		
+Ford Super Duty F-250	Lariat Crew Cab 6.75' Box 4WD	2020	gthStandard Bed	6.2L V-8 Gas	Gas		
+Ford Escape	SEL FWD	2020	2,852	1.5L Inline-4 Gas Turbocharged	Gas		
+Ford Super Duty F-350	XL Crew Cab 6.75' Box SRW 4WD	2020	gthStandard Bed	6.2L V-8 Gas	Gas		
+Ford Super Duty F-350	XL Crew Cab 6.75' Box SRW 4WD	2020	gthStandard Bed	6.2L V-8 Gas	Gas		
+Ford Super Duty F-250	XLT Crew Cab 6.75' Box 4WD	2020	gthStandard Bed	6.2L V-8 Gas	Gas		
+Ford F-150	King Ranch SuperCrew 5.5' Box 4WD	2020	gthShort Bed	5.0L V-8 Gas	Gas		
+Ford Escape	SE AWD	2020	1,489	1.5L Inline-4 Gas Turbocharged	Gas		
+Ford Super Duty F-250	Lariat Crew Cab 6.75' Box 4WD	2020	gthStandard Bed	6.2L V-8 Gas	Gas		
+Ford Expedition	Max Limited RWD	2020	28,927	3.5L V-6 Gas Turbocharged	Gas		
+Ford Super Duty F-250	XLT Crew Cab 6.75' Box 4WD	2020	gthStandard Bed	6.2L V-8 Gas	Gas		
+Ford Transit Cargo Van	T-250 130" Medium Roof 9070 GVWR AWD	2020	ightMedium	3.5L V-6 Gas	Gas		
+Ford Edge	SEL AWD	2020	10,137	2.0L Inline-4 Gas Turbocharged	Gas		
+Ford F-150	Lariat SuperCrew 5.5' Box 4WD	2020	gthShort Bed	5.0L V-8 Gas Twin-Turbo	Gas		
+Ford Mustang	EcoBoost Premium Convertible	2020	19,878	2.3L Inline-4 Gas Turbocharged	Gas		
+Ford Fusion	SEL FWD	2020	11,451	1.5L Inline-4 Gas Turbocharged	Gas		
+Ford F-150	XLT SuperCrew 5.5' Box 4WD	2020	gthShort Bed	3.5L V-6 Gas Turbocharged	Gas		
+Ford F-150	King Ranch SuperCrew 5.5' Box 4WD	2020	gthShort Bed	3.5L V-6 Gas Turbocharged	Gas		
+Ford Super Duty F-250	Lariat Crew Cab 6.75' Box 4WD	2020	gthStandard Bed	6.2L V-8 Gas	Gas		
+Ford Super Duty F-350	Lariat Crew Cab 6.75' Box SRW 4WD	2020	gthStandard Bed	7.2L V-8 Gas	Gas		
+Ford F-150	XLT SuperCrew 5.5' Box 2WD	2020	gthShort Bed	3.5L V-6 Gas Turbocharged	Gas		
+Ford F-150	XLT SuperCrew 5.5' Box 4WD	2020	gthShort Bed	3.5L V-6 Gas Turbocharged	Gas		
+Ford Transit Passenger Wagon	T-150 XL 130" Medium Roof RWD	2020	ightMedium	3.5L V-6 Gas	Gas		
+Ford Fusion	S FWD	2020	3,012	2.5L Inline-4 Gas	Gas		
+Ford F-150	XL SuperCrew 5.5' Box 4WD	2020	gthShort Bed	5.0L V-8 Gas	Gas		
+Ford Super Duty F-250	Platinum Crew Cab 6.75' Box 4WD	2020	gthStandard Bed	6.2L V-8 Gas	Gas		
+Ford Super Duty F-250	XLT Crew Cab 6.75' Box 4WD	2020	gthStandard Bed	6.2L V-8 Gas	Gas		
+Ford F-150	XLT SuperCrew 5.5' Box 4WD	2020	gthShort Bed	3.5L V-6 Gas Turbocharged	Gas		
+Ford F-150	XLT SuperCrew 5.5' Box 4WD	2020	gthShort Bed	3.5L V-6 Gas Turbocharged	Gas		
+Ford F-150	XLT SuperCab 8' Box 4WD	2020	gthLong Bed	3.5L V-6 Gas Turbocharged	Gas		
+Ford Escape	SE FWD	2020	39,534	1.5L Inline-4 Gas Turbocharged	Gas		
+Ford Fusion	SEL FWD	2020	17,258	1.5L Inline-4 Gas Turbocharged	Gas		
+Ford Edge	SEL FWD	2020	10,348	2.0L Inline-4 Gas Turbocharged	Gas		
+Ford Escape	SE AWD	2020	1,855	1.5L Inline-4 Gas Turbocharged	Gas		
